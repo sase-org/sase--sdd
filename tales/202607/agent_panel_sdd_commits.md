@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-08 18:21:34
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/agent_panel_sdd_commits.md
 ---
 # Show SDD-repo commits in the Agents-tab COMMITS panel
