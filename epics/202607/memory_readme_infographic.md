@@ -1,6 +1,6 @@
 ---
 tier: epic
-status: proposed
+status: done
 ---
 
 # Plan: Self-Maintaining `memory/` README + Infographic
