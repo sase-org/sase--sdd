@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-08 18:35:00
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/fix_failing_ci_jobs.md
 ---
 # Fix Failing GitHub Actions Jobs (sase repo)
