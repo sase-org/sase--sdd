@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-08 18:44:26
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/vcs_log_github_remote_sourcing.md
 ---
 # Plan: Source `sase vcs log` from the GitHub remote, marking local presence
