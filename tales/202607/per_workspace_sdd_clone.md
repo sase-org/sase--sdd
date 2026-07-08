@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-08 15:14:33
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/per_workspace_sdd_clone.md
 ---
 # Plan: Per-workspace SDD clones so coder hand-offs resolve `@.sase/sdd/...`
