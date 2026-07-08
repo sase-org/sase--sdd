@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-08 16:04:39
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/vcs_list.md
 ---
 # Plan: `sase vcs list` — the cross-repo constellation at a glance
