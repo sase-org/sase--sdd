@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-08 16:04:15
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/vcs_log_project_name.md
 ---
 # Plan: `sase vcs log` — show the project name, not the spec-file slug
