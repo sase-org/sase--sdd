@@ -2,7 +2,7 @@
 create_time: 2026-07-08
 bead_id: sase-5l
 tier: epic
-status: planned
+status: done
 research: sdd/research/202607/sase_doctor_diagnostics_consolidated_20260708.md
 ---
 # Plan: Expand `sase doctor` Diagnostic Coverage
