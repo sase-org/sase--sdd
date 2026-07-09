@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-08 22:43:03
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/agents_tab_left_panel_flicker.md
 ---
 # Fix the Agents-tab left-panel flicker
