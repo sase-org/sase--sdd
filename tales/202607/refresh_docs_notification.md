@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-09 12:46:20
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/refresh_docs_notification.md
 ---
 # Plan: Stop the redundant `refresh_docs` chop completion notification
