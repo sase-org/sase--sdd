@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-09 13:04:12
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/sdd_companion_artifact_discovery.md
 ---
 # Plan: Discover agent artifacts & attachments from the separate SDD companion repo
