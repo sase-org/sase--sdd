@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-08 21:11:20
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/automate_sdd_companion_repo.md
 ---
 # Plan: Automate creation of the `<project>--sdd` GitHub companion repository
