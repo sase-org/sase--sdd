@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-09 01:01:59
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/ci_sdd_companion_clone.md
 ---
 # Fix CI `lint` failure: clone the SDD companion repo in the CI environment
