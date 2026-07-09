@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-09 14:23:54
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/vcs_log_default_tags_fetch_ttl.md
 ---
 # Plan: default VCS log tags and throttle remote fetches
