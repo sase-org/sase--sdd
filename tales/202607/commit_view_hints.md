@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-09 12:56:59
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/commit_view_hints.md
 ---
 # Plan: View a Commit's Message + Pretty Diff via the `v` Keymap (Agents tab)
