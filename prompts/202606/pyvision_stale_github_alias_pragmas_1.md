@@ -10,7 +10,7 @@ plan: sdd/tales/202606/pyvision_stale_github_alias_pragmas_1.md
 All scripts/ and tools/ directories are valid!
 
 ---------- Checking for unused Python definitions... ----------
-BD_COMMAND=tools/sase_bead .venv/bin/python tools/pyvision-260608 src/sase
+BD_COMMAND=tools/sase_bead .venv/bin/python tools/pyvision-260708 src/sase
 Error: pyvision pragma in src/sase/project_aliases.py:243: external repository 'https://github.com/sase-org/sase-github.git' does not reference symbol 'allocate_project_alias'
 Error: pyvision pragma in src/sase/project_aliases.py:479: external repository 'https://github.com/sase-org/sase-github.git' does not reference symbol 'ensure_project_alias_locked'
 error: Recipe `_lint-pyvision` failed on line 144 with exit code 1

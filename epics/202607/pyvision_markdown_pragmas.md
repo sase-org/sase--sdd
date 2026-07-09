@@ -13,7 +13,7 @@ prompt: .sase/sdd/prompts/202607/pyvision_markdown_pragmas.md
 `Lint` step. The failed GitHub Actions log for run `28983280362`, job `86006664127`, failed during `just lint` at:
 
 ```bash
-BD_COMMAND=tools/sase_bead .venv/bin/python tools/pyvision-260608 src/sase
+BD_COMMAND=tools/sase_bead .venv/bin/python tools/pyvision-260708 src/sase
 ```
 
 The reported failures were `# pyvision:` pragmas pointing at missing markdown files:
@@ -194,7 +194,7 @@ Steps:
    ```bash
    pyvendor ~/.local/share/chezmoi/home/bin/executable_pyvision .
    ```
-2. Confirm the old `tools/pyvision-260608` was replaced by a new date-stamped `tools/pyvision-YYMMDD`.
+2. Confirm the old `tools/pyvision-260708` was replaced by a new date-stamped `tools/pyvision-YYMMDD`.
 3. Confirm `Justfile` references the new vendored filename.
 4. Review pyvendor's automatic reference updates. It may update filename references in `tools/AGENTS.md` and generated
    provider shims; do not make unrelated policy text edits to those files unless explicitly approved.

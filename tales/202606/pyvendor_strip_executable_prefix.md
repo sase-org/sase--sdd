@@ -44,9 +44,9 @@ workspace and let references move to the unprefixed dated filename.
 5. Re-vendor pyvision into this SASE workspace using the fixed `pyvendor`.
    - Run
      `pyvendor /home/bryan/.local/share/chezmoi/home/bin/executable_pyvision /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10`.
-   - Confirm the generated file is `tools/pyvision-260608`, not `tools/executable_pyvision-260608`.
+   - Confirm the generated file is `tools/pyvision-260708`, not `tools/executable_pyvision-260708`.
    - Confirm the old prefixed dated copy is removed and references in `Justfile`, `tools/AGENTS.md`, and
-     tracked SDD docs move to `pyvision-260608`.
+     tracked SDD docs move to `pyvision-260708`.
 
 6. Validate the vendored SASE result.
    - Compare the vendored script with the chezmoi `executable_pyvision` source, allowing for the inserted provenance

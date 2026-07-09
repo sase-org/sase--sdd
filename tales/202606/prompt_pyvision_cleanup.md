@@ -52,7 +52,7 @@ The appropriate durable fix is:
 Edit `Justfile` `_lint-pyvision` so it invokes:
 
 ```bash
-BD_COMMAND=tools/sase_bead {{ venv_bin }}/python tools/pyvision-260608 src/sase
+BD_COMMAND=tools/sase_bead {{ venv_bin }}/python tools/pyvision-260708 src/sase
 ```
 
 with no `--epic-symbol` entries for the now-closed `sase-4o` epic.
@@ -135,5 +135,5 @@ just check
 
 - Do not add `# pyvision:` pragmas for test-only references.
 - Do not reintroduce closed-epic pyvision allowances.
-- Do not edit the vendored `tools/pyvision-260608` script.
+- Do not edit the vendored `tools/pyvision-260708` script.
 - Do not move prompt-history behavior into Rust core; this is a Python API hygiene fix, not a backend behavior change.

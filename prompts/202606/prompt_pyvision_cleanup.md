@@ -8,7 +8,7 @@ plan: sdd/tales/202606/prompt_pyvision_cleanup.md
 ┌───────────────────────────────────────────────────────┐
 │                RUNNING: just pyvision                 │
 └───────────────────────────────────────────────────────┘
-BD_COMMAND=tools/sase_bead .venv/bin/python tools/pyvision-260608 src/sase 
+BD_COMMAND=tools/sase_bead .venv/bin/python tools/pyvision-260708 src/sase 
 Unused public functions/classes. Make these private if they are used only within the file they are defined. If the functions/classes are completely unused, you should delete them:
   PromptAmbiguousError in src/sase/history/prompt.py
   PromptNotFoundError in src/sase/history/prompt.py
