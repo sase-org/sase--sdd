@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-09 13:16:45
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/agent_derived_at_suffixes.md
 ---
 # Plan: Use `@` Templates for Derived Agent Names
