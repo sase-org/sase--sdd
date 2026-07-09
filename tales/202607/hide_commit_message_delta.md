@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-09 13:27:02
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/hide_commit_message_delta.md
 ---
 # Hide `commit_message.md` from Agent Deltas
