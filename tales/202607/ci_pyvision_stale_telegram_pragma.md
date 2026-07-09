@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-09 10:53:30
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/ci_pyvision_stale_telegram_pragma.md
 ---
 # CI Pyvision Stale Telegram Pragma Plan
