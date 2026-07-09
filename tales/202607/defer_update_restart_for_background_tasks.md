@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-09 12:31:58
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/defer_update_restart_for_background_tasks.md
 ---
 # Plan: Defer Update Restart Until Background Tasks Finish
