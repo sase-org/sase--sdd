@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-09 11:40:08
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/pyvision_memory.md
 ---
 # Plan: Add a `memory/pyvision.md` long-term memory for fixing pyvision errors
