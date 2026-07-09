@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-08 20:45:50
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/xprompt_swarms.md
 ---
 # Rename multi-agent xprompts to xprompt swarms
