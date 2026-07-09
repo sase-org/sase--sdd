@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-09 13:52:52
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/multi_commit_view_navigation.md
 ---
 # Plan: Multi-Commit Navigation in the Commit View Modal
