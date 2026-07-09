@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-09 02:39:14
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/sdd_repo_rename.md
 ---
 # Rename SDD Companion Repo to `sase--sdd`
