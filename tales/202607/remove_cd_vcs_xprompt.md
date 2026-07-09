@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-09 15:11:47
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/remove_cd_vcs_xprompt.md
 ---
 # Remove the `#cd` VCS XPrompt Workflow
