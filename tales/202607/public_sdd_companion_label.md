@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-08 21:56:03
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/public_sdd_companion_label.md
 ---
 # Plan: Public SDD companion repos and idempotent `sase--sdd` GitHub label
