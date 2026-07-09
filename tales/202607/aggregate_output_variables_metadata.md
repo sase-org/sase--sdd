@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-08 21:18:04
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/aggregate_output_variables_metadata.md
 ---
 # Plan: Aggregate agent-child SASE variables in the agent metadata panel
