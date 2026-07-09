@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-09 13:20:16
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/vcs_log_sase_tags.md
 ---
 # Plan: Opt-in SASE Commit Tags in `sase vcs log`
