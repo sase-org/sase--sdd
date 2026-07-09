@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-09 14:52:23
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/xprompts_memory.md
 ---
 # Plan: Add `memory/xprompts.md` long-term memory note
