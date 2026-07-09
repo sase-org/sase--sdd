@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-09 10:53:56
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/github_actions_publish_fix.md
 ---
 # Fix sase-github Publish Workflow Failures
