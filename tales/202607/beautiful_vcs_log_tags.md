@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-09 14:02:05
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/beautiful_vcs_log_tags.md
 ---
 # Plan: Make `sase vcs log` SASE Tags Beautiful
