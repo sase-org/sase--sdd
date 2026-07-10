@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 16:19:55
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/codex_at_capacity_retry.md
 ---
 # Plan: Retry Codex "Selected model is at capacity" Failures by Default
