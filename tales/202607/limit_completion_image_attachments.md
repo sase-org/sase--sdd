@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 10:33:25
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/limit_completion_image_attachments.md
 ---
 # Plan: Limit Agent Completion Image Attachments
