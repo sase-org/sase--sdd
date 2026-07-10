@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 19:26:14
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/sdd_artifact_attribution.md
 ---
 # Fix SDD Companion-Repo Artifact Attribution on Agent Completion
