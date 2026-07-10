@@ -2,6 +2,8 @@
 status: proposed
 create_time: 2026-07-10 16:56:47
 prompt: .sase/sdd/prompts/202607/fakey_provider.md
+bead_id: sase-5o
+tier: epic
 ---
 
 # Plan: `fakey` — a first-class fake agent CLI provider for testing launches, failures, and retries
