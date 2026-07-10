@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 17:49:36
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/model_override_until_time.md
 ---
 # Models Panel: Override Until a Specific Time
