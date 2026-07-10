@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 10:51:49
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/vcs_log_all_projects.md
 ---
 # Plan: Add all-project scope to `sase vcs log`
