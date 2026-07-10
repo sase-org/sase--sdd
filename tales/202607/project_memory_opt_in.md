@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 18:54:57
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/project_memory_opt_in.md
 ---
 # Project-local opt-in for SASE-managed memory and agent instructions
