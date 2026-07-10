@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 09:34:35
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/fix_ci_git_identity.md
 ---
 # Fix CI Git Identity Failures
