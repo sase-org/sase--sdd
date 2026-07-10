@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 15:47:03
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/changespec_project_name_query.md
 ---
 # Make ChangeSpec project queries respect `PROJECT_NAME`
