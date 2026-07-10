@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 19:32:49
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/init_all_active_projects.md
 ---
 # Plan: Add `sase init --all` for Every Active Main Project
