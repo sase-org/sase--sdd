@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 15:24:22
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/wait_deps_never_cancel.md
 ---
 # Waiting Agents Must Never Fail Because a Dependency Failed
