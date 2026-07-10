@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 11:21:09
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/remove_wait_time_shape_validation.md
 ---
 # Plan: Treat Every Positional `%wait` Value as an Agent Dependency
