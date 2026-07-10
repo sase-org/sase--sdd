@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 09:56:38
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/axe_status_badge.md
 ---
 # Plan: Label the AXE Status Pill in the TUI Footer
