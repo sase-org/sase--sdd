@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 18:55:21
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/fakey_marker_collision_test_and_close_epic.md
 ---
 # Plan: Add the missing fakey marker-collision regression test and close the sase-5o epic
