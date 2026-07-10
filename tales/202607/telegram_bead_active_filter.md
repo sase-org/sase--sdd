@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 14:45:34
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/telegram_bead_active_filter.md
 ---
 # Keep Telegram `/bead` Results Active-Only
