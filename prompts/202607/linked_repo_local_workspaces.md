@@ -11,3 +11,15 @@ plan: .sase/sdd/tales/202607/linked_repo_local_workspaces.md
 Think this through thoroughly and create a plan using your `/sase_plan` skill. Submit your plan with the
 `sase plan propose` command (as the skill instructs) before making any file changes.
  
+
+%xprompts_enabled:false
+### Questions and Answers
+
+#### Q1: Memory files
+
+> May I regenerate the protected memory files and generated provider instruction shims required by the approved linked-repo plan?
+
+- [x] **Yes, regenerate** — Update generated memory and shims so validation can pass.
+- [ ] **No, leave unchanged** — Implement everything else and report the expected validation drift.
+
+%xprompts_enabled:true
