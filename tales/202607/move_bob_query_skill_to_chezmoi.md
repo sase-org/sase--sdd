@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 13:11:45
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/move_bob_query_skill_to_chezmoi.md
 ---
 # Move and Rename the Bob Query XPrompt Skill
