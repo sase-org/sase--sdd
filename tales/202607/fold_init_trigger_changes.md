@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-11 09:59:39
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/fold_init_trigger_changes.md
 ---
 # Fold `sase init` trigger changes into generated commits
