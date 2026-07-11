@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-11 09:25:08
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/fix_sase_plan_tag_separate_repo.md
 ---
 # Fix Missing `SASE_PLAN` Commit Tag for Separate-Repo (Companion) SDD Stores
