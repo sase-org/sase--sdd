@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202604/changes_commands.md
+plan: sdd/plans/202604/changes_commands.md
 ---
   Can you help me add a new /changes Telegram slash command that lists all (not submitted, archived or reverted) ChangeSpecs as copy buttons which copies the appropriate VCS xprompt workflow tag (ex: #hg:foobar)?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/help_output_sort_color.md
+plan: sdd/plans/202606/help_output_sort_color.md
 ---
  Can you help me improve the `sase -h|--help` output?
 

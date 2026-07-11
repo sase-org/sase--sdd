@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/prs_tab_onboarding.md
+plan: sdd/plans/202607/prs_tab_onboarding.md
 ---
  We currently show a good onboarding page on the "Agents" tab when there are no agents to display. Can you help me start showing a good onboarding page on the PRs tab when the default query has no results?
 

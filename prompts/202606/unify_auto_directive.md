@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/unify_auto_directive.md
+plan: sdd/plans/202606/unify_auto_directive.md
 ---
  Can you help me migrate the `%plan`, `%tale`, and `%epic` directives to a single `%auto` directive?
 

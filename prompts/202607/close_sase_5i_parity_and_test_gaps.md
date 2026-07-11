@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/close_sase_5i_parity_and_test_gaps.md
+plan: sdd/plans/202607/close_sase_5i_parity_and_test_gaps.md
 ---
 
 

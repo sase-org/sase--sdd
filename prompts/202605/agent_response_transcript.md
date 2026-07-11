@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/agent_response_transcript.md
+plan: sdd/plans/202605/agent_response_transcript.md
 ---
  The user sent an image via Telegram with the following caption:
 

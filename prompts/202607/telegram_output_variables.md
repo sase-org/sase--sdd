@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/telegram_output_variables.md
+plan: sdd/plans/202607/telegram_output_variables.md
 ---
  When agents that used the /sase_var skill complete, it would be great if we could display the variables that were set in the Telegram agent completion message that gets sent. Can you help me implement this?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/plugin_catalog_verification.md
+plan: sdd/plans/202606/plugin_catalog_verification.md
 ---
 
 

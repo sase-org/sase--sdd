@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/project_management_inactive_vcs_launch.md
+plan: sdd/plans/202606/project_management_inactive_vcs_launch.md
 ---
  Can you help me add a new `<ctrl+x>` keymap to the "Project Management" panel in the TUI? When this key map is
 used all inactive projects should become visible in that panel with an indicator next to them to show that they are

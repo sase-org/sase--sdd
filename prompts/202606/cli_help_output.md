@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/cli_help_output.md
+plan: sdd/plans/202606/cli_help_output.md
 ---
  Can you help me make some improvements to sase's command line help output?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/prompt_command.md
+plan: sdd/plans/202606/prompt_command.md
 ---
  Can you help me implement a new `sase prompt` command? See the sdd/research/202606/sase_prompt_command_consolidated.md file for context and inspiration. Be ambitious but pragmatic (make sure every feature you add to this command solves at least one user problem). I want you to lead the design on this one. Make sure you design this feature so it is intuitive, reliable, and (last but not least) beautiful!
 

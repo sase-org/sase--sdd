@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/deferred_workspace_env_leak.md
+plan: sdd/plans/202605/deferred_workspace_env_leak.md
 ---
  Agents keep failing with the following error:
 ```

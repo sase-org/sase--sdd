@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202604/deltas_field.md
+plan: sdd/plans/202604/deltas_field.md
 ---
  I want to add a new DELTAS ChangeSpec field that contains a list of all of the files that the ChangeSpec added, modified, or deleted.
 

@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/commit_hooks.md
+plan: .sase/sdd/plans/202607/commit_hooks.md
 ---
  sase already supports a project-local `precommit_command` configuration field that specifies a command that should be run before the `sase commit` command makes a git commit. Can you help me add a new config field that does the same thing but runs the command after the commit has been created and pushed?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/blazing_fast_ace_daemon.md
+plan: sdd/plans/202605/blazing_fast_ace_daemon.md
 ---
  #resume:z9 Can you help me address the issues uncovered by previous agents? Don't be afraid to be bold and make large changes if they are truly justified for the sake of blazing fast performance.
 

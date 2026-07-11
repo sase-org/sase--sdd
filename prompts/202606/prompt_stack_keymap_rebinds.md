@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/prompt_stack_keymap_rebinds.md
+plan: sdd/plans/202606/prompt_stack_keymap_rebinds.md
 ---
  #fork:9e.f1.f2.f1  It doesn't seem like any of these four keymaps actually work. I'm thinking
 this is because the triggers we've chosen do not actually get detected in the terminal.

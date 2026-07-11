@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/vcs_log_all_projects.md
+plan: .sase/sdd/plans/202607/vcs_log_all_projects.md
 ---
  Can you help me add a new `-a|--all` option to the `sase vcs log` command (switch to using `-A` as the short option for `--author`)?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/gai_org_ideas_research.md
+plan: sdd/plans/202605/gai_org_ideas_research.md
 ---
   Can you review every file that references gai (an old name for sase) in the ~/org/ directory for good ideas that you think we should implement? This should be a multi-agent, multi-phase effort. The result of this work should be a single, polished (but not too large) sdd/research/  markdown file.
 

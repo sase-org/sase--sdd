@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/phase7_notification_perf.md
+plan: sdd/plans/202605/phase7_notification_perf.md
 ---
  GitHub Actions is failing with the below error. Can you help me diagnose the root cause of this issue and fix it? Do not lower the expected performance expectations. Do what needs to be done to make things faster if necessary and then verify that the benchmark GitHub Actions workflow passes. This is a large piece of work that should be split into phases. I'll let you decide how many phases to create, but
 keep in mind that each phase will be completed by a distinct agent instance (i.e. a distinct `claude` / `gemini` /

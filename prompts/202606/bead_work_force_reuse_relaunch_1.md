@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/bead_work_force_reuse_relaunch_1.md
+plan: sdd/plans/202606/bead_work_force_reuse_relaunch_1.md
 ---
  When I just tried to re-launch the sase-4q epic using the `sase bead work sase-4q -y` command (see the output below) I got an error because those agent names exist. Can you help me make it so we always use the special `!` agent name suffix so we always overwrite the old phase/land agents, if any exist)? Think this through thoroughly and create a plan using your `/sase_plan` skill. Submit your plan with the
 `sase plan propose` command (as the skill instructs) before making any file changes.

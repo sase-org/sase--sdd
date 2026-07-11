@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/jump_to_definition_keymap.md
+plan: sdd/plans/202606/jump_to_definition_keymap.md
 ---
   Can you help me add support for a new `<ctrl+]>` normal-mode keymap to the prompt input widget?
 

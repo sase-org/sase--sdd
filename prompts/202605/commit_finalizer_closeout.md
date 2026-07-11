@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/commit_finalizer_closeout.md
+plan: sdd/plans/202605/commit_finalizer_closeout.md
 ---
 
 

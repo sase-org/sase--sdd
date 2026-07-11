@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/fix_ctrl_n_vcs_mru_cycling.md
+plan: sdd/plans/202606/fix_ctrl_n_vcs_mru_cycling.md
 ---
  We recently changed the way the `<ctrl+n>` keymap works in the prompt input widget. Namely, we made it so it
 always clears the VCS xprompt workflow instead of cycling to the next VCS xprompt workflow in our list of recently used

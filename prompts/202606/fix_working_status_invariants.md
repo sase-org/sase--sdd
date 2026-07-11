@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/fix_working_status_invariants.md
+plan: sdd/plans/202606/fix_working_status_invariants.md
 ---
  We recently added the new `WORKING` agent statuses, but we broke some invariants along the way. Namely:
 

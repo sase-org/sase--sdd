@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/daemon_rpc_timeout.md
+plan: sdd/plans/202605/daemon_rpc_timeout.md
 ---
  It looks like the sase daemon is having an issue with RPCs (see the below output of the `sase daemon doctor` command). Can you help me diagnose the root cause of this issue and fix it? Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.
 

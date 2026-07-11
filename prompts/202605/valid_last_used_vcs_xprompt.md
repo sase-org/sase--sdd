@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/valid_last_used_vcs_xprompt.md
+plan: sdd/plans/202605/valid_last_used_vcs_xprompt.md
 ---
  We recently fixed the `@` keymap so invalid projects will now never be shown. Can you help me do the same for the last used VCS xprompt workflow (used by the `<space>` keymap)? This should prevent errors like those shown in the `sase ace` snapshot below. Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.
 

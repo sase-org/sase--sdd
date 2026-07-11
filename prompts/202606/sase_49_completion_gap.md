@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/sase_49_completion_gap.md
+plan: sdd/plans/202606/sase_49_completion_gap.md
 ---
 
 

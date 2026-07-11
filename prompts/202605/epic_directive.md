@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/epic_directive.md
+plan: sdd/plans/202605/epic_directive.md
 ---
  Can you help me add a new %epic directive?
 

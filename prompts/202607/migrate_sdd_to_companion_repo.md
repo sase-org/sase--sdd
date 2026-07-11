@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/migrate_sdd_to_companion_repo.md
+plan: sdd/plans/202607/migrate_sdd_to_companion_repo.md
 ---
  We recently migrated the GitHub VCS provider to use a separate repo for SDD files. Can you help me verify that the sase-org/sdd repo exists, has been properly initialized, will be used to commit future sdd files, and the SDD files that used to be local to this repo have been migrated over to that repo? If not, use your /sase_plan skill to plan the appropriate changes.
  You should be able to create the GitHub repo using the gh command line utility, I think. 

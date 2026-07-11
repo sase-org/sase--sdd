@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/home_provider_shim_refs.md
+plan: sdd/plans/202606/home_provider_shim_refs.md
 ---
  It doesn't seem like claude sase agents ever read the `~/memory/long/obsidian.md` file (which they should be
 told to do by the ~/CLAUDE.md file). See the sase agent named "33" for an example of an agent that should have probably

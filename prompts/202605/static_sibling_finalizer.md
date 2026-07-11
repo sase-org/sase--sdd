@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/static_sibling_finalizer.md
+plan: sdd/plans/202605/static_sibling_finalizer.md
 ---
  This agent (see the `sase ace` snapshot below) failed because it left uncommitted changes (which were created by a different agent that was still running) in my chezmoi repo. Can you help me fix this by only failing with this error when changes are left in a sibling repo that does NOT have `workspace.strategy` set to `none` (like my chezmoi sibling repo does)? Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.
 

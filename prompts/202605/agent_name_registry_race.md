@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/agent_name_registry_race.md
+plan: sdd/plans/202605/agent_name_registry_race.md
 ---
  Can you help me understand what went wrong with this agent (see the `sase ace` snapshot below) and fix the issue? Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/prompt_search_completion.md
+plan: sdd/plans/202606/prompt_search_completion.md
 ---
 
 

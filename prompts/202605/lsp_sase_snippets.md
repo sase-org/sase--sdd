@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/lsp_sase_snippets.md
+plan: sdd/plans/202605/lsp_sase_snippets.md
 ---
   Can you help me integrate sase snippets into the LSP server? The goal is to allow editors like nvim to have access to all of the same snippets that the prompt input widget has access to.
 

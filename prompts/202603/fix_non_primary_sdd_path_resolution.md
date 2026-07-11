@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202603/fix_non_primary_sdd_path_resolution.md
+plan: sdd/plans/202603/fix_non_primary_sdd_path_resolution.md
 ---
 I just used the `c` (commit) option to commit a plan file on a remote machine for a project that does not have
 `sdd.version_controlled` set. The plan was saved to the

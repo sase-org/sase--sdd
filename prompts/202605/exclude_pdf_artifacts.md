@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/exclude_pdf_artifacts.md
+plan: sdd/plans/202605/exclude_pdf_artifacts.md
 ---
  We should never include PDFs in the ARTIFACTS field (see the `sase ace` snapshot below for context). Can you help me diagnose the root cause of this issue and fix it? Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.
 

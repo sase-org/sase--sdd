@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/fix_kitty_placeholder_coordinates.md
+plan: sdd/plans/202605/fix_kitty_placeholder_coordinates.md
 ---
  #resume:afk.code.r1.code That didn't  fix it. In fact, it made it worse. I cnan'tsee an image at all now (see the `sase ace` snapshot below). Can you help me diagnose the root cause of this issue and fix it? Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.
 

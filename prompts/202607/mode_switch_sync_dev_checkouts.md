@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/mode_switch_sync_dev_checkouts.md
+plan: sdd/plans/202607/mode_switch_sync_dev_checkouts.md
 ---
  When the `m` (switch) keymap is used on the "Updates" tab of the "SASE Admin Center" panel to switch from the
 PyPI versions of installed sase packages to the corresponding dev/editable versions of those packages, we should be

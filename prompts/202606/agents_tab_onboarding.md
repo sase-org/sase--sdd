@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/agents_tab_onboarding.md
+plan: sdd/plans/202606/agents_tab_onboarding.md
 ---
  Can you help me add a new onboarding view that shows?:
 

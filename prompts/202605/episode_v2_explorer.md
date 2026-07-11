@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/episode_v2_explorer.md
+plan: sdd/plans/202605/episode_v2_explorer.md
 ---
  Can you help me rewrite and re-conceptualize sase's episodes in preparation for supporting sdd/events/?
 

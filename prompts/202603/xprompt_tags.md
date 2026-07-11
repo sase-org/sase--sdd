@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202603/xprompt_tags.md
+plan: sdd/plans/202603/xprompt_tags.md
 ---
 #gh:sase Can you help me add support for "xprompt tags" that mark certain xprompts as special?
 

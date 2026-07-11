@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/git_home_auto_init.md
+plan: sdd/plans/202605/git_home_auto_init.md
 ---
  The `#git` VCS xprompt workflow is supposed to initialize the bare git repo if it doesn't exist yet. Can you help me fix this (see the `sase ace` snapshot below)? Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.
 

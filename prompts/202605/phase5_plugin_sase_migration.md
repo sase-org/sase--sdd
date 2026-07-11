@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/phase5_plugin_sase_migration.md
+plan: sdd/plans/202605/phase5_plugin_sase_migration.md
 ---
 
 

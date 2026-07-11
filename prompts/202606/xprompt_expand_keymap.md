@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/xprompt_expand_keymap.md
+plan: sdd/plans/202606/xprompt_expand_keymap.md
 ---
  Can you help me add a new `<ctrl+i>` keymap to the "Select XPrompt" panel that is shown when `#@` is pressed in the prompt input widget?
 

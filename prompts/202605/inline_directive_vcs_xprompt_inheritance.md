@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/inline_directive_vcs_xprompt_inheritance.md
+plan: sdd/plans/202605/inline_directive_vcs_xprompt_inheritance.md
 ---
  The user sent an image via Telegram with the following caption:
 

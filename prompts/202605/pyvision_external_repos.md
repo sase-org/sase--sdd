@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/pyvision_external_repos.md
+plan: sdd/plans/202605/pyvision_external_repos.md
 ---
  Can you help me add support to pyvision (defined in my chezmoi repo) for checking for references in external
 repos? Once pyvision has the necessary functionality you should completely obsolete and remove the

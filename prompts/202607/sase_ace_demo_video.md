@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/sase_ace_demo_video.md
+plan: sdd/plans/202607/sase_ace_demo_video.md
 ---
  Can you help me create sase's first demo video using `vhs` (which is already installed on this machine)?
 

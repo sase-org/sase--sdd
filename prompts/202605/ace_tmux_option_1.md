@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/ace_tmux_option_1.md
+plan: sdd/plans/202605/ace_tmux_option_1.md
 ---
   I want to add a new `--tmux` option to the `sase ace` command that allows agents to run the
 `sase ace` command in a new tmux window named `sase_tmux_<N>`, where `<N>` is the first available (parallel agents might

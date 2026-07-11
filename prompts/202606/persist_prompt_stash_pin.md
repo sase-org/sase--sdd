@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/persist_prompt_stash_pin.md
+plan: sdd/plans/202606/persist_prompt_stash_pin.md
 ---
  #fork:05m Can you now help me make the `<space>` functionality persist across restarts (of `sase ace` or even this machine)?
 

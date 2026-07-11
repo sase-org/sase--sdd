@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/amd_command.md
+plan: sdd/plans/202605/amd_command.md
 ---
  Can you help me add a new `sase amd` command and corresponding `amd_h1_title: <H1 Section Title for AGENTS.md>`
 project-local sase.yml configuration field?

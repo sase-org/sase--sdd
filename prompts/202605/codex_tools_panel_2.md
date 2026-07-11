@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/codex_tools_panel_2.md
+plan: sdd/plans/202605/codex_tools_panel_2.md
 ---
  Can you help me add support to Codex for sase's new Tools panel on the "Agents" tab of the `sase ace` TUI?
 This is a large piece of work that should be split into phases. I'll let you decide how many phases to create, but

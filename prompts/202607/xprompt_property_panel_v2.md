@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/xprompt_property_panel_v2.md
+plan: .sase/sdd/plans/202607/xprompt_property_panel_v2.md
 ---
  Can you help me make the xprompt property panel that is displayed above the top prompt input widget on the stack of prompt input widgets much easier to use? The goal is to make it so easy to create and modify xprompts (and normal user prompts which have the exact same shape) from the TUI that there is no justifiable reason that the user would want to use their editor to do so aside from familiarity.
 

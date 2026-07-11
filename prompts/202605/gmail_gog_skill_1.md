@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/gmail_gog_skill_1.md
+plan: sdd/plans/202605/gmail_gog_skill_1.md
 ---
  Can you help me give sase agents access to my email using the `gog` tool, which is already installed, configured, and verified to be working on this machine? See the ~/projects/git/home/sdd/research/202605/sase-gmail-agent-access.md file, which contains research performed by previous agents, for context and inspiration.
 

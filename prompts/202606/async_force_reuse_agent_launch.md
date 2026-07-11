@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/async_force_reuse_agent_launch.md
+plan: sdd/plans/202606/async_force_reuse_agent_launch.md
 ---
  We currently already run all of the work that could potentially block the TUI when launching agents in a
 background task. However when we use the `%name:!<name>` syntax to overwrite an existing agent `<name>`, that takes a

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/codex_commit_stop_hook_fallback.md
+plan: sdd/plans/202605/codex_commit_stop_hook_fallback.md
 ---
  Why didn't this agent (see the `sase ace` snapshot below) create a commit? The sase_commit_stop_hook should
 have asked Codex to commit its changes if it was the one who made them. Can you help me diagnose the root cause of this

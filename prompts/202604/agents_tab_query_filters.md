@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202604/agents_tab_query_filters.md
+plan: sdd/plans/202604/agents_tab_query_filters.md
 ---
  The user sent an image via Telegram with the following caption:
 

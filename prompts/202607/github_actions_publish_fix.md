@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/github_actions_publish_fix.md
+plan: .sase/sdd/plans/202607/github_actions_publish_fix.md
 ---
  GitHub Actions is failing for the sase-github repo. Can you run the `actstat` command to get more information about
 the failing jobs, diagnose the root cause of these failures, and then fix them? Think this through thoroughly and create a plan using your `/sase_plan` skill. Submit your plan with the

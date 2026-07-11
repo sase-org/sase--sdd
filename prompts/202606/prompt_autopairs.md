@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/prompt_autopairs.md
+plan: sdd/plans/202606/prompt_autopairs.md
 ---
  We recently added support to the prompt input widget for auto-adding and auto-removing the `}` that ends our alternation short-hand syntax. Can you help me generalize this support so we support auto-adding / auto-removing the following characters in any and every case where it is safe to do so (see https://github.com/windwp/nvim-autopairs for a project that implements something similar for nvim--our implementation doesn't need to be so complex/configurable though)?: ', ", `, (), [], {}
 

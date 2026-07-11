@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/sase_5a_remaining.md
+plan: sdd/plans/202606/sase_5a_remaining.md
 ---
 
 

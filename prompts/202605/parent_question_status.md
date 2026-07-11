@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/parent_question_status.md
+plan: sdd/plans/202605/parent_question_status.md
 ---
  This main / parent agent entry (see the `sase ace` snapshot below) should be marked as "QUESTION", not "PLAN
 DONE" (no plan was even proposed). This question was asked by a coder agent after I already approved the plan, so it

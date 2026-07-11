@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/flatten_memory_nested_long.md
+plan: sdd/plans/202606/flatten_memory_nested_long.md
 ---
  Can you help me flatten sase's memory/ directory while also adding support for nested long-term memory files (e.g. hub
 memory note files that link to other memory note files)?

@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/sase_update_and_plugin_install.md
+plan: sdd/plans/202606/sase_update_and_plugin_install.md
 ---
  Can you help me add a new `sase update` command?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/metadata_panel_dynamic_fields_header.md
+plan: sdd/plans/202605/metadata_panel_dynamic_fields_header.md
 ---
  Can you help me add a nice header above dynamic fields that are shown on the agent metadata panel on the "Agents" tab of the `sase ace` TUI? For example, in the below `sase ace` snapshot, the header would go above the line starting with "Commit Message:". Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.
   

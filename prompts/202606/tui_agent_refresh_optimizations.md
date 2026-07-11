@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/tui_agent_refresh_optimizations.md
+plan: sdd/plans/202606/tui_agent_refresh_optimizations.md
 ---
  #fork:research.final-19 Can you now help me perform all of the more consequential (use your best judgement here and validate all findings that you use from prior research) changes / optimizations recommended in the research markdown file created by the previous agent?
 

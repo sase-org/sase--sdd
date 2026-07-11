@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/artifacts_keymap.md
+plan: sdd/plans/202605/artifacts_keymap.md
 ---
  Can you help me generalize the `V` (view image) keymap on the "Agents" tab of the `sase ace` TUI?
 

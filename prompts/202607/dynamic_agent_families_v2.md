@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202607/dynamic_agent_families_v2.md
+plan: sdd/plans/202607/dynamic_agent_families_v2.md
 ---
   Can you help me implement v2 of dynamic agent families?
 

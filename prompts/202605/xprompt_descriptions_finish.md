@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/xprompt_descriptions_finish.md
+plan: sdd/plans/202605/xprompt_descriptions_finish.md
 ---
     Can you help me verify that all the work associated with the bead with ID sase-3w is complete?
 

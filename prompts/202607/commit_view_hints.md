@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/commit_view_hints.md
+plan: .sase/sdd/plans/202607/commit_view_hints.md
 ---
  Can you help me add support to the `v` (view) keymap on the "Agents" tab of the `sase ace` TUI for "COMMITS:" field (in the agent metadata panel) commit entries?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/prompt_history_tui.md
+plan: sdd/plans/202606/prompt_history_tui.md
 ---
  Can you help me improve the prompt history functionality provided by the TUI's prompt input widget?
 

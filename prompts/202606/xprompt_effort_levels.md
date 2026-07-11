@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/xprompt_effort_levels.md
+plan: sdd/plans/202606/xprompt_effort_levels.md
 ---
  I want to be able to specify an effort level (ex: "xhigh") when I specify a model / LLM provider in xprompts. Can you help me implement this? See the below bullets for extra requirements. See the the sdd/research/202606/xprompt_thinking_level_consolidated.md file, which contains related research performed by another agent, for context and inspiration.
 

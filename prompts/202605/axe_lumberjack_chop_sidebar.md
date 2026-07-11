@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/axe_lumberjack_chop_sidebar.md
+plan: sdd/plans/202605/axe_lumberjack_chop_sidebar.md
 ---
   I want to remove the axe sidebar entry on the AXE tab and instead start having lumberjacks as main entries that have chops as child entries.
 

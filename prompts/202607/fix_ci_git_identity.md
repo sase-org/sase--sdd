@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/fix_ci_git_identity.md
+plan: .sase/sdd/plans/202607/fix_ci_git_identity.md
 ---
  GitHub Actions is failing for the sase repo. Can you run the `actstat` command to get more information about
 the failing jobs, diagnose the root cause of these failures, and then fix them? NOTE: I'm pretty sure the beads-backend failure was resolved by fixing the clippy errors in sase-core already.

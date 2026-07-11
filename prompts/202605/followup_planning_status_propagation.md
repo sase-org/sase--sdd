@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/followup_planning_status_propagation.md
+plan: sdd/plans/202605/followup_planning_status_propagation.md
 ---
  This agent (see the `sase ace` snapshot below) just proposed a plan, so it (and the parent root entry) should be marked with the "PLANNING" status, not "RUNNING". Note that the "oo.plan" agent proposed a plan that I left feedback on, which is what triggered the launch of the "oo.2" agent. Can you help me diagnose the root cause of this issue and fix it? Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.
   

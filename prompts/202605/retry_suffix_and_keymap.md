@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/retry_suffix_and_keymap.md
+plan: sdd/plans/202605/retry_suffix_and_keymap.md
 ---
  Can you help me improve sase's agent "retry" concept?
 

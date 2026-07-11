@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/indexed_agent_names.md
+plan: sdd/plans/202605/indexed_agent_names.md
 ---
  I want to be able to start naming and referring to agents using an input argument of `foobar-@` for the
 `n`/`name` directive and `foobar-@` as an input argument the `w`/`wait` directive and `#resume`.

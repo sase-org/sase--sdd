@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/non_agent_child_model_badges.md
+plan: sdd/plans/202605/non_agent_child_model_badges.md
 ---
  Can you help me stop showing the "Model:" field in the agent metadata panel on the "Agents" tab of the
 `sase ace` TUI (and stop adding the LLM provider emoji to the agent row) for non-agent child entries? For example, in

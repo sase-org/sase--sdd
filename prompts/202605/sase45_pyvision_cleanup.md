@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/sase45_pyvision_cleanup.md
+plan: sdd/plans/202605/sase45_pyvision_cleanup.md
 ---
 
 

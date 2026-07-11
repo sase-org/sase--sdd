@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/create_prompt_snippet_option.md
+plan: sdd/plans/202606/create_prompt_snippet_option.md
 ---
  Can you help me add a new `Create a new snippet...` option to the menu that pops up when the `gx` / `<ctrl+g>x` keymaps are used from the prompt input widget?
 

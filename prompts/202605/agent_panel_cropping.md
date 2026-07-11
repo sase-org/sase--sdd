@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/agent_panel_cropping.md
+plan: sdd/plans/202605/agent_panel_cropping.md
 ---
  There is no agent shown in the `#chop` dynamic agent panel (see the `sase ace` snapshot below). Also, the `(untagged)` panel should only be cropped (i.e. have a scrollbar) when it would take up more than half of the available height (otherwise, crop the other agent panels if necessary, but don't crop the `(untagged)` agent panel). Can you help me implement this change? Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.
 

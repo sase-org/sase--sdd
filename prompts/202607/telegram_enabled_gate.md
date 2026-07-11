@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/telegram_enabled_gate.md
+plan: sdd/plans/202607/telegram_enabled_gate.md
 ---
  Can you help me start having the outbound and inbound chops of the sase-telegram plugin start checking for the existence of a ~/.sase/telegram_is_enabled file?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/agent_name_completion.md
+plan: sdd/plans/202606/agent_name_completion.md
 ---
  #fork:05n.w1.w1.f1 Can you now help me add this same type of completion for the `%wait` directive and the `#fork` xprompt?
 

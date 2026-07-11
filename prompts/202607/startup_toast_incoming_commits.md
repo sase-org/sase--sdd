@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/startup_toast_incoming_commits.md
+plan: sdd/plans/202607/startup_toast_incoming_commits.md
 ---
  Can you help me start showing all of the new commits that will be added (from all repos) if the user updates sase in the toast that displays on startup if updates are available (see #sshot for an idea of what this toast looks like currently)?
 

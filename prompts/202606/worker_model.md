@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/worker_model.md
+plan: sdd/plans/202606/worker_model.md
 ---
  Can you help me add a brand new concept of a secondary default model to SASE?
 

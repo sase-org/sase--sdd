@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/worker_models_mapping.md
+plan: sdd/plans/202606/worker_models_mapping.md
 ---
  Can you help me change the way the `worker_model` config works?
 

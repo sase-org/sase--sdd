@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/jump_to_stopped_agents.md
+plan: sdd/plans/202605/jump_to_stopped_agents.md
 ---
  Can you help me add a new `,J` keymap to the agents tab that works like the `,j` keymap except for that it
 jumps to the most recently stopped agent row (instead of unread)? Since stopped agents shouldn't be unstopped when the

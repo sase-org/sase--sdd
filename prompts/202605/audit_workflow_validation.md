@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/audit_workflow_validation.md
+plan: sdd/plans/202605/audit_workflow_validation.md
 ---
 The user sent an image via Telegram with the following caption:
 

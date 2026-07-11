@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/numeric_auto_agent_names.md
+plan: sdd/plans/202606/numeric_auto_agent_names.md
 ---
  We currently do not allow auto-generated agent names to use a number for their first character. I would like to
 remove this constraint. Can you help me do that and make sure that the next agents that we launch use the smallest

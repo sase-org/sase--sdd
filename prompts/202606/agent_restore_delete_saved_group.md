@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/agent_restore_delete_saved_group.md
+plan: sdd/plans/202606/agent_restore_delete_saved_group.md
 ---
  Can you help me add a new `<ctrl+d>` keymap to the "Agent Restore" panel that is only active when a saved agent group is selected? This keymap should delete the selected saved agent group (after confirming with the user via a nice y/n popup). Think this through thoroughly and create a plan using your `/sase_plan` skill. Submit your plan with the
 `sase plan propose` command (as the skill instructs) before making any file changes.

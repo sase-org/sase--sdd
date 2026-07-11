@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/claude_tools_panel.md
+plan: sdd/plans/202605/claude_tools_panel.md
 ---
  Can you help me implement an MVP (with high standards) "Tools" panel for Claude? Review the sdd/research/202605/claude_tool_calls_panel_hooks.md file (favor strategy B over strategy A), which contains research performed by previous agents, for context and inspiration before deciding on your solution.
 

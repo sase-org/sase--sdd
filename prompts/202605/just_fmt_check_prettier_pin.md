@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/just_fmt_check_prettier_pin.md
+plan: sdd/plans/202605/just_fmt_check_prettier_pin.md
 ---
  Can you help me figure out why the `_just_fmt_check` (see the `sase ace` snapshot below) keeps failing and fix the issue? The `just fmt-check` command passes for me. Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.
 

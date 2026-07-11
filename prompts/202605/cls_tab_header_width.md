@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/cls_tab_header_width.md
+plan: sdd/plans/202605/cls_tab_header_width.md
 ---
  The headers on the left side-panel of the the "CLs" tab of the `sase ace` TUI can sometimes be too long when there are ChangeSpec with long names that match the current ChangeSpec query (see the `sase ace` snapshot below). Can you help me fix this (the headers should only be, at most, as long as the left side-panel)? Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.
 

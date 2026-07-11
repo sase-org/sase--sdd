@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/jump_to_stopped_agent_fix.md
+plan: sdd/plans/202605/jump_to_stopped_agent_fix.md
 ---
  When I use the new `,J` keymap, it is supposed to take me to the next stopped agent row, but that doesn't seem
 to be working. For example, the below `sase ace` snapshot was taken after I used the `,J` keymap, which should have

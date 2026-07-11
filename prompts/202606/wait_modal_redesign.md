@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/wait_modal_redesign.md
+plan: sdd/plans/202606/wait_modal_redesign.md
 ---
  #fork:05n.w1 Can you now help me migrate the panel that is triggered by the `w` keymap on the Agents tab currently to something much nicer?
 

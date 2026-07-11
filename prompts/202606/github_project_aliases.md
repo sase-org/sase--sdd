@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/github_project_aliases.md
+plan: sdd/plans/202606/github_project_aliases.md
 ---
  I've been thinking about how to support GitHub projects that have the same project name but live in different
 organizations for a while now. Currently this is not possible because we treat `#gh:foo` as `#gh:foo-org/foo` after the

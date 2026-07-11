@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202604/sase_chats_skill_1.md
+plan: sdd/plans/202604/sase_chats_skill_1.md
 ---
   Can you help me add a new /sase_chats xprompt  skill that allows agents to easily access previous sase agent chat transcripts? See how the /sase_agent_status xprompt skill is implemented for inspiration. This skill should be invoked by agents when they are asked about previous agent chats.
 

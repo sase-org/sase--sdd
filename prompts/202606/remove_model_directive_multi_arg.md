@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/remove_model_directive_multi_arg.md
+plan: sdd/plans/202606/remove_model_directive_multi_arg.md
 ---
  Can you help me completely remove support for using multiple arguments with the `%m`/`%model` directive?
 

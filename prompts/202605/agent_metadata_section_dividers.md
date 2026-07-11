@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/agent_metadata_section_dividers.md
+plan: sdd/plans/202605/agent_metadata_section_dividers.md
 ---
  Can you help me add a line between the agent metadata panel's (on the "Agents" tab of the `sase ace` TUI)
 fields (ex: "DELTAS", "ARTIFACTS", "Timestamps", etc...) and the "MEMORY READS" section (when it exists)? Add a line

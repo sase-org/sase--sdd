@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/complete_bead_model_routing.md
+plan: sdd/plans/202605/complete_bead_model_routing.md
 ---
 
 

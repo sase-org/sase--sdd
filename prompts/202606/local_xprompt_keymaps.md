@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/local_xprompt_keymaps.md
+plan: sdd/plans/202606/local_xprompt_keymaps.md
 ---
  Can you help me add new `gX` (normal mode) and `<ctrl+g>X` (insert mode) keymaps to the prompt input widget?
 

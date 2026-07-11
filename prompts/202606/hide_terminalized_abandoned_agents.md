@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/hide_terminalized_abandoned_agents.md
+plan: sdd/plans/202606/hide_terminalized_abandoned_agents.md
 ---
  We made a change yesterday that seemed to break how we populate agents on the agents tab in the TUI. Namely
 there are 197 agents in the chop agent group (i.e. are rendered in the `#chop` dynamic agent panel on the left) that I

@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/github_actions_recovery.md
+plan: sdd/plans/202605/github_actions_recovery.md
 ---
  #resume:sase-2z Can you now use this script to fix all of the GitHub actions failures? Make sure you use alternative methods to check the GitHub action workflow status, just in case our script implementation is wrong. Fix any issues in our new script that you find.
 

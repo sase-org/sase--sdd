@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/demo_video_stamp_and_commit.md
+plan: sdd/plans/202607/demo_video_stamp_and_commit.md
 ---
  Can you help me improve the `just demo-video` command?
 

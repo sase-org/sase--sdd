@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/working_plan_tale_statuses_1.md
+plan: sdd/plans/202606/working_plan_tale_statuses_1.md
 ---
  Can you help me start using new `WORKING TALE/PLAN` statuses for "code" agents?
 

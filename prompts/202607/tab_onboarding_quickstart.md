@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/tab_onboarding_quickstart.md
+plan: sdd/plans/202607/tab_onboarding_quickstart.md
 ---
  On the Agents tab and the PRs tab in the TUI, we currently show onboarding pages specific to those tabs when there's nothing else interesting to show. Can you help me make several big improvements to those pages?
 

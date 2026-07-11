@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/mobile_gateway_notification_state_routes.md
+plan: sdd/plans/202605/mobile_gateway_notification_state_routes.md
 ---
 
 

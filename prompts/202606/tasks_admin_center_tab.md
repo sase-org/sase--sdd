@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/tasks_admin_center_tab.md
+plan: sdd/plans/202606/tasks_admin_center_tab.md
 ---
   Can you help me migrate the "Tasks Queue" panel, triggered via the `,t` keymap, to the new "SASE Admin Center" by
 adding a new "Tasks" tab after the "Config" tab? Make sure to remove the `,t` keymap. Make sure that no functionality is

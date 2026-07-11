@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/ace_p0_responsiveness.md
+plan: sdd/plans/202605/ace_p0_responsiveness.md
 ---
  Can you help me implement the P0 fixes / optimizations recommended in the
 sdd/research/202605/ace_profile_20260515_131509_responsiveness.md file? This is a large piece of work that should be split into phases. I'll let you decide how many phases to create, but

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/revive_bundle_reprojection.md
+plan: sdd/plans/202606/revive_bundle_reprojection.md
 ---
  When I revive agents using the `R` keymap, the agent index / database should be updated accordingly. I'm
 concerned that this is not working right since I keep needing to do a full agent refresh to get the sase agents that

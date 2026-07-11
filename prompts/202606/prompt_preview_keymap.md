@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/prompt_preview_keymap.md
+plan: sdd/plans/202606/prompt_preview_keymap.md
 ---
  Can you help me add support for a new `K` (preview) normal-mode keymap to the prompt input widget?
 

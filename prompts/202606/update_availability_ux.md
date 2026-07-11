@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/update_availability_ux.md
+plan: sdd/plans/202606/update_availability_ux.md
 ---
  We currently periodically check for updates (every 10m) and display a toast to the user if there are updates available. Can you help me make sure that this works for dev/editable installs as well as normal published releases?
 

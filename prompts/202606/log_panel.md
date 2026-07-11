@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/log_panel.md
+plan: sdd/plans/202606/log_panel.md
 ---
  There are currently a lot of agent launch failure types that just send a toast with minimal information that then tells the user to "see the log", but there is no way to view "the log" from the TUI. Can you help me add a new `,L` keymap that works from any tab and shows "the log" (which should probably be a few different relevant logs)? Make sure to update these error messages accordingly and make sure that any agent launch / fanout failures are always logged to one of the files that is shown in this new "Log" panel.
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/update_check_startup_toast.md
+plan: sdd/plans/202606/update_check_startup_toast.md
 ---
  Can you help me out with a lightweight way of periodically checking the latest versions of sase, sase-core, and all of sase's plugin repos that are currently installed? If any of the installed versions are out of date, show a nice toast to the user when they first start the TUI (remind them that they can reach the "Updates" tab of the "SASE Admin Center" panel by pressing `#5` (try to add some protection to make sure that toast message doesn't go out-of-date if/when the "Updates" tab's placement is changes--i.e. if a tab with a name that starts with a letter sorted before "U").
 

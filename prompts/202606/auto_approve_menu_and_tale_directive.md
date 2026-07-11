@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/auto_approve_menu_and_tale_directive.md
+plan: sdd/plans/202606/auto_approve_menu_and_tale_directive.md
 ---
  The `a` keymap on the agents tab currently toggles whether or not the currently selected agent has its plan auto-approved as a normal plan or as an epic. We do not currently support auto-approval of tales. Can you help me add a new `%t`/`%tale` directive for this and migrate the `%a`/`%approve` directive to `%p`/`%plan`?
 

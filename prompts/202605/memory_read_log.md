@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/memory_read_log.md
+plan: sdd/plans/202605/memory_read_log.md
 ---
  Can you help me create a new `sase memory read` command that, when given a file path that is relative to the memory/ directory as an argument, outputs the contents of the corresponding file (with the frontmatter removed)? This command should also log when the command was run, by what agent, and for what reason (this means the agent will need to give the reason as a command line argument).
 

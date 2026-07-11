@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/linked_repo_local_workspaces.md
+plan: .sase/sdd/plans/202607/linked_repo_local_workspaces.md
 ---
  We currently support a `worspace.strategy` config field for `linked_repos` that accepts a value of `none` to indicate that the linked repo's primary workspace directory should always be used. Can you help me get rid of this field completely and start having all linked repos use the same workspace strategy?
 

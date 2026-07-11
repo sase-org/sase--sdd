@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/wait_time_keyword.md
+plan: sdd/plans/202606/wait_time_keyword.md
 ---
   Can you help me migrate the `%time` directive's functionality to a new `time` keyword input for the `%wait` functionality?
 

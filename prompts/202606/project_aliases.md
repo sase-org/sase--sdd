@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/project_aliases.md
+plan: sdd/plans/202606/project_aliases.md
 ---
  Can you help me add support for sase project aliases?
 

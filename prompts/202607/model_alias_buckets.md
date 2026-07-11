@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/model_alias_buckets.md
+plan: .sase/sdd/plans/202607/model_alias_buckets.md
 ---
  Can you help me add support for model "alias buckets" in the "Models" panel of the TUI (triggered via the `,m` keymap)?
 

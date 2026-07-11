@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/pdf_wrangler_v4_pin.md
+plan: sdd/plans/202605/pdf_wrangler_v4_pin.md
 ---
  The user sent an image via Telegram with the following caption:
 

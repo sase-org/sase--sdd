@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/prompt_frontmatter_panel_closure.md
+plan: sdd/plans/202606/prompt_frontmatter_panel_closure.md
 ---
 
 

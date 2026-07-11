@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/agents_count_header_format.md
+plan: sdd/plans/202605/agents_count_header_format.md
 ---
  Can you help me change the form of the agent counts shown at the top of the the "Agents" tab of the `sase ace`
 TUI? For example, in the below `sase ace` snapshot, we should change

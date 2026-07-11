@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/sase_30_completion_unread_contract.md
+plan: sdd/plans/202605/sase_30_completion_unread_contract.md
 ---
 
 

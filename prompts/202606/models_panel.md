@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/models_panel.md
+plan: sdd/plans/202606/models_panel.md
 ---
  Can you help me migrate the "Model Override" panel (triggered by the `,m` keymap) to a new more general-purpose "Models" panel?
 

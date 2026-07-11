@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202604/dismissed_agent_name_prefix.md
+plan: sdd/plans/202604/dismissed_agent_name_prefix.md
 ---
  Can you help me start enforcing a constraint that all agents even dismissed ones that don't show in the TUI need to have an agent name?
 

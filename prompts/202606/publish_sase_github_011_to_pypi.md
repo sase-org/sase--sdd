@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/publish_sase_github_011_to_pypi.md
+plan: sdd/plans/202606/publish_sase_github_011_to_pypi.md
 ---
  #fork:59.f1 It doesn't look like the sase-github repo has had a recent version release to PyPI either. Can you
 investigate any issues that the sase-github repo's GitHub Actions workflows might be running into with publishing new

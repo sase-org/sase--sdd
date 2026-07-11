@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202604/changespec_group_headings.md
+plan: sdd/plans/202604/changespec_group_headings.md
 ---
  Can you help me add support for configurable (via the new `o` keymap on the CLs tab) ChangeSpec groups with headings that can be folded/expanded? The UX for this should take heavy inspiration from agent group headings on the
 Agents tab. We should support 3 grouping/sorting strategies:

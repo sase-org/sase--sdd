@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/tab_guide_content_improvements.md
+plan: sdd/plans/202607/tab_guide_content_improvements.md
 ---
   Can you help me improve the contents of the popup panel that is triggered by the `,?` keymap?
 

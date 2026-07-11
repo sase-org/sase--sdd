@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/epics/202607/fakey_provider.md
+plan: .sase/sdd/plans/202607/fakey_provider.md
 ---
  Can you help me design and implement a new fake agent CLI provider, named `fakey`?
 

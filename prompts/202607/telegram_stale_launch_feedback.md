@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/telegram_stale_launch_feedback.md
+plan: sdd/plans/202607/telegram_stale_launch_feedback.md
 ---
 The user sent an image via Telegram with the following caption:
 

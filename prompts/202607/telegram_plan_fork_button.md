@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/telegram_plan_fork_button.md
+plan: .sase/sdd/plans/202607/telegram_plan_fork_button.md
 ---
 The user sent an image via Telegram with the following caption:
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/kill_waiting_agents_pid_fallback.md
+plan: sdd/plans/202607/kill_waiting_agents_pid_fallback.md
 ---
 The user sent an image via Telegram with the following caption:
 

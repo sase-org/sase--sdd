@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202604/init_skills_1.md
+plan: sdd/plans/202604/init_skills_1.md
 ---
 Can you help me add support for managing all agent skills related to sase using a new `sase init-skills` command?
 

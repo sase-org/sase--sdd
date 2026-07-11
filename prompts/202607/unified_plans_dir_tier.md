@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/unified_plans_dir_tier.md
+plan: .sase/sdd/plans/202607/unified_plans_dir_tier.md
 ---
  We currently store epic plan files in the sdd repo's epics/ directory and plan files in its tales/ directory. Can you help me start only using a new plans/ directory instead and storing all tales and epics in that directory?
 

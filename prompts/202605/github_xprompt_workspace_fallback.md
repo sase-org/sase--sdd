@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/github_xprompt_workspace_fallback.md
+plan: sdd/plans/202605/github_xprompt_workspace_fallback.md
 ---
  This agent wasn't assigned a sase workspace for some reason and is marked as "Git (bare)" when this agent is
 using the GitHub VCS xprompt workflow (i.e. `#gh`). Can you help me diagnose the root cause of this issue and fix it?

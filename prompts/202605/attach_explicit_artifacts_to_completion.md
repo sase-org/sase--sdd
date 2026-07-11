@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/attach_explicit_artifacts_to_completion.md
+plan: sdd/plans/202605/attach_explicit_artifacts_to_completion.md
 ---
 The user sent an image via Telegram with the following caption:
 

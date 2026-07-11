@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202604/dynamic_tag_panels.md
+plan: sdd/plans/202604/dynamic_tag_panels.md
 ---
   Can you help me generalize the concept of the pinned panel on the agents tab by using agent tags to dynamically determine how many panels on the left there should be?
 

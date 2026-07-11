@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/sharded_prompt_history.md
+plan: sdd/plans/202606/sharded_prompt_history.md
 ---
  Every time we load the prompt history from the prompt history widget and every time that we launch an agent, we have to deal with this very large prompt history file. I think we did some related research (regarding some performance issue maybe) recently that is stored in a research markdown file in this repo that you should check out.
 

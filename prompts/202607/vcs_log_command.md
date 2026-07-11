@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/vcs_log_command.md
+plan: .sase/sdd/plans/202607/vcs_log_command.md
 ---
  Can you help me add new `sase vcs` command?
 

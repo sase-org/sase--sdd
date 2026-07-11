@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/sase_3a_remaining_pyvision_cleanup.md
+plan: sdd/plans/202605/sase_3a_remaining_pyvision_cleanup.md
 ---
   Can you help me verify that all the work associated with the bead with ID sase-3a is complete?
 

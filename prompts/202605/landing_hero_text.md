@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/landing_hero_text.md
+plan: sdd/plans/202605/landing_hero_text.md
 ---
  The user sent an image via Telegram with the following caption:
 

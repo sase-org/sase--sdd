@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/mobile_xprompt_argument_hints.md
+plan: sdd/plans/202605/mobile_xprompt_argument_hints.md
 ---
    Can you help me add support for xprompt argument name/type hints to sase's mobile app? See the recently committed related research markdown file for inspiration.
 

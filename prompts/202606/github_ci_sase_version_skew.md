@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/github_ci_sase_version_skew.md
+plan: sdd/plans/202606/github_ci_sase_version_skew.md
 ---
  GitHub Actions is failing for sase-github with the below error. Can you help me diagnose the root cause of this issue and fix it? Think this through thoroughly and create a plan using your `/sase_plan` skill. Submit your plan with the `sase plan`
 command (as the skill instructs) before making any file changes.

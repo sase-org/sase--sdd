@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/memory_command_1.md
+plan: sdd/plans/202605/memory_command_1.md
 ---
 #gh:sase Can you help me add a new `sase memory` command with two subcommands, `list` and `init`?
 

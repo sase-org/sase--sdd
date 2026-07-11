@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/multi_agent_prompt_chat_bullet.md
+plan: sdd/plans/202606/multi_agent_prompt_chat_bullet.md
 ---
  We currently include bullets that look like the following at the top of sase agent chat markdown files:
 

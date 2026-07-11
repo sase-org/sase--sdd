@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/unify_prompt_stash_panel.md
+plan: sdd/plans/202606/unify_prompt_stash_panel.md
 ---
  #fork:03o.w1 Can you now help me unify the `gp` / `gP` keymaps (and corresponding `<ctrl+g>p` and `<ctrl+g>P` keymaps) by improving the prompt stash panel?
 

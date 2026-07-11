@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/commit_tags.md
+plan: sdd/plans/202606/commit_tags.md
 ---
  Can you help me add more conventional commit message tags that the agent can use to the "Determine the commit tag" section of the src/sase/xprompts/skills/sase_git_commit.md file (which defines an xprompt skill)?
 

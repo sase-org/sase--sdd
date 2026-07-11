@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/frontmatter_panel_add_property_fix.md
+plan: sdd/plans/202606/frontmatter_panel_add_property_fix.md
 ---
  When I use the new xprompt Property Panel above the prompt input widget to add a new property, what I tried was
 adding a local X prompt, it seems to work but then one of the prompt input widgets that I had open completely

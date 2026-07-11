@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/structured_episodic_memory_mvp.md
+plan: sdd/plans/202605/structured_episodic_memory_mvp.md
 ---
  Can you help me implement an ambitious MVP for structured, deterministic episodic memory, stored in the `~/.sase/projects/<project>/episodes/` directory, that use as much of the existing sase metadata / artifacts (and new ones that you add, if necessary) as possible to link together sase chats into a coherent lesson? Use existing research to inspire your approach. Also, if a new `episodes` command is needed, it should be named `sase memory episodes`, not `sase episodes`.
 

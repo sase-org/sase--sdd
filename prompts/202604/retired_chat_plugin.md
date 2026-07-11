@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202604/retired_chat_plugin.md
+plan: sdd/plans/202604/retired_chat_plugin.md
 ---
  I want to create a new ../retired chat plugin repo (I've already created it with an empty README.md file--give that file good contents after this repo is implemented) that provides a chop integration with Google Chat that offers all of
 the same functionality as our sase-telegram chop integration. See the @~/tmp/gchat_cli_skill.md file for instructions on how to use a CLI tool to read and write from Google Chat. Google Chat supports markdown, but might not have all of

@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/plan_search.md
+plan: sdd/plans/202606/plan_search.md
 ---
  Can you help me create a new `sase plan search` command that works a lot like the `sase bead search` command but for sase plans (both repo-specific sdd/ plans, which should be prioritized and plans that are local to this machine, which are stored in the ~/.sase/plans/ directory)?
 

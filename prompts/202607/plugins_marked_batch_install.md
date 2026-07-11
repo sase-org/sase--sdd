@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/plugins_marked_batch_install.md
+plan: sdd/plans/202607/plugins_marked_batch_install.md
 ---
  We currently allow users to install SASE plugins from the Updates tab in the SASE admin center panel by using the `i` keymap. Can you help me add support for a new `I` keymap that marks the currently selected sase plugin? When one or more sase plugins are marked, the `i` keymap should install all of them.
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/fix_agent_resume_terminal_statuses.md
+plan: sdd/plans/202605/fix_agent_resume_terminal_statuses.md
 ---
  When I use the `r` keymap on this agent (see the `sase ace` snapshot below), I receive the following error:
 "Agent not finished yet". Can you help me diagnose the root cause of this issue and fix it? Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/install_mode_switch.md
+plan: sdd/plans/202607/install_mode_switch.md
 ---
  Can you help me make it easy for users to switch to/from the published PyPI versions (of sase, sase-core, and sase's plugins) and the dev/editable versions? 
 

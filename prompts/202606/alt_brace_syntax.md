@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/alt_brace_syntax.md
+plan: sdd/plans/202606/alt_brace_syntax.md
 ---
  Can you help me migrate the existing `%(A, B, ...)` short-hand syntax for `%alt(A, B, ...)` to `%{A | B | ...}`?
 

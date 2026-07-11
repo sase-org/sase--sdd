@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/model_alias_configuration_migration.md
+plan: sdd/plans/202606/model_alias_configuration_migration.md
 ---
  #fork:0am Can you now help me remove our existing `default_model` and `worker_models` configuration fields in favor of defining special model aliases that are used by default / by the agents that are launched with the `#coder` xprompt, respectively?
 

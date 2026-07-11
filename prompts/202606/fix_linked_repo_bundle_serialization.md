@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/fix_linked_repo_bundle_serialization.md
+plan: sdd/plans/202606/fix_linked_repo_bundle_serialization.md
 ---
  I keep getting errors like the following when I try to kill agents in sase:
 ```

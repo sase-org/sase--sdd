@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202604/fix_critique_comments_stderr_merge.md
+plan: sdd/plans/202604/fix_critique_comments_stderr_merge.md
 ---
 The ChangeSpec in the below `sase ace` snapshot should have a COMMENTS field added to it by `sase axe`. This ChangeSpec
 exists on another machine that uses the ../retired Mercurial plugin repo. Can you help me diagnose the root cause of this issue and

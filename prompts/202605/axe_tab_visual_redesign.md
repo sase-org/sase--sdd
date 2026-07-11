@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/axe_tab_visual_redesign.md
+plan: sdd/plans/202605/axe_tab_visual_redesign.md
 ---
  Can you help me make the AXE tab (see the `sase ace` snapshot below for what it looks like now) look WAY
 better? 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/operations_tab.md
+plan: sdd/plans/202606/operations_tab.md
 ---
  Can you help me merge the "Tasks" and "Logs" tabs of the "SASE Admin Center" panel into a single, new "Operations" panel?
 

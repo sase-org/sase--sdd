@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/repeat_stop_status_1.md
+plan: sdd/plans/202606/repeat_stop_status_1.md
 ---
  I recently added support for a new STOP `/sase_var` skill variable that agents running in a fanout created by
 the `%repeat` directive can set to have all subsequent agents in that fanout stopped (i.e. not launched). This seems to

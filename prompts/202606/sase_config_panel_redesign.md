@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/sase_config_panel_redesign.md
+plan: sdd/plans/202606/sase_config_panel_redesign.md
 ---
  Can you help me improve the way the "Config Center" panel looks currently?
 

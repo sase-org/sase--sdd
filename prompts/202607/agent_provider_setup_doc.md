@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/agent_provider_setup_doc.md
+plan: .sase/sdd/plans/202607/agent_provider_setup_doc.md
 ---
  Can you help me add a new docs/ markdown file that describes how to install and authenticate each of the agent CLI providers that sase currently supports?
 

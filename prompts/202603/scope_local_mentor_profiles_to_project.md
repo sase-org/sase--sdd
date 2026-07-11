@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202603/scope_local_mentor_profiles_to_project.md
+plan: sdd/plans/202603/scope_local_mentor_profiles_to_project.md
 ---
 It looks like (see the `sase ace` snapshot below) the mentor profiles configured in this repo's local sase.yml file are
 being used for the 'bug' hg project (the `#hg` VCS xprompt workflow is defined in the ../retired Mercurial plugin repo). This is NOT

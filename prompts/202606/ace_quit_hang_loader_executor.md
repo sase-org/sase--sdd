@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/ace_quit_hang_loader_executor.md
+plan: sdd/plans/202606/ace_quit_hang_loader_executor.md
 ---
  Something strange is going on with `sase ace` lately when I quite using the `q` keymap. Namely, sometimes it
 will hang for a really long time before I see my shell prompt again. Can you help me diagnose the root cause of this

@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/permanent_agent_names.md
+plan: sdd/plans/202605/permanent_agent_names.md
 ---
   We currently do some bad, hacky stuff with agent names. These are meant to be permanent IDs, but we change them
 when the agent is dismissed or when de-duplicating. Can you help me change this so we NEVER change previous agent names

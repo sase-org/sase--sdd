@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/per_workspace_sdd_clone.md
+plan: .sase/sdd/plans/202607/per_workspace_sdd_clone.md
 ---
  sase coder agent (that implement approved plans) launches are still failing (see #sshot and recent related git commits for context). Can you help me diagnose the root cause of this issue and fix it? Keep in mind that we should continue to use a relative .sase/sdd/ file path for the plan file reference.
 

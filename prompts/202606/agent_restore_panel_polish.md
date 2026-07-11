@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/agent_restore_panel_polish.md
+plan: sdd/plans/202606/agent_restore_panel_polish.md
 ---
  Can you help me make the "Agent Restore" panel's list of selectable entries (in the left pane) look much better? Fulfill all of the requirements below, but feel free to go a step further to make this pane look really great!
 

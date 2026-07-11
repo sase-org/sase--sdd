@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/agent_header_file_hints.md
+plan: sdd/plans/202605/agent_header_file_hints.md
 ---
  Do you see how, in the below `sase ace` snapshot, ~/.sase/plans/202605/wait_requires_success.md doesn't have a hint next to it despite the fact that I had just used the `v` keymap? Can you help
 me fix this? Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.

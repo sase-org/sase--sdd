@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/agent_provider_badge.md
+plan: sdd/plans/202605/agent_provider_badge.md
 ---
  This agent (see the `sase ace` snapshot below) doesn't have an icon on its agent row indicating which LLM provider was used (codex, in this case). Can you help me diagnose the root cause of this issue and fix it? Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202604/agents_tab_nested_groups.md
+plan: sdd/plans/202604/agents_tab_nested_groups.md
 ---
  Can you help me add support for much better organization of agents on the "Agents" tab of the `sase ace` TUI by adding support for nested groups?
 

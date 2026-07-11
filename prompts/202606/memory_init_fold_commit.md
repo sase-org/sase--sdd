@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/memory_init_fold_commit.md
+plan: sdd/plans/202606/memory_init_fold_commit.md
 ---
  When the `sase memory init` command is run, we currently throw an error if the working directory has any uncommitted file changes. Can you help me make it so, wen the only uncommitted file changes are the changes to markdown files in the memory/ directory that are causing `sase memory init` to recommend changes in the first place, that we prompt the user for a commit message and then commit those memory/ changes when committing the rest of the changes that the `sase memory init` command makes?
 

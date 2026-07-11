@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/agent_runtime_aggregation.md
+plan: sdd/plans/202605/agent_runtime_aggregation.md
 ---
  The main agent/workflow entries runtime should be the sum of the runtimes of all of the child agent steps. It doesn't look like that is currently the case (see the `sase ace` snapshot below). It
 looks like we continue to increment that runtime when waiting for user feedback (e.g. HITL or when a plan is proposed and the agent entry has a PLANNING status) when the correct thing to do would be to

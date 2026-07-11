@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/telegram_project_display_names_1.md
+plan: sdd/plans/202607/telegram_project_display_names_1.md
 ---
 The user sent an image via Telegram with the following caption:
 

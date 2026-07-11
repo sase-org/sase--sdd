@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/manual_chop_runs_live_output.md
+plan: sdd/plans/202605/manual_chop_runs_live_output.md
 ---
  #resume:sase-2w  Can you now help me add the ability to run a selected chop manually? Also, make sure the command output of every running chop's output is updated live in the TUI?
 

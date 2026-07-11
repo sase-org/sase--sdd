@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/agy_model_alias_removal.md
+plan: sdd/plans/202607/agy_model_alias_removal.md
 ---
  Can you help me get rid of the hacky `agy` and `agy_pro` model aliases that are currently configured in the sase.yml file in my chezmoi repo?
 

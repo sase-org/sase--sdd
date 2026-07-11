@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/prompt_insert_ctrl_g_prefix.md
+plan: sdd/plans/202606/prompt_insert_ctrl_g_prefix.md
 ---
  We recently added support for a bunch of new keymaps, all of which are preficed with `g`, to the prompt input widget. These keymaps are only active in normal mode. Can you help me add support for all of these same keymaps in insert mode using the `<ctrl+g>` prefix instead of `g`?
 

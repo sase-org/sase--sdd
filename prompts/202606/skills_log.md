@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/skills_log.md
+plan: sdd/plans/202606/skills_log.md
 ---
  #fork:84  Can you now help me create the new `sase skills log` command? This command's functionality and output should take heavy inspiration from the `sase memory log` command. I want you to lead the design on this one. Make sure you design this feature so it is intuitive, reliable, and (last but not least) beautiful!
 

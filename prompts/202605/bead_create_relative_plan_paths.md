@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/bead_create_relative_plan_paths.md
+plan: sdd/plans/202605/bead_create_relative_plan_paths.md
 ---
  The user sent an image via Telegram with the following caption:
 

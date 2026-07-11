@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/worker_models.md
+plan: sdd/plans/202606/worker_models.md
 ---
  We recently migrated the `worker_model` config field to a `worker_models` field that maps primary models/providers to the worker models that should be used when those primary models/providers are used. Can you help me improve this feature?
 

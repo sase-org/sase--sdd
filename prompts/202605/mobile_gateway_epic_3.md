@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/mobile_gateway_epic_3.md
+plan: sdd/plans/202605/mobile_gateway_epic_3.md
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/finish_sase_38.md
+plan: sdd/plans/202605/finish_sase_38.md
 ---
 
 

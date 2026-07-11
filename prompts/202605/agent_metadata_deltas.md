@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/agent_metadata_deltas.md
+plan: sdd/plans/202605/agent_metadata_deltas.md
 ---
  Can you help me add a DELTAS field to the agent metadata panel that resembles the ChangeSpec field of the same
 name? This field should only contain entries for files that this agent added/removed/modified (the # of lines

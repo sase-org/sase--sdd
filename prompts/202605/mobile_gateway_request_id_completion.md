@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/mobile_gateway_request_id_completion.md
+plan: sdd/plans/202605/mobile_gateway_request_id_completion.md
 ---
 
 

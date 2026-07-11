@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202604/rust_backend_phase6_default_rust.md
+plan: sdd/plans/202604/rust_backend_phase6_default_rust.md
 ---
  Can you help me continue the rust migration described in the @sdd/research/202604/rust_backend_migration.md file by
 completing phase 6 (phases 0, 1, 2, 3, 4, and 5 are already complete)? This is a large piece of work that should be split into phases. I'll let you decide how many phases to create, but

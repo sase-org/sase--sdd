@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/vcs_mru_cycling_anywhere.md
+plan: sdd/plans/202606/vcs_mru_cycling_anywhere.md
 ---
  Can you help me make the `<ctrl+p/n>` keymaps in the prompt input widget work in more cases to change the
 current VCS xprompt workflow that is invoked in the prompt (ex: `#gh:sase`) to the next/previous one from the VCS

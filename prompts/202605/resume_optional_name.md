@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/resume_optional_name.md
+plan: sdd/plans/202605/resume_optional_name.md
 ---
  Can you help me make it so the `#resume` xprompt workflow's (see the src/sase/xprompts/resume.yml file) `name`
 input optional?

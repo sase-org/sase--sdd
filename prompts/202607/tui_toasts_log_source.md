@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/tui_toasts_log_source.md
+plan: sdd/plans/202607/tui_toasts_log_source.md
 ---
  Can you help me add a new source to the "Logs" tab of the "SASE Admin Center" panel named "TUI Toasts" that contains the last `<N>` toasts sent to the user in the TUI?
 

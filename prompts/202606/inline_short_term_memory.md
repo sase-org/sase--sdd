@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/inline_short_term_memory.md
+plan: sdd/plans/202606/inline_short_term_memory.md
 ---
  Not all LLM providers support using the @ symbol as a prefix for file paths to include the contents of those files. Can you help me start inlining the contents of short-term memory files instead of using the `@` symbol?
 

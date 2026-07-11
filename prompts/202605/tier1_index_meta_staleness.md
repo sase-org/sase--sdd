@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/tier1_index_meta_staleness.md
+plan: sdd/plans/202605/tier1_index_meta_staleness.md
 ---
  The tier 1 (fast) agent reload strategy doesn't seem to track the "Timestamps:" entries in the agent metadata
 panel on the "Agents" tab of the `sase ace` TUI. The BAD `sase ace` snapshot below shows what I saw before using the

@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/fast_agents_tab_disk_load.md
+plan: sdd/plans/202605/fast_agents_tab_disk_load.md
 ---
  Can you help me make the way we load agents from disk for the "Agents" tab of the `sase ace` TUI much faster?
 Use the solution recommended in the sdd/research/202605/deep_ace_tui_perf_fix.md file to inspire your solution (call out

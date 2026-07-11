@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/research_swarm_workflow.md
+plan: sdd/plans/202605/research_swarm_workflow.md
 ---
  Can you help me create an improved `research_swarm` xprompt workflow?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/wait_timestamp_display.md
+plan: sdd/plans/202605/wait_timestamp_display.md
 ---
  When an agent had to wait to run because of the `%wait` directive, can we start using only the WAIT
 "Timestamp:" field entry (in the agent metadata panel on the "Agents" tab of the `sase ace` TUI)? Currently we seem to

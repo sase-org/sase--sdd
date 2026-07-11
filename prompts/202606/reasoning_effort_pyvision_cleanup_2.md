@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/reasoning_effort_pyvision_cleanup_2.md
+plan: sdd/plans/202606/reasoning_effort_pyvision_cleanup_2.md
 ---
 
 

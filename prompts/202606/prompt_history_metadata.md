@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/prompt_history_metadata.md
+plan: sdd/plans/202606/prompt_history_metadata.md
 ---
  Can you help me make the prompt history panel in the TUI show the project used (i.e. the VCS xprompt workflow that was used) for each prompt shown in the list of prompts shown in the left pane? Also, make indicate which directives or embedded xprompt workflows (e.g. `#fork`) were used in each prompt. Try to do this without making each prompt entry line too long in this pane.
 

@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/init_change_preview.md
+plan: .sase/sdd/plans/202607/init_change_preview.md
 ---
   Can you help me make it way clearer exactly what changes will be made by the `sase init` command, if it determines that any changes are needed? Right now the user is prompted (y/n) whether they would like to apply the changes or not but they have to have blind trust basically since they have very little idea exactly which files are going to be changed.
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/bead_search_highlight.md
+plan: sdd/plans/202606/bead_search_highlight.md
 ---
 
  The highlighting used for the matched query in the output of the `sase bead search` command makes it hard to read the text. Can you help me make this look nicer? Think this through thoroughly and create a plan using your `/sase_plan` skill. Submit your plan with the

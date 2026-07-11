@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/public_sdd_companion_label.md
+plan: .sase/sdd/plans/202607/public_sdd_companion_label.md
 ---
  #fork:33 Can you now help me make a few related improvements?
 

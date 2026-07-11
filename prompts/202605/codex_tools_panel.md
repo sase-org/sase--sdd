@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/codex_tools_panel.md
+plan: sdd/plans/202605/codex_tools_panel.md
 ---
  Earlier today, we added a new "Tools" panel to the agents tab but only gave Claude support in the MVP. Can you help me add support for codex too?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/remove_local_xprompt_workflows.md
+plan: sdd/plans/202605/remove_local_xprompt_workflows.md
 ---
  The local workflows defined in the sase_athena.yml file in my chezmoi repo are very hacky. Can you help me completely remove support for local workflows (e.g. xprompt workflows that are only available inside the `sase*.yml` file they are defined in)?
 

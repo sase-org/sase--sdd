@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/blog_post_numbering.md
+plan: sdd/plans/202605/blog_post_numbering.md
 ---
 The user sent an image via Telegram with the following caption:
 

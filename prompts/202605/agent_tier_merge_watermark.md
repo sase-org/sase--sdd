@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/agent_tier_merge_watermark.md
+plan: sdd/plans/202605/agent_tier_merge_watermark.md
 ---
  #resume:t7.cdx.code.r1.code This is still happening (see the `sase ace` snapshot below). Can you help me diagnose the root cause of this issue and (finally) fix it? Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.
   

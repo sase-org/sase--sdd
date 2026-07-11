@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/worker_model_handoffs.md
+plan: sdd/plans/202606/worker_model_handoffs.md
 ---
  Can you help me improve the recently added worker_model functionality?
 

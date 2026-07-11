@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202604/epic_changespec_beads.md
+plan: sdd/plans/202604/epic_changespec_beads.md
 ---
  Can you help me add support for attatching a ChangeSpec name to a sase epic bead?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/update_completion_message.md
+plan: sdd/plans/202605/update_completion_message.md
 ---
  The user sent an image via Telegram with the following caption:
 

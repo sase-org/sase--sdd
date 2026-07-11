@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/fix_legend_bead_work_directives.md
+plan: sdd/plans/202605/fix_legend_bead_work_directives.md
 ---
  The user sent an image via Telegram with the following caption:
 

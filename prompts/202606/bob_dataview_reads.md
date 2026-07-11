@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/bob_dataview_reads.md
+plan: sdd/plans/202606/bob_dataview_reads.md
 ---
  I want to be able to give the `#!sase/reads` (see the xprompts/reads.md file for context) xprompt markdown file
 an Obsidian dataview query instead of a list of note files. The agent should then be able to use its (not yet created)

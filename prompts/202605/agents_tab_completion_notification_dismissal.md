@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/agents_tab_completion_notification_dismissal.md
+plan: sdd/plans/202605/agents_tab_completion_notification_dismissal.md
 ---
  We currently dismiss agent completion notifications from the TUI when the corresponding agent is either marked
 as unread or dismissed from the agents tab. Can you help me start dismissing ALL agent completion notifications as soon

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/default_list_notice.md
+plan: sdd/plans/202606/default_list_notice.md
 ---
  We already have an informal convention of using a list subcommand with sase subcommands that accept their own subcommands. When we do this the list subcommand is the default if that sase command is used without a subcommand. Can you help me do two things?
 1. For each of the commands where we use the list subcommand as the default, start out by printing a message to the user letting them know that we are delegating to the list subcommand when that corresponding sase command is used with no subcommand.

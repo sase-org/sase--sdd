@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/repeat_last_leader_keymap.md
+plan: sdd/plans/202605/repeat_last_leader_keymap.md
 ---
  Can you help me add a new `,,` (LEADER) keymap that re-runs the last run LEADER keymap? For example, I should
 be able to use `,j` on the agents tab to jump to the most recently completed unread agent row and then use `,,`

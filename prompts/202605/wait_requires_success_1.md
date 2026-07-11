@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/wait_requires_success_1.md
+plan: sdd/plans/202605/wait_requires_success_1.md
 ---
  If I kill an agent that another agent is waiting for (using the `%wait` directive), that waiting agent will be
 launched. Can you help me change this so the agent keeps waiting until all agents it is waiting for complete

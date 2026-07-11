@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/linked_repos_rename_codex.md
+plan: sdd/plans/202606/linked_repos_rename_codex.md
 ---
  #fork:research.z.final Ok. Let's do the rename that you recommended. Let's name the new configuration field `linked_repos`, not `linked_repositories` though.
 

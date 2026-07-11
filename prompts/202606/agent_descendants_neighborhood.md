@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/agent_descendants_neighborhood.md
+plan: sdd/plans/202606/agent_descendants_neighborhood.md
 ---
  #fork:09b Can you now help me improve the `~` (siblings) keymap?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/readme_reduction.md
+plan: sdd/plans/202605/readme_reduction.md
 ---
  Can you help me significantly reduce the size of this repo's README?
 

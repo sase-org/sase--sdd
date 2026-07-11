@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/plugin_catalog.md
+plan: sdd/plans/202606/plugin_catalog.md
 ---
  Can you help me add a new `sase plugin list` command and a new `sase plugin show <plugin_name>` command?
 

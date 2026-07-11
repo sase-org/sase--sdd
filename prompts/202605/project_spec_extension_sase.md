@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/project_spec_extension_sase.md
+plan: sdd/plans/202605/project_spec_extension_sase.md
 ---
  I want to change the `.gp` filename extension, which is likely referenced quite a bit in sase's codebase (including plugin repos and the sase-core repo), used for project specs to `.sase`. Can you help me make this change?
 

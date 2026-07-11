@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/sase_var_output_variables.md
+plan: sdd/plans/202606/sase_var_output_variables.md
 ---
  Can you help me create a new `/sase_var` xprompt slash command?
 

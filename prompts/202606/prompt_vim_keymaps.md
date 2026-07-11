@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/prompt_vim_keymaps.md
+plan: sdd/plans/202606/prompt_vim_keymaps.md
 ---
  Can you help me do an audit of the code related to the prompt input widget? Find any Vim keymaps or behaviors that would be useful in this widget but that are not currently implemented and implement them. Try to be thorough, but only implement features that are genuinely useful to users in the prompt input widget.
 

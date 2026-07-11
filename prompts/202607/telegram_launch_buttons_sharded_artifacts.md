@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/telegram_launch_buttons_sharded_artifacts.md
+plan: sdd/plans/202607/telegram_launch_buttons_sharded_artifacts.md
 ---
 The user sent an image via Telegram with the following caption:
 

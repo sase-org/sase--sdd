@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202603/auto_parent_changespec.md
+plan: sdd/plans/202603/auto_parent_changespec.md
 ---
 This ChangeSpec (see the `sase ace` snapshot below) was created by running `sase commit` from a branch that is
 associated with a ChangeSpec. This should ALWAYS result in the created ChangeSpec being associated with the the other

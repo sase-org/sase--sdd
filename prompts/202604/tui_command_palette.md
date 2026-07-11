@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202604/tui_command_palette.md
+plan: sdd/plans/202604/tui_command_palette.md
 ---
   Can you help me add a command pallet to the TUI that is shown when the user presses the ":" key? Every keymap that exists in the TUI should be given representation in the command pallet. Make sure that users only see commands that are applicable based on the current tab that is focused and the current entry that is selected on that tab. 
 

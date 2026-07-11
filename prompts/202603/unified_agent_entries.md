@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202603/unified_agent_entries.md
+plan: sdd/plans/202603/unified_agent_entries.md
 ---
 Can you help me start showing all agents run by `sase axe` using the same `[agent]` entries on the "Agents" tab of the
 `sase ace` TUI (with all the same fields, diffs, files in the file panel, etc.) that we use for manually run agents?

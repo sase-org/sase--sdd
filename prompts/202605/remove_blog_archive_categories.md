@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/remove_blog_archive_categories.md
+plan: sdd/plans/202605/remove_blog_archive_categories.md
 ---
 The user sent an image via Telegram with the following caption:
 

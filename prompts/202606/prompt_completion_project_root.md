@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/prompt_completion_project_root.md
+plan: sdd/plans/202606/prompt_completion_project_root.md
 ---
  Can you help me fix the way the `<ctrl+t>` and/or `<ctrl+r>` keymaps from the prompt input widget work?
 

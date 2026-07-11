@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/obsidian_datetime_snippets_1.md
+plan: sdd/plans/202605/obsidian_datetime_snippets_1.md
 ---
  Can you help me add the `t[-]?<N>` (time), `d[-]?<N>` (date), and `dt[-]?<N>` (datetime) snippets in Obsidian?
 These should work similar to nvim snippets defined in my chezmoi repo (or in ~/org/? I'm not sure, but I think they are

@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202604/commit_resume_1.md
+plan: sdd/plans/202604/commit_resume_1.md
 ---
 Currently, when merge conflicts are hit while an agent uses one of its `/sase_*_commit` skills, the agent does a good
 job of fixing the merge conflict on its own (see the `sase ace` snapshot below); however, any operation performed by

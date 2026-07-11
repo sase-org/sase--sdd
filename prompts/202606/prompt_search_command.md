@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/prompt_search_command.md
+plan: sdd/plans/202606/prompt_search_command.md
 ---
  Can you help me create a new `sase prompt search` command that works a lot like the `sase bead search` command but for sase prompts (both repo-specific sdd/ prompts, which should be prioritized and prompts that are local to this machine, which are stored elsewhere)?
 

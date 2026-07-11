@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/finish_sase_3a.md
+plan: sdd/plans/202605/finish_sase_3a.md
 ---
   Can you help me verify that all the work associated with the bead with ID sase-3a is complete?
 

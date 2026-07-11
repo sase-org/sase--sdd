@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/linked_repo_diff_file_panels.md
+plan: sdd/plans/202606/linked_repo_diff_file_panels.md
 ---
  #fork:04j That worked! Can you now help me add support to linked repos for diffs in the file panel by loading one diff per linked repo with an open workspace that has modified files in it to one dedicated file panel?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/complete_sase_4t.md
+plan: sdd/plans/202606/complete_sase_4t.md
 ---
 
 

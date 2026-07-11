@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202603/mentor_redesign.md
+plan: sdd/plans/202603/mentor_redesign.md
 ---
 Can you help me plan a major re-design of sase mentors?
 

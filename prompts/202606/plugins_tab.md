@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/plugins_tab.md
+plan: sdd/plans/202606/plugins_tab.md
 ---
  #fork:070 Can you now help me add a new "Plugins" tab in-between the "Settings" and "XPrompts" tabs?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/ace_prompt_input_demo.md
+plan: sdd/plans/202607/ace_prompt_input_demo.md
 ---
   Can you help me improve the demos/tapes/sase_ace_prompt_input.tape vhs tape?
 

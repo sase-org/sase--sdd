@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/zoom_panel_file_list.md
+plan: sdd/plans/202607/zoom_panel_file_list.md
 ---
  The zoom panel file/panel list, which is navigated via the `<ctrl+n/p>` keymaps, has some problems.
 

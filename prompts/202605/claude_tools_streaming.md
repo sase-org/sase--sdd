@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/claude_tools_streaming.md
+plan: sdd/plans/202605/claude_tools_streaming.md
 ---
  I think that claude is the only provider that uses hooks to gather the tools data needed to populate the Tools
 panel on the agents tab. Can you help me fix this so claude uses JSON streaming to implement this like the other

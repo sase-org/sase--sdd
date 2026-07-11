@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/agents_zoom_keymap.md
+plan: sdd/plans/202606/agents_zoom_keymap.md
 ---
  Can you help me add a new `z` (zoom) keymap to the agents tab of the TUI?
 

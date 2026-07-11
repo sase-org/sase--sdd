@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/agy_provider_final_gap.md
+plan: sdd/plans/202606/agy_provider_final_gap.md
 ---
 #gh:sase
 %name:sase-50

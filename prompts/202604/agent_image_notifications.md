@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202604/agent_image_notifications.md
+plan: sdd/plans/202604/agent_image_notifications.md
 ---
   Can you help me make it so anytime an agent modifies or adds a new image file (ex: PNG or JPEG), we attach that image file to the agent completion notification message? 
 

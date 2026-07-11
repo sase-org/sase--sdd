@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/pdf_worker_deploy_fix.md
+plan: sdd/plans/202605/pdf_worker_deploy_fix.md
 ---
  The user sent an image via Telegram with the following caption:
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/artifacts_panel_paths.md
+plan: sdd/plans/202605/artifacts_panel_paths.md
 ---
  Can you help me make some improvements to the recently added artifacts panel? Namely:
 

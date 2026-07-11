@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/png_only_visual_snapshots_completion.md
+plan: sdd/plans/202605/png_only_visual_snapshots_completion.md
 ---
 
 

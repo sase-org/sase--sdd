@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/project_name_field.md
+plan: sdd/plans/202606/project_name_field.md
 ---
  When `#gh` is given an argument of `<github_org>/<github_repo>` and no project yet exists for `gh_<github_org>_<github_repo>` (i.e. the `~/.sase/projects/gh_<github_org>_<github_repo>/` directory doesn't exist), we currently create it. We also add an alias for this project named `<github_rep>`. We show the project using its full project name `gh_<github_org>_<github_repo>`, which is too verbose and not easily readable.
 

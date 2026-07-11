@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/model_alias_descriptions.md
+plan: sdd/plans/202607/model_alias_descriptions.md
 ---
  Can you help me start showing a good description for the currently highlighted model alias that describes what that model alias is used for somewhere on the "Models" panel?
 

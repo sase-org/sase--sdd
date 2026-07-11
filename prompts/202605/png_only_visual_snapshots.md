@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/png_only_visual_snapshots.md
+plan: sdd/plans/202605/png_only_visual_snapshots.md
 ---
  Can you help me remove the SVG snapshot support in favor of only supporting PNG snapshots? Add a few (3-5) useful PNG snapshot tests too.
 

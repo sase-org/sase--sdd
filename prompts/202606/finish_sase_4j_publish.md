@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/finish_sase_4j_publish.md
+plan: sdd/plans/202606/finish_sase_4j_publish.md
 ---
 
 

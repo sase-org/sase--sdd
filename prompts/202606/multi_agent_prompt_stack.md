@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/multi_agent_prompt_stack.md
+plan: sdd/plans/202606/multi_agent_prompt_stack.md
 ---
  Can you help me add robust, beautiful support to the prompt input widget for multi-agent xprompts?
 

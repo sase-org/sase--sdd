@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/vcs_xprompt_ctrlp_stale_context.md
+plan: sdd/plans/202606/vcs_xprompt_ctrlp_stale_context.md
 ---
  The prompt input widget supports the `<ctrl+n/p>` keymaps to pre-fill the prompt input bar with the next/previous VCS xprompt workflow invocation that was made (by looking at what VCS xprompt workflow were invoked in previous prompts). This works, but has some problems. Namely:
 

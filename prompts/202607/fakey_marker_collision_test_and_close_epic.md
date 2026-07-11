@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/fakey_marker_collision_test_and_close_epic.md
+plan: .sase/sdd/plans/202607/fakey_marker_collision_test_and_close_epic.md
 ---
 
 

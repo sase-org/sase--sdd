@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/workflow_plan_step_stuck_running.md
+plan: sdd/plans/202605/workflow_plan_step_stuck_running.md
 ---
   The "1/1-plan" agent child entry (see the `sase ace` snapshot of an agent that I just approved an
 epic for below for context) should have a status of "DONE", not "RUNNING". This is causing the root entries runtime to

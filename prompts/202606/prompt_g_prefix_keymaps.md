@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/prompt_g_prefix_keymaps.md
+plan: sdd/plans/202606/prompt_g_prefix_keymaps.md
 ---
  We've been changing the keymaps for the prompt input widget a lot this morning (see recent, related git commits), but I think I've finally thought this through and understand what I want the UX to look like. Can you help me implement these new requirements?
 

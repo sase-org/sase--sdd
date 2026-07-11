@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/prompt_number_increment.md
+plan: sdd/plans/202606/prompt_number_increment.md
 ---
  Can you help me implement the `<ctrl+a>` and `<ctrl+x>` keymaps (inspired by vim) in the prompt input widget to increment/decrement numbers?
 

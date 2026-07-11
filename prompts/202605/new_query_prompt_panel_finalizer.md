@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/new_query_prompt_panel_finalizer.md
+plan: sdd/plans/202605/new_query_prompt_panel_finalizer.md
 ---
  Whey does the "New Query" (see src/sase/xprompts/fork.yml xprompt workflow for context) not show at the bottom
 of the agent prompt for this agent (see the `sase ace` snapshot below)? Can you help me diagnose the root cause of this

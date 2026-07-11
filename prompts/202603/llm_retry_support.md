@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202603/llm_retry_support.md
+plan: sdd/plans/202603/llm_retry_support.md
 ---
 Can you help me add retry support for specific LLM providers, that the user should be able to configure?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202604/rust_backend_phase7.md
+plan: sdd/plans/202604/rust_backend_phase7.md
 ---
   Can you help me continue the rust migration described in the
 @sdd/research/202604/rust_backend_migration.md file by completing phase 7 (phases 0, 1, 2, 3, 4, 5, and 6 are already

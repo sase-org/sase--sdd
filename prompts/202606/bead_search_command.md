@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/bead_search_command.md
+plan: sdd/plans/202606/bead_search_command.md
 ---
  Can you help me create a new `sase bead search` command?
 

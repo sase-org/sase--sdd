@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/fix_generated_skill_staleness_1.md
+plan: sdd/plans/202606/fix_generated_skill_staleness_1.md
 ---
 
 

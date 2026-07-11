@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202607/dynamic_agent_families_v1.md
+plan: sdd/plans/202607/dynamic_agent_families_v1.md
 ---
  #fork:0b.f1 Ok. I like your v1 design. Can you now help me implement this (v1) feature? Go with your recommended options for the "v1 decisions still needed".
 

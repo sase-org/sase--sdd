@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/agent_name_brackets.md
+plan: sdd/plans/202606/agent_name_brackets.md
 ---
  Can you help me stop using a `@` prefix in agent names in the agent list panel and the agent metadata panel on the "Agents" tab of the `sase ace` TUI?
 

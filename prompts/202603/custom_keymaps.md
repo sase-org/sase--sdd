@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202603/custom_keymaps.md
+plan: sdd/plans/202603/custom_keymaps.md
 ---
 Can you help me make ALL keymaps in the `sase ace` TUI configurable via sase's deep-merge configuration system?
 

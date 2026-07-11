@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/legend_bead_integration.md
+plan: sdd/plans/202605/legend_bead_integration.md
 ---
  Can you help me improve sase's legend bead integration? 
 

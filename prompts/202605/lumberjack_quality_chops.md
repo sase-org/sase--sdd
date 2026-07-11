@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/lumberjack_quality_chops.md
+plan: sdd/plans/202605/lumberjack_quality_chops.md
 ---
   Can you help me add two new lumberjack chops?
 

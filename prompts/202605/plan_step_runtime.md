@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/plan_step_runtime.md
+plan: sdd/plans/202605/plan_step_runtime.md
 ---
  The runtime of the selected done agent step (see the `sase ace` snapshot below) is wrong. This runtime should
 have been calculated as the difference between the "BEGIN" timestamp and the "PLAN" timestamp. Can you help me fix this?

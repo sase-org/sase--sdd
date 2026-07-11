@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/telegram_at_vcs_xprompt_normalization.md
+plan: sdd/plans/202605/telegram_at_vcs_xprompt_normalization.md
 ---
   Can you help me start substituting "@" for ":" an inbound telegram messages before sending them to sase when it appears those "@" symbols are in the middle of and xprompt invocation? For example
 ```

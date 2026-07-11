@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/agent_counts.md
+plan: sdd/plans/202605/agent_counts.md
 ---
  Can you help me start showing (at the top near the auto-refresh and group strategy) agent counts?
 

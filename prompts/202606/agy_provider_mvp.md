@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/agy_provider_mvp.md
+plan: sdd/plans/202606/agy_provider_mvp.md
 ---
  #fork:research.t.final Can you help me make this migration and implement an ambitious MVP (try to support everything that claude and codex support) for the new Antigravity (`agy`) LLM provider? Remember that LLM provider support is supposed to be pluggable so try to add as little custom logic for anti-gravity to sase's code base as possible.
 

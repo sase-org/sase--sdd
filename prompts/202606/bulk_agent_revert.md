@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/bulk_agent_revert.md
+plan: sdd/plans/202606/bulk_agent_revert.md
 ---
  We recently added support for the new `,r` keymap that reverts any commits associated with the selected agent
 on the agents tab in the TUI. Can you help me add support for this keymap to be used to bulk revert all marked agents?

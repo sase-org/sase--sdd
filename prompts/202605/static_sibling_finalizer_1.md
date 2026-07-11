@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/static_sibling_finalizer_1.md
+plan: sdd/plans/202605/static_sibling_finalizer_1.md
 ---
  I don't think the chezmoi sibling configuration is working right (see the sase.yml file in my chezmoi repo).
 The "bm6" sase agent just made file changes in my chezmoi repo, but did not commit them (our commit finalizer should

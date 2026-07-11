@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/agents_header_counts.md
+plan: sdd/plans/202605/agents_header_counts.md
 ---
  Can you help me change the format of the agent count header shown at the top of the "Agents" tab of the
 `sase ace` TUI? Namely, let's put the total in parentheses after "Agents" and let's add two new counts: `<N> waiting`

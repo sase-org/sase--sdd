@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/agents_back_jump_sources.md
+plan: sdd/plans/202605/agents_back_jump_sources.md
 ---
  When we use the double apostrophe key map to jump to the previous jump point (or the first row if there is no
 previous jump point), we only currently look at whether the user used an apostrophe key map before. Can we also start

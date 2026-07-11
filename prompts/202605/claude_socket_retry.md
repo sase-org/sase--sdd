@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/claude_socket_retry.md
+plan: sdd/plans/202605/claude_socket_retry.md
 ---
  can you help me diagnose the root cause of this issue and fix it? See the following error report for context:  
 /home/bryan/.sase/projects/sase/artifacts/ace- 

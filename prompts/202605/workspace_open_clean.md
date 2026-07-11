@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/workspace_open_clean.md
+plan: sdd/plans/202605/workspace_open_clean.md
 ---
  Can you help me change the behavior of the `sase workspace open` command? Namely:
 

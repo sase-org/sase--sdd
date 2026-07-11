@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/telegram_bead_active_filter.md
+plan: .sase/sdd/plans/202607/telegram_bead_active_filter.md
 ---
 The user sent an image via Telegram with the following caption:
 

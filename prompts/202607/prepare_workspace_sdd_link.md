@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/prepare_workspace_sdd_link.md
+plan: .sase/sdd/plans/202607/prepare_workspace_sdd_link.md
 ---
  The sase agent named "22" just failed. Can you help me diagnose the root cause of this issue and fix it? See the ~/.sase/plans/202607/fix_plan_chain_sdd_ref_resolution.md plan for inspiration, but you'll need to make an adjustment to that plan. Namely:
 

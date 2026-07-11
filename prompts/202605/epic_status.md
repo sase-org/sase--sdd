@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/epic_status.md
+plan: sdd/plans/202605/epic_status.md
 ---
  This agent (see the `sase ace` snapshot below) should be marked as "RUNNING" instead of "PLANNING" (which is
 used when a plan has been proposed that the user needs to approve---agents that use `%epic` get their plans

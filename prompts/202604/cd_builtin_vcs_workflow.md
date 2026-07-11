@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202604/cd_builtin_vcs_workflow.md
+plan: sdd/plans/202604/cd_builtin_vcs_workflow.md
 ---
   Can you help me add a new #cd built-in VCS xprompt workflow?
 

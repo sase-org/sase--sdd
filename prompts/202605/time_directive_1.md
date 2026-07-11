@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/time_directive_1.md
+plan: sdd/plans/202605/time_directive_1.md
 ---
   Can you help me add a new `%t|%time` directive that takes over the time/duration functionality that the
 `%w|%wait` directive currently handles? It was always confusing that `%wait` could accept either an agent name or a

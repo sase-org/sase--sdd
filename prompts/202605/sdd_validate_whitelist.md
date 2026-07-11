@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/sdd_validate_whitelist.md
+plan: sdd/plans/202605/sdd_validate_whitelist.md
 ---
  GitHub Actions is failing with the below error. Can you help me add support to the `sase sdd validate` command
 for a whitelist of files that are allowed to contain validation errors? Fix any issues you can (see output below) and

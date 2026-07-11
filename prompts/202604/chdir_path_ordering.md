@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202604/chdir_path_ordering.md
+plan: sdd/plans/202604/chdir_path_ordering.md
 ---
 Can you help me fix this `#split` xprompt workflow (defined in the ../retired Mercurial plugin repo)? See the error below for
 context. Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/fix_dismissed_bundle_fd_leak.md
+plan: sdd/plans/202605/fix_dismissed_bundle_fd_leak.md
 ---
  The `just test` command keeps failing with errors like those shown below. Can you help me diagnose the root
 cause of this issue and fix it? Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.

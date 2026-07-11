@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/q_keymap_quit_restart_panel.md
+plan: sdd/plans/202606/q_keymap_quit_restart_panel.md
 ---
   The `Q` currently keymap stops axe (i.e. the `sase axe` command) and quits the TUI. Can you help me add the option to restart the TUI using this keymap?
 

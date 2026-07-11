@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/ace_responsiveness.md
+plan: sdd/plans/202605/ace_responsiveness.md
 ---
  #resume:acb.r1  Can you help me implement a solution for these performance issues with `sase ace`? Use
 the research markdown file for inspiration / as a jumping off point. This is a large piece of work that should be split into phases. I'll let you decide how many phases to create, but

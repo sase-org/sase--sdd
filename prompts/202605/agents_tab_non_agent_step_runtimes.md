@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/agents_tab_non_agent_step_runtimes.md
+plan: sdd/plans/202605/agents_tab_non_agent_step_runtimes.md
 ---
  We seem to show runtimes for non-agent steps on the "Agents" tab of the `sase ace` TUI. We should only show
 runtimes for agent/workflow entries and agent steps (see the "setup", "prepare", and "checkout" steps in the `sase ace`

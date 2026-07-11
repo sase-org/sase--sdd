@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/agents_sibling_keymap.md
+plan: sdd/plans/202605/agents_sibling_keymap.md
 ---
  Can you help me add a new `~` keymap to the "Agents" tab of the `sase ace` TUI?
 

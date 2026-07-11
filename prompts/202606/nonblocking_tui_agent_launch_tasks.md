@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/nonblocking_tui_agent_launch_tasks.md
+plan: sdd/plans/202606/nonblocking_tui_agent_launch_tasks.md
 ---
  Why is there any need to block the TUI when we launch agents? Can't we use background tasks (shown in the top
 right of the TUI and in the "Task Queue" panel) for whatever blocking work is required to launch an agent (even when

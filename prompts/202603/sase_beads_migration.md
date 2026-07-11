@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202603/sase_beads_migration.md
+plan: sdd/plans/202603/sase_beads_migration.md
 ---
 #gh:sase #resume:l Great. I think I'm ready to start planning our migration from steveyegge/beads to sase-beads. Can you
 help me plan the implementation of the new ../sase-beads repo and sase's migration from steveyegge/beads to sase-beads?

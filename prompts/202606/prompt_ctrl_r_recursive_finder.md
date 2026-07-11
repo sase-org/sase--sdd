@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/prompt_ctrl_r_recursive_finder.md
+plan: sdd/plans/202606/prompt_ctrl_r_recursive_finder.md
 ---
  The prompt input widget already has support for the `<ctrl+t>` keymap for file path completion (among other things). Can you help me add support for a new `<ctrl+r>` keymap that supports user-filtered (as they type), recursive (on the directory that was to the left of the user's cursor when they pressed `<ctrl+r>`) file path completion?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/agent_group_revival.md
+plan: sdd/plans/202605/agent_group_revival.md
 ---
  I want to add a new `S` keymap to the TUI's agents tab that dismisses (never kills) all marked agents) and saves them for easy revival later.
 

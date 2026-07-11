@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202604/fix_hg_diff_mentor_matching.md
+plan: sdd/plans/202604/fix_hg_diff_mentor_matching.md
 ---
 No MENTORS line has been added to this ChangeSpec (see the `sase ace` snapshot below). This is occurring on another
 machine. Can you help me diagnose the root cause of this issue and fix it? Think this through thoroughly and create a

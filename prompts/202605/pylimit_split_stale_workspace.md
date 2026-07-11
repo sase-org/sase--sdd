@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/pylimit_split_stale_workspace.md
+plan: sdd/plans/202605/pylimit_split_stale_workspace.md
 ---
  The sase_pylimit_split chop keeps detecting the same file multiple times in a row (last night it ran ~7 times
 on the same file, for which the first run committed a fix for--that split the file and should have resulted in that file

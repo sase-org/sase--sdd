@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/notification_tags.md
+plan: sdd/plans/202605/notification_tags.md
 ---
  Can you help me add support for sase notification tags?
 

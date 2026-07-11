@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/qwen_opencode.md
+plan: sdd/plans/202605/qwen_opencode.md
 ---
   Can you help me add support to sase for Qwen CLI and OpenCode? See the recently committed research markdown file related to this for context.
 

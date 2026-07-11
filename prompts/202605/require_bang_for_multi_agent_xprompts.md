@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/require_bang_for_multi_agent_xprompts.md
+plan: sdd/plans/202605/require_bang_for_multi_agent_xprompts.md
 ---
  We currently invoke standalone xprompt workflows via the `#!` prefix. We also support multi-prompts (using a
 line containing just 3 dashes to separate the agent prompts) in `*.md` xprompt definitions. These too should be

@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202604/markdown_pdf_attachments.md
+plan: sdd/plans/202604/markdown_pdf_attachments.md
 ---
   Can you help me add support for creating PDFs from any markdown files sase agents create or modify?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/prompt_frontmatter_panel.md
+plan: sdd/plans/202606/prompt_frontmatter_panel.md
 ---
   I am trying to bring the prompt input widget up to parity with xprompt markdown files.
 We recently added support for multi-agent prompts to the prompt input widget with this goal in mind. Can you now help me

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/ace_tmux_output_refinements.md
+plan: sdd/plans/202605/ace_tmux_output_refinements.md
 ---
  #resume:ahs.1.plan  I don't think the `sase_tmux_target` output is necessary, right? Can't the
 agent construct it from the other variables? Also, it would be better if we output the PID for `sase ace` instead of the

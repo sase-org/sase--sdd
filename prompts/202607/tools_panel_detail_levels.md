@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/tools_panel_detail_levels.md
+plan: sdd/plans/202607/tools_panel_detail_levels.md
 ---
  Can you help me make it possible to collapse and expand the level of detail shown in the tools panel using the new `h`/`l` keymaps, respectively?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/merge_qa_sections.md
+plan: sdd/plans/202605/merge_qa_sections.md
 ---
  We don't seem to even attempt to merge the "Questions and Answers" sections when an agent has multiple
 question-answer rounds. See the `sase ace` snapshot in the ~/tmp/sase_snapshot.txt file for context. Can you help me

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/plan_approval_coder_index_refresh.md
+plan: sdd/plans/202605/plan_approval_coder_index_refresh.md
 ---
  When I approve a plan from the TUI now, I seem to need to do a tier 2 agent refresh (e.g. use the `,y` keymap)
 in order to see the coder agent that gets launched to implement the plan. Can you help me fix this by updating the tier

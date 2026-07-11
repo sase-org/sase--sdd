@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/chop_output_coverage.md
+plan: sdd/plans/202605/chop_output_coverage.md
 ---
  We recently made it easy to view lumberjack chop output from the AXE tab, but most chops don't output anything useful. Can you help me add good output to all of our chops (see the sase_athena.yml file in my chezmoi repo)? 
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/sase_init_onboarding.md
+plan: sdd/plans/202605/sase_init_onboarding.md
 ---
  #resume:a3g.f1  Can you help me implement this command using this research as inspiration? I want you to lead the design on this one. Just make sure it looks beautiful!
 

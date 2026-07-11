@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/zorg_epic_linking.md
+plan: sdd/plans/202605/zorg_epic_linking.md
 ---
  The zorg-2 epic bead (see the `sase ace` snapshot below) should have been named zorg-1.1 since the agent should
 have linked the epic bead to zorg-1 at the time of creation. Can you help me dig into what went wrong here and fix it

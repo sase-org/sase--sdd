@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/auto_approve_pending_plan.md
+plan: sdd/plans/202606/auto_approve_pending_plan.md
 ---
  I'm worried that setting the `%auto` directive using the `A` keymap on the "Agents" tab of the `sase ace` TUI doesn't work right (i.e. the plan isn't auto-approved properly). Can you help me diagnose the root cause of this issue and fix it?
 

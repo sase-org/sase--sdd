@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/tier1_anonymous_workflow_hidden.md
+plan: sdd/plans/202605/tier1_anonymous_workflow_hidden.md
 ---
  When I start up `sase ace` after the changes made recently to tier 1 agent loading (see the sase-3t epic bead
 for context), only a few of the expected agents are shown (see the BAD `sase ace` snapshot below). When I use the `,y`

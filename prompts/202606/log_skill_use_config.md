@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/log_skill_use_config.md
+plan: sdd/plans/202606/log_skill_use_config.md
 ---
  #fork:7b Can you help me make whether the instruction to use the `sase skills log` command is added to an xprompt skill's instructions configurable by adding support for a new `log_skill_use` boolean xprompt config field that defaults to true (so we maintain the current behavior for most xprompt skills)? Set `log_skill_use: false` for the /sase_plan and /sase_memory_read xprompt skills to start.
 

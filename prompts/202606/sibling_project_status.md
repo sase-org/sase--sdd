@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/sibling_project_status.md
+plan: sdd/plans/202606/sibling_project_status.md
 ---
   Can you help me start supporting a new "sibling" status for projects (see the recent work related
 to the "Project Management" panel in the TUI for context)?

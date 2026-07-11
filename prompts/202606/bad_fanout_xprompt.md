@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/bad_fanout_xprompt.md
+plan: sdd/plans/202606/bad_fanout_xprompt.md
 ---
  The ~/tmp/bad_fanout_prompt.md file contains a prompt that should have launched 8 agents (4 opus, 4 GPT-5.5),
 but it only launched 4 (all opus). I think it might be something wrong with how the `m_opus_codex` xprompt (which is

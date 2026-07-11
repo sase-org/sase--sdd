@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/onboarding_install_plugins_step.md
+plan: sdd/plans/202607/onboarding_install_plugins_step.md
 ---
  Can you help me add a new step to the onboarding page that is shown on the agents tab when there are no agents?
 

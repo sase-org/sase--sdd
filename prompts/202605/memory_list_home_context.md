@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/memory_list_home_context.md
+plan: sdd/plans/202605/memory_list_home_context.md
 ---
  Can you help me improve the `sase memory list` command (current output is shown below)?
 

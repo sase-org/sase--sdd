@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/agent_family_context_1.md
+plan: sdd/plans/202606/agent_family_context_1.md
 ---
  I don't think that we currently surface memory reads (or logged xprompt skills probably) from any other agent but the first in the agent family (e.g. the "plan" agent when the agent proposes a sase plan) in the agent metadata panel on the "Agents" tab of the `sase ace` TUI. Can you help me fix this?
 

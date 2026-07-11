@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/nvim_telescope_preview_newlines.md
+plan: sdd/plans/202605/nvim_telescope_preview_newlines.md
 ---
  Can you help me fix this error I am seeing in nvim? I think it likely has something to do with the recent
 commit we made to the sase-nvim repo. Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.

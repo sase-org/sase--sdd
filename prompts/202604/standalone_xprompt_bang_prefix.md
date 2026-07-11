@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202604/standalone_xprompt_bang_prefix.md
+plan: sdd/plans/202604/standalone_xprompt_bang_prefix.md
 ---
  Can you help me start requiring that standalong xprompt workflows be referenced using the `#!` prefix instead
 of just `#`? See the @sdd/research/202604/standalone_workflow_xprompt_split.md research file for inspiration. Make sure

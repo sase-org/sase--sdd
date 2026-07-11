@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202603/xprompt_add_edit_ux.md
+plan: sdd/plans/202603/xprompt_add_edit_ux.md
 ---
 #gh:sase Can you help me make the experience of adding/editing xprompts from the `sase ace` TUI WAY better?
 

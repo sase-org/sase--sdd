@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/automate_sdd_companion_repo.md
+plan: .sase/sdd/plans/202607/automate_sdd_companion_repo.md
 ---
  We recently added support for storing SDD files in a separate GitHub repo. Can you help me make sure that the creation of this GitHub repository is automated by the `sase sdd init` and then also by the `sase init` command, which wraps the former command?
 

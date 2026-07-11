@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/fix_finalizer_workspace_scope.md
+plan: sdd/plans/202605/fix_finalizer_workspace_scope.md
 ---
  Can you help me fix this agent failure (see the `sase ace` snapshot below)? I'm pretty sure the issue is a bug we added with a commit yesterday. We should only consider sibling repos that use the workspace directory assigned by the `sase workspace open` command. Can you help me fix this? Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.
 

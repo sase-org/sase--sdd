@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/tui_xprompt_argument_assist.md
+plan: sdd/plans/202605/tui_xprompt_argument_assist.md
 ---
   I want to add an xprompt argument, name/type completion and hints. Can you help me implement this? See the recent research markdown file that was committed which relates to this. 
 

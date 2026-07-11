@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/sase_31_close_ace_png_drift.md
+plan: sdd/plans/202605/sase_31_close_ace_png_drift.md
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/merge_help_and_tab_guide_panels.md
+plan: sdd/plans/202607/merge_help_and_tab_guide_panels.md
 ---
   Can you help me merge the panels shown by the `?` and `,?` keymaps?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/admin_center_tabs.md
+plan: sdd/plans/202606/admin_center_tabs.md
 ---
   Can you help me make some improvements to the "SASE Admin Center"?
 

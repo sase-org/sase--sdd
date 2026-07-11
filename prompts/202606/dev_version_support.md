@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/dev_version_support.md
+plan: sdd/plans/202606/dev_version_support.md
 ---
  Can you help me add support for editable / development versions (aka "dev" versions--ex: `0.5.0+285.g80d5c47c1`) to the `sase plugin list` command's output, the `sase update` command (which should be able to update to the latest dev version--if a dev version is already used) and the "Updates" tab in the TUI's "SASE Admin Center" panel?
 

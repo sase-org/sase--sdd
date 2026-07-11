@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/complete_sase_52_alt_directive_predicate.md
+plan: sdd/plans/202606/complete_sase_52_alt_directive_predicate.md
 ---
 
 

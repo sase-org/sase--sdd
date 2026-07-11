@@ -1,5 +1,5 @@
 ---
-plan: .sase/sdd/tales/202607/sdd_companion_artifact_discovery.md
+plan: .sase/sdd/plans/202607/sdd_companion_artifact_discovery.md
 ---
  Agents that produce sdd/research/ markdown files no longer list those files as artifacts (see #sshot, for example). This seemed to start happening after we recently migrated to using a separate repo for SDD artifacts. Can you help me diagnose the root cause of this issue and fix it? Make sure your fix will also resolve any issues we might be having with sase-telegram (ex: I bet that image files that are added/changed by agents are not sent with Telegram agent completion messages anymore, but I'm not sure).
 

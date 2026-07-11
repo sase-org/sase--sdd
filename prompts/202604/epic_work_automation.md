@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202604/epic_work_automation.md
+plan: sdd/plans/202604/epic_work_automation.md
 ---
  Can you help me add direct integration into sase for working epics (i.e. running one agent per phase bead and then running one agent to land the epic)?
 

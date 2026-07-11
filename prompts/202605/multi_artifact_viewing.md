@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/multi_artifact_viewing.md
+plan: sdd/plans/202605/multi_artifact_viewing.md
 ---
  Can you help me add support to the artifact panel for selecting multiple documents to view?
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202604/fix_mentor_profiles_loading.md
+plan: sdd/plans/202604/fix_mentor_profiles_loading.md
 ---
 The MENTORS ChangeSpec field is not being added to the below ChangeSpec by `sase axe` (running on another machine). Can
 you help me diagnose the root cause of this issue and fix it? Think this through thoroughly and create a plan using your

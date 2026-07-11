@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/agents_starting_status.md
+plan: sdd/plans/202605/agents_starting_status.md
 ---
  Can you help me add a new STARTING agent row status on the "Agents" tab of the `sase ace` TUI? The goal of this status
 is to distinguish between agents that are actually running and agent prompts that are still being processed, where we

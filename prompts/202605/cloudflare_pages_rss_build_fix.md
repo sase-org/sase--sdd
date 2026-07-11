@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/cloudflare_pages_rss_build_fix.md
+plan: sdd/plans/202605/cloudflare_pages_rss_build_fix.md
 ---
  The sase.sh site's build + deply (to Cloudflare Pages) failed (see output below). Can you help me diagnose the root cause of this issue and fix it? Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.
 

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/sase37_completion.md
+plan: sdd/plans/202605/sase37_completion.md
 ---
  Can you help me verify that all the work associated with the bead with ID sase-37 is complete?
 

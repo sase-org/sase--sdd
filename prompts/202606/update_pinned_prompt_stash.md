@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202606/update_pinned_prompt_stash.md
+plan: sdd/plans/202606/update_pinned_prompt_stash.md
 ---
  Yesterday we added support for pinned prompt stashes. Can you now help me add the new `gS` (normal mode) and `<ctrl+g>S` (insert mode) keymaps to the prompt input widget?
 

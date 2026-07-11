@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202605/agents_tab_repro_mvp.md
+plan: sdd/plans/202605/agents_tab_repro_mvp.md
 ---
  #resume:uj.r1 Can you help me implement a (highly capable) MVP of this testing framework that previous research agents recommended? Make sure to fully replicate the TUI bug that we've been attempting to fix and determine whether or not the bug is actually fixed or not.
 

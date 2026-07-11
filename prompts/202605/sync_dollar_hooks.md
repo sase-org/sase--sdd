@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/sync_dollar_hooks.md
+plan: sdd/plans/202605/sync_dollar_hooks.md
 ---
  Can you help me make sure that whenever the sync operation associated with the `Y` keymap on the "CLs" tab of
 the `sase ace` TUI completes, that all HOOKS entries that use the special `$` prefix have the status line associated

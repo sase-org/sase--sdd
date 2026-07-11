@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202604/repeat_agents_as_entries.md
+plan: sdd/plans/202604/repeat_agents_as_entries.md
 ---
 The way agents created using the `%r` directive are displayed on the "Agents" tab of the `sase ace` TUI currently is
 pretty bad (see the `sase ace` snapshot below). Can you help me start running each repeat agent as its own agent entry

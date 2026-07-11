@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202606/version_command.md
+plan: sdd/plans/202606/version_command.md
 ---
  Can you help me create a new `sase version` command that shows the version of sase, sase-core, and any other
 installed sase plugins (ex: sase-github, sase-telegram)?

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202607/subagent_tool_output.md
+plan: sdd/plans/202607/subagent_tool_output.md
 ---
  I'm seeing "No recorded output" for tool calls of type "Agent". See #sshot for context. It would be really great if we had some useful output from subagents. Can you help me design and implement a solution for this?
 

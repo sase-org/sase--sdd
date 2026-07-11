@@ -1,5 +1,5 @@
 ---
-plan: sdd/epics/202607/vcs_repo_slash_completion.md
+plan: sdd/plans/202607/vcs_repo_slash_completion.md
 ---
  Can you help me add good completion for GitHub repos when the user presses the `/` key an the argument provided to the `#gh` xprompt workflow?
 

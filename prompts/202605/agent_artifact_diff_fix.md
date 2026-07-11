@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/agent_artifact_diff_fix.md
+plan: sdd/plans/202605/agent_artifact_diff_fix.md
 ---
  The agent named "zf", which was run using the `home` bare git project, created a new sdd/research/ markdown
 file (see git commit 64d0450eaef540ec6ff3d4cdf69e7ff84c07a1c6 in the ~/projects/git/home/ repo), but I'm not seeing a

@@ -1,5 +1,5 @@
 ---
-plan: sdd/tales/202605/agent_root_running_status.md
+plan: sdd/plans/202605/agent_root_running_status.md
 ---
  This agent's root agent row entry (see the `sase ace` snapshot below) should have a status of "RUNNING" not "QUESTION", since its most recently run agent child step has a status of "RUNNING". Can you help me fix this? Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.
 
