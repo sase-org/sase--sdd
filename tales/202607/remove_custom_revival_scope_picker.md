@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-11 13:02:09
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/remove_custom_revival_scope_picker.md
 ---
 # Plan: Open Custom Revival Search Directly on Recent Dismissed Agents
