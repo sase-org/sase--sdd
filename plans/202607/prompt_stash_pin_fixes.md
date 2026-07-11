@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-11 17:20:54
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/prompt_stash_pin_fixes.md
 tier: tale
 ---
