@@ -22,7 +22,7 @@ Its finalizer result was:
 ```
 
 That was technically true for `sase_16`, but the agent created
-`sdd/epics/202605/structured_episodic_memory_mvp_infographic.png` in the separate checkout
+`sdd/plans/202605/structured_episodic_memory_mvp_infographic.png` in the separate checkout
 `/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_17/`. The tool log records those writes via absolute paths
 to `sase_17`, and `git -C .../sase_17 status --short --branch` still shows the PNG as untracked.
 
