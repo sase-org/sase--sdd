@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-11 19:16:09
-status: wip
+status: done
 prompt: .sase/sdd/plans/202607/prompts/fix_vcs_ref_alias_prefix_mangle.md
 tier: tale
 ---
