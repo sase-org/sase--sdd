@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-11 13:39:17
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/unified_plans_dir_tier.md
 ---
 # Plan: Unify SDD `tales/` and `epics/` into a single `plans/` directory keyed by `tier` frontmatter
