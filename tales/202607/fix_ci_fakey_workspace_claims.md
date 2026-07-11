@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-11 11:41:28
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/fix_ci_fakey_workspace_claims.md
 ---
 # Plan: Restore CI retry and agent-loader coverage
