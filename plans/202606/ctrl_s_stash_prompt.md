@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-24 07:52:57
 status: done
-prompt: sdd/prompts/202606/ctrl_s_stash_prompt.md
+prompt: sdd/plans/202606/prompts/ctrl_s_stash_prompt.md
 tier: tale
 ---
 # Plan: Rebind `<Ctrl+S>` in the prompt input widget to stash

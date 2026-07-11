@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 17:08:44
 status: done
-prompt: sdd/prompts/202606/finalizer_opened_siblings.md
+prompt: sdd/plans/202606/prompts/finalizer_opened_siblings.md
 tier: tale
 ---
 # Plan: Commit finalizer only checks sibling repos the agent actually opened

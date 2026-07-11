@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 09:14:48
 status: done
-prompt: sdd/prompts/202606/failed_launch_prompt_stash.md
+prompt: sdd/plans/202606/prompts/failed_launch_prompt_stash.md
 tier: tale
 ---
 

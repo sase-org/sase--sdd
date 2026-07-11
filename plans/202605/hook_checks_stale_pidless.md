@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-28 14:00:09
 status: done
-prompt: sdd/prompts/202605/hook_checks_stale_pidless.md
+prompt: sdd/plans/202605/prompts/hook_checks_stale_pidless.md
 tier: tale
 ---
 # Diagnose And Fix Stale PID-less `hook_checks` Runs

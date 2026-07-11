@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-02 12:02:56
 status: done
-prompt: sdd/prompts/202604/prompt_history_project_fix.md
+prompt: sdd/plans/202604/prompts/prompt_history_project_fix.md
 tier: tale
 ---
 

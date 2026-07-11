@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-01 20:29:51
 status: wip
-prompt: sdd/prompts/202604/nvim_treesitter_root_cause_fix.md
+prompt: sdd/plans/202604/prompts/nvim_treesitter_root_cause_fix.md
 tier: tale
 ---
 

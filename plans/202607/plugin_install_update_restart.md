@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-03 16:52:05
 status: done
-prompt: sdd/prompts/202607/plugin_install_update_restart.md
+prompt: sdd/plans/202607/prompts/plugin_install_update_restart.md
 tier: tale
 ---
 # Plan: Restart TUI + AXE when installing/updating individual plugins

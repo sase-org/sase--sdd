@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-23 11:46:16
 status: done
-prompt: sdd/prompts/202605/scoped_init_check.md
+prompt: sdd/plans/202605/prompts/scoped_init_check.md
 tier: tale
 ---
 # Scoped Init Check Plan

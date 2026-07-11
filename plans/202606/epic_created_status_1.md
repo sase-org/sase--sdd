@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-01 10:26:29
 status: done
-prompt: sdd/prompts/202606/epic_created_status_1.md
+prompt: sdd/plans/202606/prompts/epic_created_status_1.md
 tier: tale
 ---
 # Fix Epic Follow-Up Terminal Statuses

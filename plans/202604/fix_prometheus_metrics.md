@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-11 22:59:47
 status: done
-prompt: sdd/prompts/202604/fix_prometheus_metrics.md
+prompt: sdd/plans/202604/prompts/fix_prometheus_metrics.md
 tier: tale
 ---
 

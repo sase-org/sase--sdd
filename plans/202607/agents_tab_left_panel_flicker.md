@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 22:43:03
 status: done
-prompt: .sase/sdd/prompts/202607/agents_tab_left_panel_flicker.md
+prompt: .sase/sdd/plans/202607/prompts/agents_tab_left_panel_flicker.md
 tier: tale
 ---
 # Fix the Agents-tab left-panel flicker

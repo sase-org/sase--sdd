@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-05 08:45:05
 status: done
-prompt: sdd/prompts/202605/cli_help_subcommand_sorting.md
+prompt: sdd/plans/202605/prompts/cli_help_subcommand_sorting.md
 tier: tale
 ---
 # Plan: Alphabetize CLI Subcommands In All Help Output

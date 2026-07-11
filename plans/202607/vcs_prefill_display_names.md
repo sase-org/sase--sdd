@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-03 06:52:44
 status: wip
-prompt: sdd/prompts/202607/vcs_prefill_display_names.md
+prompt: sdd/plans/202607/prompts/vcs_prefill_display_names.md
 tier: tale
 ---
 # Show the Configured `PROJECT_NAME` (Never the Directory Key) in VCS xprompt Prefill Surfaces

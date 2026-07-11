@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-21 18:56:45
 status: done
-prompt: sdd/prompts/202606/xprompt_optional_colon_spacer.md
+prompt: sdd/plans/202606/prompts/xprompt_optional_colon_spacer.md
 tier: tale
 ---
 # Auto-delete Optional XPrompt Spacer Before Colon

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-02 13:10:09
 status: done
-prompt: sdd/prompts/202605/sdd_validate_whitelist.md
+prompt: sdd/plans/202605/prompts/sdd_validate_whitelist.md
 tier: tale
 ---
 # Plan: SDD Validate Legacy Error Whitelist

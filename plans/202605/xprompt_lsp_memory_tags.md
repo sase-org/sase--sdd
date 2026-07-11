@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-24 10:04:55
 status: done
-prompt: sdd/prompts/202605/xprompt_lsp_memory_tags.md
+prompt: sdd/plans/202605/prompts/xprompt_lsp_memory_tags.md
 tier: tale
 ---
 # Plan: Make xprompt LSP diagnostics honor implicit memory/long tags

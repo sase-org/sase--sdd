@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 16:19:55
 status: done
-prompt: .sase/sdd/prompts/202607/codex_at_capacity_retry.md
+prompt: .sase/sdd/plans/202607/prompts/codex_at_capacity_retry.md
 tier: tale
 ---
 # Plan: Retry Codex "Selected model is at capacity" Failures by Default

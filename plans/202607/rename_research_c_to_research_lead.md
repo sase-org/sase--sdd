@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 09:44:44
 status: wip
-prompt: prompts/202607/rename_research_c_to_research_lead.md
+prompt: plans/202607/prompts/rename_research_c_to_research_lead.md
 tier: tale
 ---
 # Plan: Rename the Research-C Model Alias to Research-Lead

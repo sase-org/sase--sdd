@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 13:57:16
 status: done
-prompt: .sase/sdd/prompts/202607/fix_visual_e2e_prettier_hermeticity.md
+prompt: .sase/sdd/plans/202607/prompts/fix_visual_e2e_prettier_hermeticity.md
 tier: tale
 ---
 # Fix CI PNG snapshot failures: prettier-dependent prompt rendering + empty visual-artifact uploads

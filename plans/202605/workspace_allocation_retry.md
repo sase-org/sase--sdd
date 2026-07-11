@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 15:05:30
 status: done
-prompt: sdd/prompts/202605/workspace_allocation_retry.md
+prompt: sdd/plans/202605/prompts/workspace_allocation_retry.md
 tier: tale
 ---
 # Workspace Allocation Retry Plan

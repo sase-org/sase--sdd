@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-06 22:55:05
 status: done
-prompt: sdd/prompts/202607/chat_update_builtin_engine.md
+prompt: sdd/plans/202607/prompts/chat_update_builtin_engine.md
 tier: tale
 ---
 # Plan: Consolidate chat `/update` with the built-in SASE update engine

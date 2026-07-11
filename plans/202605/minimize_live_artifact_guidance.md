@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 11:31:07
 status: done
-prompt: sdd/prompts/202605/minimize_live_artifact_guidance.md
+prompt: sdd/plans/202605/prompts/minimize_live_artifact_guidance.md
 tier: tale
 ---
 # Minimize Live Artifact Guidance Changes

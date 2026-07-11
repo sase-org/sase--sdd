@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-30 01:52:07
 status: done
-prompt: sdd/prompts/202604/github_actions_llm_override_ci.md
+prompt: sdd/plans/202604/prompts/github_actions_llm_override_ci.md
 tier: tale
 ---
 # Diagnose and Fix Temporary LLM Override CI Drift

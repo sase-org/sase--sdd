@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-29 08:43:37
 status: done
-prompt: sdd/prompts/202606/rename_waiting_for_field.md
+prompt: sdd/plans/202606/prompts/rename_waiting_for_field.md
 tier: tale
 ---
 # Rename Agents Metadata Wait Label

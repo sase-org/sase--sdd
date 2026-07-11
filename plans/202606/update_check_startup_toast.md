@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-28 14:54:21
 status: done
-prompt: sdd/prompts/202606/update_check_startup_toast.md
+prompt: sdd/plans/202606/prompts/update_check_startup_toast.md
 tier: tale
 ---
 # Plan: "Updates available" startup toast + lightweight periodic version check

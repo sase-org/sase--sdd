@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 11:08:47
 status: done
-prompt: sdd/prompts/202605/hash_at_smart_args.md
+prompt: sdd/plans/202605/prompts/hash_at_smart_args.md
 tier: tale
 ---
 # Plan: Smart xprompt arguments for #@

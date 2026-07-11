@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 16:04:39
 status: done
-prompt: .sase/sdd/prompts/202607/vcs_list.md
+prompt: .sase/sdd/plans/202607/prompts/vcs_list.md
 tier: tale
 ---
 # Plan: `sase vcs list` — the cross-repo constellation at a glance

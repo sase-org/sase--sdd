@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-27 13:23:47
 status: done
-prompt: sdd/prompts/202604/auto_name_release.md
+prompt: sdd/plans/202604/prompts/auto_name_release.md
 tier: tale
 ---
 # Fix Auto-Assignable Agent Name Release

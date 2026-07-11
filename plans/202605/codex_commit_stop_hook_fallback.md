@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-11 13:03:47
 status: wip
-prompt: sdd/prompts/202605/codex_commit_stop_hook_fallback.md
+prompt: sdd/plans/202605/prompts/codex_commit_stop_hook_fallback.md
 tier: tale
 ---
 # Codex Commit Stop Hook Fallback Plan

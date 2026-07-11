@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-04 19:35:04
 status: done
-prompt: sdd/prompts/202606/concurrent_research_swarm_launch_race.md
+prompt: sdd/plans/202606/prompts/concurrent_research_swarm_launch_race.md
 tier: tale
 ---
 # Plan: Fix Concurrent Research Swarm Launch Races

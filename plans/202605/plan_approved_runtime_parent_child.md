@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 11:31:26
 status: done
-prompt: sdd/prompts/202605/plan_approved_runtime_parent_child.md
+prompt: sdd/plans/202605/prompts/plan_approved_runtime_parent_child.md
 tier: tale
 ---
 # Fix PLAN APPROVED Parent and Planner Child Runtime Interaction

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-24 18:44:39
 status: done
-prompt: sdd/prompts/202604/dynamic_memory_post_prestep_regen.md
+prompt: sdd/plans/202604/prompts/dynamic_memory_post_prestep_regen.md
 tier: tale
 ---
 # Plan: Regenerate dynamic memory after embedded-workflow pre-steps

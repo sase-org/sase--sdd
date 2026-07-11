@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-02 11:39:14
 status: done
-prompt: sdd/prompts/202604/tmux_empty_cls.md
+prompt: sdd/plans/202604/prompts/tmux_empty_cls.md
 tier: tale
 ---
 

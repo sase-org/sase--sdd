@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-27 15:59:35
 status: done
-prompt: sdd/prompts/202606/stuck_starting_agents_orphaned_claims.md
+prompt: sdd/plans/202606/prompts/stuck_starting_agents_orphaned_claims.md
 tier: tale
 ---
 # Plan: Fix agents stuck in "starting" (orphaned RUNNING-field workspace claims)

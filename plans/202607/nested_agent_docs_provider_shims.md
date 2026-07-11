@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-06 19:31:34
 status: done
-prompt: sdd/prompts/202607/nested_agent_docs_provider_shims.md
+prompt: sdd/plans/202607/prompts/nested_agent_docs_provider_shims.md
 tier: tale
 ---
 # Plan: Nested Agent Document Provider Shims

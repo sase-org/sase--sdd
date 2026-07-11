@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-20 19:22:29
 status: done
-prompt: sdd/prompts/202604/repeat_wait_chain.md
+prompt: sdd/plans/202604/prompts/repeat_wait_chain.md
 tier: tale
 ---
 

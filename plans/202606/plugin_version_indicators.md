@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-26 07:11:53
 status: wip
-prompt: sdd/prompts/202606/plugin_version_indicators.md
+prompt: sdd/plans/202606/prompts/plugin_version_indicators.md
 tier: tale
 ---
 # Plan: installed-vs-latest version indicators for `sase plugin list` / `sase plugin show`

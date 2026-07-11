@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-09 13:07:26
 status: done
-prompt: sdd/prompts/202606/agent_restore_preview_roots_prompts.md
+prompt: sdd/plans/202606/prompts/agent_restore_preview_roots_prompts.md
 tier: tale
 ---
 # Plan: Agent Restore Root-Only Preview With Prompt Snippets

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-28 18:22:12
 status: done
-prompt: sdd/prompts/202603/remove_agents_m_keymap.md
+prompt: sdd/plans/202603/prompts/remove_agents_m_keymap.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-23 15:13:10
 status: done
-prompt: sdd/prompts/202605/memory_read_log.md
+prompt: sdd/plans/202605/prompts/memory_read_log.md
 bead_id: sase-41
 tier: epic
 ---

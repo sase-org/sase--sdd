@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-11 21:43:03
 status: wip
-prompt: sdd/prompts/202605/sidebar_blog_reorder_labels.md
+prompt: sdd/plans/202605/prompts/sidebar_blog_reorder_labels.md
 tier: tale
 ---
 # Plan: Move Blog Sidebar Section And Rename Docs Groups

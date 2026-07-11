@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-05 15:26:48
 status: done
-prompt: sdd/prompts/202605/pylimit_split_chop_stale_pid.md
+prompt: sdd/plans/202605/prompts/pylimit_split_chop_stale_pid.md
 tier: tale
 ---
 # Plan: Fix stale PID dedup for `sase_pylimit_split` agent chops

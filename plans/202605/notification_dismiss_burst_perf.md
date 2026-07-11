@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-05 18:21:21
 status: done
-prompt: sdd/prompts/202605/notification_dismiss_burst_perf.md
+prompt: sdd/plans/202605/prompts/notification_dismiss_burst_perf.md
 tier: tale
 ---
 # Plan: Fix notification dismiss burst perf floor

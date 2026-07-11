@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 11:19:20
 status: done
-prompt: sdd/prompts/202605/live_agent_chat_skill_followups.md
+prompt: sdd/plans/202605/prompts/live_agent_chat_skill_followups.md
 tier: tale
 ---
 # Live Agent Chat Skill Followups

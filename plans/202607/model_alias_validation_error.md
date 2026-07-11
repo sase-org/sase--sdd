@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 12:37:55
 status: wip
-prompt: .sase/sdd/prompts/202607/model_alias_validation_error.md
+prompt: .sase/sdd/plans/202607/prompts/model_alias_validation_error.md
 tier: tale
 ---
 # Repair the Models-panel alias edit validation failure

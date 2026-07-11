@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-06 21:47:11
 status: done
-prompt: sdd/prompts/202605/mobile_xprompt_argument_hints.md
+prompt: sdd/plans/202605/prompts/mobile_xprompt_argument_hints.md
 bead_id: sase-27
 tier: epic
 ---

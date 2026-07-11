@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-28 14:45:41
 status: done
-prompt: sdd/prompts/202606/tasks_tab_live_output.md
+prompt: sdd/plans/202606/prompts/tasks_tab_live_output.md
 tier: tale
 ---
 # Plan: Beautiful, Live Output for the Admin Center "Tasks" Tab

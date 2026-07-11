@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-09 14:02:05
 status: done
-prompt: .sase/sdd/prompts/202607/beautiful_vcs_log_tags.md
+prompt: .sase/sdd/plans/202607/prompts/beautiful_vcs_log_tags.md
 tier: tale
 ---
 # Plan: Make `sase vcs log` SASE Tags Beautiful

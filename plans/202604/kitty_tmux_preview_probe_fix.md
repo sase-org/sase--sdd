@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-30 03:41:52
 status: done
-prompt: sdd/prompts/202604/kitty_tmux_preview_probe_fix.md
+prompt: sdd/plans/202604/prompts/kitty_tmux_preview_probe_fix.md
 tier: tale
 ---
 # Plan: Fix Kitty Image Preview Detection In tmux

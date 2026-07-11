@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-18 20:03:33
 status: done
-prompt: sdd/prompts/202606/default_list_notice.md
+prompt: sdd/plans/202606/prompts/default_list_notice.md
 tier: tale
 ---
 # Default List Delegation Notice Plan

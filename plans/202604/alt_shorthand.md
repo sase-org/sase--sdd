@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-12 20:25:23
 status: done
-prompt: sdd/prompts/202604/alt_shorthand.md
+prompt: sdd/plans/202604/prompts/alt_shorthand.md
 tier: tale
 ---
 

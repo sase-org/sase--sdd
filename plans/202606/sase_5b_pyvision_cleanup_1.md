@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-26 17:45:15
 status: done
-prompt: sdd/prompts/202606/sase_5b_pyvision_cleanup_1.md
+prompt: sdd/plans/202606/prompts/sase_5b_pyvision_cleanup_1.md
 tier: tale
 ---
 # Plan: Finish sase-5b Pyvision Cleanup

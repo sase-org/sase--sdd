@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-31 16:33:09
 status: wip
-prompt: sdd/prompts/202605/obsidian_datetime_snippets_1.md
+prompt: sdd/plans/202605/prompts/obsidian_datetime_snippets_1.md
 tier: tale
 ---
 # Add Obsidian Date/Time Snippets

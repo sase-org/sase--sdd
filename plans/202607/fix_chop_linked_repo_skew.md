@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-06 14:21:54
 status: done
-prompt: sdd/prompts/202607/fix_chop_linked_repo_skew.md
+prompt: sdd/plans/202607/prompts/fix_chop_linked_repo_skew.md
 tier: tale
 ---
 # Fix Chop-Launched Agent Failures from Stale Linked Repos

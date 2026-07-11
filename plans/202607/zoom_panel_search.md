@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 18:05:56
 status: done
-prompt: sdd/prompts/202607/zoom_panel_search.md
+prompt: sdd/plans/202607/prompts/zoom_panel_search.md
 tier: tale
 ---
 # Plan: Vim-style `/` and `?` Search in the Agents-tab Zoom Panel

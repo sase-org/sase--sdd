@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-16 12:27:11
 status: done
-prompt: sdd/prompts/202606/jinja2_prompt_input.md
+prompt: sdd/plans/202606/prompts/jinja2_prompt_input.md
 tier: tale
 ---
 # Plan: Beautiful Jinja2 Support & Visual Aid in the Prompt Input Widget

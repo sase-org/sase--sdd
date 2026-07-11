@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-28 18:15:37
 status: done
-prompt: sdd/prompts/202605/agents_refresh_gating.md
+prompt: sdd/plans/202605/prompts/agents_refresh_gating.md
 tier: tale
 ---
 # Plan: Gate Watcher-Triggered Agents Reloads

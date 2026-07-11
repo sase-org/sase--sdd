@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-12 22:05:13
 status: wip
-prompt: sdd/prompts/202604/gemini_three_tiers.md
+prompt: sdd/plans/202604/prompts/gemini_three_tiers.md
 tier: tale
 ---
 

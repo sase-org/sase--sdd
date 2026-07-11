@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-27 07:00:57
 status: done
-prompt: sdd/prompts/202605/cls_tab_header_width.md
+prompt: sdd/plans/202605/prompts/cls_tab_header_width.md
 tier: tale
 ---
 # Plan: Bound CLs Tab Group Headers to the Left Side Panel

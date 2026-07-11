@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-24 15:01:13
 status: done
-prompt: sdd/prompts/202606/ctrl_s_empty_opens_stash_panel.md
+prompt: sdd/plans/202606/prompts/ctrl_s_empty_opens_stash_panel.md
 tier: tale
 ---
 # Plan: `<Ctrl+S>` on an empty prompt opens the prompt stash panel

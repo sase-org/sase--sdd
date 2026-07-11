@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-02 15:38:11
 status: done
-prompt: sdd/prompts/202607/blog_quickstart_git_workspace.md
+prompt: sdd/plans/202607/prompts/blog_quickstart_git_workspace.md
 tier: tale
 ---
 # Plan: Fix the quickstart blog's workspace-isolation narrative by switching to `#git`

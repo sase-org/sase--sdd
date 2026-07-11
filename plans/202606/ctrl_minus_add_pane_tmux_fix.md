@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-17 10:49:11
 status: done
-prompt: sdd/prompts/202606/ctrl_minus_add_pane_tmux_fix.md
+prompt: sdd/plans/202606/prompts/ctrl_minus_add_pane_tmux_fix.md
 tier: tale
 ---
 # Plan: Fix `Ctrl+-` add-pane chord not firing (legacy/tmux terminals)

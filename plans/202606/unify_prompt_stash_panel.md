@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-22 10:08:54
 status: done
-prompt: sdd/prompts/202606/unify_prompt_stash_panel.md
+prompt: sdd/plans/202606/prompts/unify_prompt_stash_panel.md
 tier: tale
 ---
 # Unify Prompt-Stash Keymaps via a Per-Entry Restore Panel

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-29 14:19:19
 status: done
-prompt: sdd/prompts/202603/resolve_agent_ref_display.md
+prompt: sdd/plans/202603/prompts/resolve_agent_ref_display.md
 tier: tale
 ---
 

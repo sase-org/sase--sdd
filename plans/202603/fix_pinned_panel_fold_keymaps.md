@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-31 09:20:18
 status: done
-prompt: sdd/prompts/202603/fix_pinned_panel_fold_keymaps.md
+prompt: sdd/plans/202603/prompts/fix_pinned_panel_fold_keymaps.md
 tier: tale
 ---
 

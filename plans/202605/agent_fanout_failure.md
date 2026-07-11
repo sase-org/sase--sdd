@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-11 11:56:43
 status: wip
-prompt: sdd/prompts/202605/agent_fanout_failure.md
+prompt: sdd/plans/202605/prompts/agent_fanout_failure.md
 tier: tale
 ---
 # Plan: Fix TUI Agent Fanout Launch Failures

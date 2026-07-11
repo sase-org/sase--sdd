@@ -1,7 +1,7 @@
 ---
 status: done
 create_time: 2026-03-27 13:48:35
-prompt: sdd/prompts/202603/unify_commits_entry.md
+prompt: sdd/plans/202603/prompts/unify_commits_entry.md
 tier: tale
 ---
 

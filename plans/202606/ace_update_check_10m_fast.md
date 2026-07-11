@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-28 15:58:56
 status: done
-prompt: sdd/prompts/202606/ace_update_check_10m_fast.md
+prompt: sdd/plans/202606/prompts/ace_update_check_10m_fast.md
 tier: tale
 ---
 # ACE Update Check Cadence and Speed Plan

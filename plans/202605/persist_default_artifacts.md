@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-11 20:28:23
 status: completed
-prompt: sdd/prompts/202605/persist_default_artifacts.md
+prompt: sdd/plans/202605/prompts/persist_default_artifacts.md
 tier: tale
 ---
 # Plan: Persist auto-discovered agent artifacts to `~/.sase/artifacts/`

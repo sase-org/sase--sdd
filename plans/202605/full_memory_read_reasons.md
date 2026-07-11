@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-31 11:16:03
 status: done
-prompt: sdd/prompts/202605/full_memory_read_reasons.md
+prompt: sdd/plans/202605/prompts/full_memory_read_reasons.md
 tier: tale
 ---
 # Show Full Memory Read Reasons in ACE Agent Metadata

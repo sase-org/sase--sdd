@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-31 18:29:36
 status: done
-prompt: sdd/prompts/202603/prompt_focus_guard.md
+prompt: sdd/plans/202603/prompts/prompt_focus_guard.md
 tier: tale
 ---
 

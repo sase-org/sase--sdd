@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-09 02:30:03
 status: done
-prompt: .sase/sdd/prompts/202607/dynamic_research_xprompt_paths.md
+prompt: .sase/sdd/plans/202607/prompts/dynamic_research_xprompt_paths.md
 tier: tale
 ---
 # Plan: Dynamic Research XPrompt SDD Paths

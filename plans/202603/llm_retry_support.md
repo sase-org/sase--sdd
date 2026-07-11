@@ -1,7 +1,7 @@
 ---
 status: pending
 bead_id: sase-8h82
-prompt: sdd/prompts/202603/llm_retry_support.md
+prompt: sdd/plans/202603/prompts/llm_retry_support.md
 tier: epic
 create_time: '2026-07-08 16:10:05'
 ---

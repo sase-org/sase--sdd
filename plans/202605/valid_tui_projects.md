@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 15:52:37
 status: done
-prompt: sdd/prompts/202605/valid_tui_projects.md
+prompt: sdd/plans/202605/prompts/valid_tui_projects.md
 tier: tale
 ---
 # Plan: Show Only Valid Projects in TUI Project Pickers

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-25 16:43:12
 status: done
-prompt: sdd/prompts/202603/pr_name_env_var.md
+prompt: sdd/plans/202603/prompts/pr_name_env_var.md
 tier: tale
 ---
 

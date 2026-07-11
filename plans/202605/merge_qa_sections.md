@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-11 11:12:55
 status: done
-prompt: sdd/prompts/202605/merge_qa_sections.md
+prompt: sdd/plans/202605/prompts/merge_qa_sections.md
 tier: tale
 ---
 # Plan: Merge Multiple `### Questions and Answers` Sections in Agent Prompts

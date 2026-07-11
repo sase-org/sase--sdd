@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-06 12:48:21
 status: done
-prompt: sdd/prompts/202605/runtime_suffix_row_ownership.md
+prompt: sdd/plans/202605/prompts/runtime_suffix_row_ownership.md
 tier: tale
 ---
 # Plan: Runtime Suffix Row Ownership Correction

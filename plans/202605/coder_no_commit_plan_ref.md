@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-02 12:36:54
 status: done
-prompt: sdd/prompts/202605/coder_no_commit_plan_ref.md
+prompt: sdd/plans/202605/prompts/coder_no_commit_plan_ref.md
 tier: tale
 ---
 # Fix coder plan references for no-commit approvals

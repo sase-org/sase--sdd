@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-27 07:12:39
 status: done
-prompt: sdd/prompts/202606/admin_center_xprompt_ctrl_i.md
+prompt: sdd/plans/202606/prompts/admin_center_xprompt_ctrl_i.md
 tier: tale
 ---
 # Admin Center XPrompts Ctrl-I Load Plan

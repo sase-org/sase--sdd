@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-09 11:53:23
 status: done
-prompt: sdd/prompts/202606/namespace_template_review.md
+prompt: sdd/plans/202606/prompts/namespace_template_review.md
 tier: tale
 ---
 # Review & Objective Improvements: Namespace-Aware Agent Name Templates

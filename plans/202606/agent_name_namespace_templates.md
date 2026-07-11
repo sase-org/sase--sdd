@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-09 11:20:07
 status: done
-prompt: sdd/prompts/202606/agent_name_namespace_templates.md
+prompt: sdd/plans/202606/prompts/agent_name_namespace_templates.md
 tier: tale
 ---
 # Namespace-Aware Agent Name Template Allocation

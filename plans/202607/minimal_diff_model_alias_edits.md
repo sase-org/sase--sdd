@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-01 08:23:39
 status: done
-prompt: sdd/prompts/202607/minimal_diff_model_alias_edits.md
+prompt: sdd/plans/202607/prompts/minimal_diff_model_alias_edits.md
 tier: tale
 ---
 # Plan: Minimal-Diff Model Alias Edits from the Models Panel

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 11:25:57
 status: done
-prompt: sdd/prompts/202605/prompt_history_ctrl_g.md
+prompt: sdd/plans/202605/prompts/prompt_history_ctrl_g.md
 tier: tale
 ---
 # Plan: Add `,<ctrl+g>` Prompt History Edit Shortcut

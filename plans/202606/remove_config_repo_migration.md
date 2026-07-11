@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-29 12:56:23
 status: done
-prompt: sdd/prompts/202606/remove_config_repo_migration.md
+prompt: sdd/plans/202606/prompts/remove_config_repo_migration.md
 tier: tale
 ---
 # Remove the Config-tab `g` "Migrate repos" keymap and its migration logic

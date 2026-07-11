@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-13 10:15:00
 status: done
-prompt: sdd/prompts/202605/agent_tier_merge_dedup_backstop.md
+prompt: sdd/plans/202605/prompts/agent_tier_merge_dedup_backstop.md
 tier: tale
 ---
 # Plan: Preserve canonical dedup behavior during post-history agent merges

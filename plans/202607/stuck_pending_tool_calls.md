@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 16:27:38
 status: done
-prompt: sdd/prompts/202607/stuck_pending_tool_calls.md
+prompt: sdd/plans/202607/prompts/stuck_pending_tool_calls.md
 tier: tale
 ---
 # Fix never-completing tool calls in the SLOW TOOL CALLS panel

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 13:51:55
 status: done
-prompt: sdd/prompts/202605/xprompt_lsp_plugin_catalog.md
+prompt: sdd/plans/202605/prompts/xprompt_lsp_plugin_catalog.md
 tier: tale
 ---
 # Plan: Include Plugin XPrompts in the XPrompt LSP Catalog

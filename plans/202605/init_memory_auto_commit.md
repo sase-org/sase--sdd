@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-22 20:39:51
 status: done
-prompt: sdd/prompts/202605/init_memory_auto_commit.md
+prompt: sdd/plans/202605/prompts/init_memory_auto_commit.md
 tier: tale
 ---
 # Plan: `sase init memory` Workspace Hint and Auto-Commit

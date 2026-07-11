@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-24 11:57:09
 status: done
-prompt: sdd/prompts/202604/tui_simple_xprompt_colon_args.md
+prompt: sdd/plans/202604/prompts/tui_simple_xprompt_colon_args.md
 tier: tale
 ---
 # Plan: Fix TUI Agent Launch Failure for Simple Xprompts With Multi-Arg Colon Syntax

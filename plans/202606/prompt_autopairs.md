@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-21 08:37:46
 status: done
-prompt: sdd/prompts/202606/prompt_autopairs.md
+prompt: sdd/plans/202606/prompts/prompt_autopairs.md
 tier: tale
 ---
 # Prompt Autopairs Plan

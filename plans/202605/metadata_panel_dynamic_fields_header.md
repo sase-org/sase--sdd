@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-23 17:44:41
 status: done
-prompt: sdd/prompts/202605/metadata_panel_dynamic_fields_header.md
+prompt: sdd/plans/202605/prompts/metadata_panel_dynamic_fields_header.md
 tier: tale
 ---
 # Plan: Add Header Above Dynamic Fields in Agent Metadata Panel

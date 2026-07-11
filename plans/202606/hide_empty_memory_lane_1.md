@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-15 07:05:36
 status: done
-prompt: sdd/prompts/202606/hide_empty_memory_lane_1.md
+prompt: sdd/plans/202606/prompts/hide_empty_memory_lane_1.md
 tier: tale
 ---
 # Hide Empty MEMORY Lane in Agents Metadata Context

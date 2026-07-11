@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 18:24:45
 status: completed
-prompt: sdd/prompts/202605/dismiss_freeze.md
+prompt: sdd/plans/202605/prompts/dismiss_freeze.md
 tier: tale
 ---
 # Plan: Fix TUI Freeze When Dismissing Agents

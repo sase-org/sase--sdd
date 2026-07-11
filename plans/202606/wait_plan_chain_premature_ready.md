@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-07 08:55:25
 status: done
-prompt: sdd/prompts/202606/wait_plan_chain_premature_ready.md
+prompt: sdd/plans/202606/prompts/wait_plan_chain_premature_ready.md
 tier: tale
 ---
 # Plan: Stop wait-dependencies from resolving on an unfinished plan chain

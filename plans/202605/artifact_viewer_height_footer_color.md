@@ -2,7 +2,7 @@
 title: Artifact Viewer Full-Height Markdown Pages And Stable Footer Color
 create_time: 2026-05-08 22:12:14
 status: done
-prompt: sdd/prompts/202605/artifact_viewer_height_footer_color.md
+prompt: sdd/plans/202605/prompts/artifact_viewer_height_footer_color.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-29 13:40:13
 status: done
-prompt: sdd/prompts/202603/timestamps_field.md
+prompt: sdd/plans/202603/prompts/timestamps_field.md
 tier: tale
 ---
 

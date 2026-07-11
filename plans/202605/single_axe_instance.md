@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-01 14:58:48
 status: done
-prompt: sdd/prompts/202605/single_axe_instance.md
+prompt: sdd/plans/202605/prompts/single_axe_instance.md
 tier: tale
 ---
 # Make `sase axe` Effectively Single-Instance

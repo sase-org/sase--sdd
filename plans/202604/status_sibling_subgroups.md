@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-28 10:29:31
 status: done
-prompt: sdd/prompts/202604/status_sibling_subgroups.md
+prompt: sdd/plans/202604/prompts/status_sibling_subgroups.md
 tier: tale
 ---
 # Plan — Sibling-Root Sub-Banners under `BY_STATUS` on the CLs Tab

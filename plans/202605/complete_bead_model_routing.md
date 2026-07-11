@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-10 01:01:05
 status: wip
-prompt: sdd/prompts/202605/complete_bead_model_routing.md
+prompt: sdd/plans/202605/prompts/complete_bead_model_routing.md
 tier: tale
 ---
 # Plan: Complete Bead Model Routing Verification

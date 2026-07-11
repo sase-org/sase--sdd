@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-15 13:46:58
 status: done
-prompt: sdd/prompts/202605/ace_tab_cli_option.md
+prompt: sdd/plans/202605/prompts/ace_tab_cli_option.md
 tier: tale
 ---
 

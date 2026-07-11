@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-09 12:31:58
 status: done
-prompt: .sase/sdd/prompts/202607/defer_update_restart_for_background_tasks.md
+prompt: .sase/sdd/plans/202607/prompts/defer_update_restart_for_background_tasks.md
 tier: tale
 ---
 # Plan: Defer Update Restart Until Background Tasks Finish

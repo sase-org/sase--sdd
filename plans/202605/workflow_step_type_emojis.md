@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-11 17:43:18
 status: done
-prompt: sdd/prompts/202605/workflow_step_type_emojis.md
+prompt: sdd/plans/202605/prompts/workflow_step_type_emojis.md
 tier: tale
 ---
 # Workflow Step Type Emojis in Agent Rows

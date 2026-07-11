@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-18 08:01:17
 status: done
-prompt: sdd/prompts/202606/prompt_insert_ctrl_g_prefix.md
+prompt: sdd/plans/202606/prompts/prompt_insert_ctrl_g_prefix.md
 tier: tale
 ---
 # Prompt Insert-Mode Ctrl+G Prefix Plan

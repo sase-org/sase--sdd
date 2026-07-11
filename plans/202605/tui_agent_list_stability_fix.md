@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 23:21:02
 status: done
-prompt: sdd/prompts/202605/tui_agent_list_stability_fix.md
+prompt: sdd/plans/202605/prompts/tui_agent_list_stability_fix.md
 tier: tale
 ---
 # TUI Agent List Stability Fix

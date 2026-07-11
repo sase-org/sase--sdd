@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 15:28:59
 status: done
-prompt: sdd/prompts/202605/remove_pdf_done_agent_rows.md
+prompt: sdd/plans/202605/prompts/remove_pdf_done_agent_rows.md
 tier: tale
 ---
 # Remove Completed PDF Text From Agent Rows

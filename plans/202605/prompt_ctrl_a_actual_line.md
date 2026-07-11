@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 13:05:53
 status: done
-prompt: sdd/prompts/202605/prompt_ctrl_a_actual_line.md
+prompt: sdd/plans/202605/prompts/prompt_ctrl_a_actual_line.md
 tier: tale
 ---
 # Plan: Prompt Ctrl+A Uses Actual Lines

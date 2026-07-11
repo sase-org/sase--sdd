@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-11 14:44:28
 status: done
-prompt: sdd/prompts/202605/revive_keymap_surfacing.md
+prompt: sdd/plans/202605/prompts/revive_keymap_surfacing.md
 tier: tale
 ---
 # Plan: Surface `R` (revive) keymap and clean up confusing `r` vs `R` wording

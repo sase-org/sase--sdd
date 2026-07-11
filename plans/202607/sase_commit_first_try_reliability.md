@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 17:00:17
 status: done
-prompt: sdd/prompts/202607/sase_commit_first_try_reliability.md
+prompt: sdd/plans/202607/prompts/sase_commit_first_try_reliability.md
 tier: tale
 ---
 # Make `sase commit` succeed on the first try

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-06 15:59:49
 status: done
-prompt: sdd/prompts/202606/remove_origin_story_reindex_blog.md
+prompt: sdd/plans/202606/prompts/remove_origin_story_reindex_blog.md
 tier: tale
 ---
 # Remove Origin Story Blog Post And Reindex Series

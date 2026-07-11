@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 12:50:46
 status: wip
-prompt: .sase/sdd/prompts/202607/index_lock_retry_on_auto_commit.md
+prompt: .sase/sdd/plans/202607/prompts/index_lock_retry_on_auto_commit.md
 tier: tale
 ---
 # Plan: Recover from a locked git index during TUI auto-commits

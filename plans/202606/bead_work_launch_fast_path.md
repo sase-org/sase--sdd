@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-16 14:00:03
 status: done
-prompt: sdd/prompts/202606/bead_work_launch_fast_path.md
+prompt: sdd/plans/202606/prompts/bead_work_launch_fast_path.md
 tier: tale
 ---
 # Plan: Make `sase bead work` Return Much Faster

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-30 03:28:51
 status: done
-prompt: sdd/prompts/202604/notification_dismiss_selection.md
+prompt: sdd/plans/202604/prompts/notification_dismiss_selection.md
 tier: tale
 ---
 # Plan: Deterministic notification selection after dismiss

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-24 11:06:11
 status: done
-prompt: sdd/prompts/202606/disabled_region_jinja_inert.md
+prompt: sdd/plans/202606/prompts/disabled_region_jinja_inert.md
 tier: tale
 ---
 # Plan: Make disabled (`%xprompts_enabled:false`) regions inert for all Jinja2 expansion and validation

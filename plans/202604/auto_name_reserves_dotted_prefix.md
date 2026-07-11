@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-27 09:10:59
 status: done
-prompt: sdd/prompts/202604/auto_name_reserves_dotted_prefix.md
+prompt: sdd/plans/202604/prompts/auto_name_reserves_dotted_prefix.md
 tier: tale
 ---
 # Plan: Auto-name Reserves Dotted Prefix (`<base>.*`)

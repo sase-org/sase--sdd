@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-06 00:10:05
 status: done
-prompt: sdd/prompts/202605/cross_panel_agent_jump.md
+prompt: sdd/plans/202605/prompts/cross_panel_agent_jump.md
 tier: tale
 ---
 # Cross-panel agent jump hint fix

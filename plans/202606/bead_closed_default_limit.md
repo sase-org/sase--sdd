@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-30 10:07:27
 status: done
-prompt: sdd/prompts/202606/bead_closed_default_limit.md
+prompt: sdd/plans/202606/prompts/bead_closed_default_limit.md
 tier: tale
 ---
 # Plan: Default Closed Bead Listings to 20 Results

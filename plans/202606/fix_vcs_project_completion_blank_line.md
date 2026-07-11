@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 14:31:53
 status: done
-prompt: sdd/prompts/202606/fix_vcs_project_completion_blank_line.md
+prompt: sdd/plans/202606/prompts/fix_vcs_project_completion_blank_line.md
 tier: tale
 ---
 # Plan: Fix blank line above expanded VCS tag in `+` project completion (LSP)

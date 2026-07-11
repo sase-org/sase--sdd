@@ -1,5 +1,5 @@
 ---
-prompt: sdd/prompts/202603/expanded_spec_prompt.md
+prompt: sdd/plans/202603/prompts/expanded_spec_prompt.md
 tier: tale
 create_time: '2026-07-08 16:10:06'
 ---

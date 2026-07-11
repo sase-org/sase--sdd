@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-06 13:56:46
 status: wip
-prompt: sdd/prompts/202607/kill_child_agent_entries.md
+prompt: sdd/plans/202607/prompts/kill_child_agent_entries.md
 tier: tale
 ---
 # Plan: Kill Individual Agent Child Entries from the Agents Tab

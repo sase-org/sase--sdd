@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-06 10:49:47
 status: done
-prompt: sdd/prompts/202606/wait_family_handoff.md
+prompt: sdd/plans/202606/prompts/wait_family_handoff.md
 tier: tale
 ---
 # Fix Wait-Check Resolution for Plan-Chain Handoff Artifacts

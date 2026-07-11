@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-10 11:03:55
 status: wip
-prompt: sdd/prompts/202605/recover_uncommitted_audit_work_1.md
+prompt: sdd/plans/202605/prompts/recover_uncommitted_audit_work_1.md
 ---
 # Plan: Recover Uncommitted Audit Work
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-08 20:06:20
 status: done
-prompt: sdd/prompts/202604/chop_gate.md
+prompt: sdd/plans/202604/prompts/chop_gate.md
 tier: tale
 ---
 

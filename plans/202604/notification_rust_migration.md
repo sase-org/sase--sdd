@@ -2,7 +2,7 @@
 create_time: 2026-04-30 21:14:43
 status: done
 bead_id: sase-1n
-prompt: sdd/prompts/202604/notification_rust_migration.md
+prompt: sdd/plans/202604/prompts/notification_rust_migration.md
 tier: epic
 ---
 # Notification Store Rust Migration Plan

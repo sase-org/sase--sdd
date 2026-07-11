@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-27 12:26:21
 status: done
-prompt: sdd/prompts/202604/epic_agent_timestamp_collision.md
+prompt: sdd/plans/202604/prompts/epic_agent_timestamp_collision.md
 tier: tale
 ---
 

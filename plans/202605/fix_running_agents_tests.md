@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-31 08:47:46
 status: done
-prompt: sdd/prompts/202605/fix_running_agents_tests.md
+prompt: sdd/plans/202605/prompts/fix_running_agents_tests.md
 tier: tale
 ---
 # Fix `just test` Running Agent Snapshot Failures

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-24 14:37:31
 status: done
-prompt: sdd/prompts/202604/type_specific_toasts.md
+prompt: sdd/plans/202604/prompts/type_specific_toasts.md
 tier: tale
 ---
 # Plan: Type-Specific Toast Notifications in `sase ace` TUI

@@ -2,7 +2,7 @@
 status: done
 create_time: 2026-04-25 17:20:05
 bead_id: sase-r
-prompt: sdd/prompts/202604/epic_work_automation.md
+prompt: sdd/plans/202604/prompts/epic_work_automation.md
 tier: epic
 ---
 

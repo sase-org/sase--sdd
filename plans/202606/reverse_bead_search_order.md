@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 08:06:23
 status: done
-prompt: sdd/prompts/202606/reverse_bead_search_order.md
+prompt: sdd/plans/202606/prompts/reverse_bead_search_order.md
 tier: tale
 ---
 # Plan: Reverse `sase bead search` Result Ordering

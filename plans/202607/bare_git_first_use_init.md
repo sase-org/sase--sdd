@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-06 11:45:46
 status: done
-prompt: sdd/prompts/202607/bare_git_first_use_init.md
+prompt: sdd/plans/202607/prompts/bare_git_first_use_init.md
 tier: tale
 ---
 # Fix: bare-git project first-use initialization fails on leftover on-disk state

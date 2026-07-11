@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-01 10:20:19
 status: done
-prompt: sdd/prompts/202604/approve_options_constraints.md
+prompt: sdd/plans/202604/prompts/approve_options_constraints.md
 tier: tale
 ---
 

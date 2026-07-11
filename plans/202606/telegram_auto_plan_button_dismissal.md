@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-25 15:38:04
 status: done
-prompt: sdd/prompts/202606/telegram_auto_plan_button_dismissal.md
+prompt: sdd/plans/202606/prompts/telegram_auto_plan_button_dismissal.md
 tier: tale
 ---
 # Telegram Auto-Approved Plan Button Dismissal

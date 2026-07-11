@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-23 19:57:14
 status: done
-prompt: sdd/prompts/202604/wait_chats_jinja_variable.md
+prompt: sdd/plans/202604/prompts/wait_chats_jinja_variable.md
 tier: tale
 ---
 

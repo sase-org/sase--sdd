@@ -4,7 +4,7 @@ description: Fix Agents-tab untagged panel not filling available height when no 
   panels exist
 create_time: 2026-04-26 03:08:50
 status: done
-prompt: sdd/prompts/202604/agents_untagged_full_height.md
+prompt: sdd/plans/202604/prompts/agents_untagged_full_height.md
 tier: tale
 ---
 

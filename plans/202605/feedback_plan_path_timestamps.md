@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-06 19:28:17
 status: done
-prompt: sdd/prompts/202605/feedback_plan_path_timestamps.md
+prompt: sdd/plans/202605/prompts/feedback_plan_path_timestamps.md
 tier: tale
 ---
 # Append Rejected Plan Paths to FBACK Timestamps

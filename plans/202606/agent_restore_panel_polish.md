@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-21 08:53:04
 status: done
-prompt: sdd/prompts/202606/agent_restore_panel_polish.md
+prompt: sdd/plans/202606/prompts/agent_restore_panel_polish.md
 tier: tale
 ---
 # Polish the Agent Restore panel's left-pane group list

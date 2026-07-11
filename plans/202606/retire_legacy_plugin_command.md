@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-25 14:39:09
 status: done
-prompt: sdd/prompts/202606/retire_legacy_plugin_command.md
+prompt: sdd/plans/202606/prompts/retire_legacy_plugin_command.md
 tier: tale
 ---
 # Retire the Legacy `sase plugin` Command

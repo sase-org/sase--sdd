@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-06 19:46:02
 status: done
-prompt: sdd/prompts/202605/agent_header_file_hints.md
+prompt: sdd/plans/202605/prompts/agent_header_file_hints.md
 tier: tale
 ---
 # Plan: Agent Header File Hints

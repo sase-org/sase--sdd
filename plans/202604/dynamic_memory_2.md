@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-12 20:00:43
 status: wip
-prompt: sdd/prompts/202604/dynamic_memory_2.md
+prompt: sdd/plans/202604/prompts/dynamic_memory_2.md
 tier: tale
 ---
 

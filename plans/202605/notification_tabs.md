@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-29 08:17:28
 status: done
-prompt: sdd/prompts/202605/notification_tabs.md
+prompt: sdd/plans/202605/prompts/notification_tabs.md
 tier: tale
 ---
 # Notification Modal Tabs Plan

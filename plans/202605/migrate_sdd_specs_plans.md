@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-02 13:14:39
 status: wip
-prompt: sdd/prompts/202605/migrate_sdd_specs_plans.md
+prompt: sdd/plans/202605/prompts/migrate_sdd_specs_plans.md
 tier: tale
 ---
 # Plan: Migrate Remaining SDD Specs And Plans

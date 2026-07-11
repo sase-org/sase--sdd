@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 16:49:18
 status: done
-prompt: sdd/prompts/202606/chat_header_bullets.md
+prompt: sdd/plans/202606/prompts/chat_header_bullets.md
 tier: tale
 ---
 # Plan: Bullet-Style SASE Chat Transcript Metadata

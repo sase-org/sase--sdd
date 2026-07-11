@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-27 09:34:24
 status: done
-prompt: sdd/prompts/202604/persist_agents_grouping_mode.md
+prompt: sdd/plans/202604/prompts/persist_agents_grouping_mode.md
 tier: tale
 ---
 # Persist the Agents-tab grouping mode across TUI restarts

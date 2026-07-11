@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-15 17:01:38
 status: wip
-prompt: sdd/prompts/202606/rename_skill_command.md
+prompt: sdd/plans/202606/prompts/rename_skill_command.md
 tier: tale
 ---
 # Plan: Rename `sase skills` to `sase skill`

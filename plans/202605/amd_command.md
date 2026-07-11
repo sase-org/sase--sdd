@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-24 17:51:26
 status: done
-prompt: sdd/prompts/202605/amd_command.md
+prompt: sdd/plans/202605/prompts/amd_command.md
 bead_id: sase-44
 tier: epic
 ---

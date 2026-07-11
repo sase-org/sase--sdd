@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-27 09:53:20
 status: wip
-prompt: sdd/prompts/202606/clean_killed_agent_linked_repos.md
+prompt: sdd/plans/202606/prompts/clean_killed_agent_linked_repos.md
 tier: tale
 ---
 # Clean Linked Repo Workspaces After Agent Kill

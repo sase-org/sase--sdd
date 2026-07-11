@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-27 10:25:54
 status: done
-prompt: sdd/prompts/202605/agent_metadata_title_case_labels.md
+prompt: sdd/plans/202605/prompts/agent_metadata_title_case_labels.md
 tier: tale
 ---
 # Agent Metadata Title-Case Labels Plan

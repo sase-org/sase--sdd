@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-25 14:23:53
 status: done
-prompt: sdd/prompts/202606/bare_percent_directive_completion.md
+prompt: sdd/plans/202606/prompts/bare_percent_directive_completion.md
 tier: tale
 ---
 # Plan: Bare Percent Directive Completion

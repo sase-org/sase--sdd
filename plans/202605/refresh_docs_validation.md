@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-10 00:57:01
 status: wip
-prompt: sdd/prompts/202605/refresh_docs_validation.md
+prompt: sdd/plans/202605/prompts/refresh_docs_validation.md
 tier: tale
 ---
 # Plan: Fix `refresh_docs` Workflow Validation

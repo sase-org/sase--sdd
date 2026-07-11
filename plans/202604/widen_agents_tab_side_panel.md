@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-25 17:45:25
 status: done
-prompt: sdd/prompts/202604/widen_agents_tab_side_panel.md
+prompt: sdd/plans/202604/prompts/widen_agents_tab_side_panel.md
 tier: tale
 ---
 # Plan: Widen the Agents-tab side panel in `sase ace`

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-04 14:50:13
 status: done
-prompt: sdd/prompts/202605/epic_status.md
+prompt: sdd/plans/202605/prompts/epic_status.md
 tier: tale
 ---
 # Plan: Keep `%epic` Plan Writers Running Until a Plan Is Submitted

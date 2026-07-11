@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-01 12:29:11
 status: done
-prompt: sdd/prompts/202604/task_queue_copy_keymap.md
+prompt: sdd/plans/202604/prompts/task_queue_copy_keymap.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-02 10:00:44
 status: done
-prompt: sdd/prompts/202607/daemon_only_run.md
+prompt: sdd/plans/202607/prompts/daemon_only_run.md
 tier: tale
 ---
 # Plan: Make Detached Launch the Only `sase run` Behavior (remove `-d|--daemon`)

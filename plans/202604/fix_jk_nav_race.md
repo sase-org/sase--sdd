@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-15 18:55:34
 status: done
-prompt: sdd/prompts/202604/fix_jk_nav_race.md
+prompt: sdd/plans/202604/prompts/fix_jk_nav_race.md
 tier: tale
 ---
 

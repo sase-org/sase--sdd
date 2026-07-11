@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 13:04:00
 status: done
-prompt: sdd/prompts/202605/blog_series_button.md
+prompt: sdd/plans/202605/prompts/blog_series_button.md
 tier: tale
 ---
 # Add Homepage Blog Series Button

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 21:56:03
 status: done
-prompt: .sase/sdd/prompts/202607/public_sdd_companion_label.md
+prompt: .sase/sdd/plans/202607/prompts/public_sdd_companion_label.md
 tier: tale
 ---
 # Plan: Public SDD companion repos and idempotent `sase--sdd` GitHub label

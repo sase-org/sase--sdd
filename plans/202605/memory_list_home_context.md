@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-23 10:01:47
 status: done
-prompt: sdd/prompts/202605/memory_list_home_context.md
+prompt: sdd/plans/202605/prompts/memory_list_home_context.md
 tier: tale
 ---
 # Plan: `sase memory list` Loaded Context Accuracy

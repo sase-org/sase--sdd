@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-23 10:23:29
 status: done
-prompt: sdd/prompts/202605/init_memory_static_sibling_paths.md
+prompt: sdd/plans/202605/prompts/init_memory_static_sibling_paths.md
 tier: tale
 ---
 # Plan: Conditional Sibling Workspace Instructions in `sase init memory`

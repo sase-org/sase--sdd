@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-15 13:17:08
 status: done
-prompt: sdd/prompts/202604/rewind_bang_suffix.md
+prompt: sdd/plans/202604/prompts/rewind_bang_suffix.md
 tier: tale
 ---
 

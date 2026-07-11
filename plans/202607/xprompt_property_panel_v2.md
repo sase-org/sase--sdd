@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 19:09:47
 status: done
-prompt: .sase/sdd/prompts/202607/xprompt_property_panel_v2.md
+prompt: .sase/sdd/plans/202607/prompts/xprompt_property_panel_v2.md
 tier: tale
 ---
 # XPrompt Property Panel v2 — In-Place XPrompt Authoring

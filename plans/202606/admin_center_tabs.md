@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-26 18:16:38
 status: done
-prompt: sdd/prompts/202606/admin_center_tabs.md
+prompt: sdd/plans/202606/prompts/admin_center_tabs.md
 tier: tale
 ---
 # Plan: SASE Admin Center — alphabetical numbered tabs, digit jumps, session memory

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-10 01:25:23
 status: done
-prompt: sdd/prompts/202604/commit_stop_hook_commit_message_scope.md
+prompt: sdd/plans/202604/prompts/commit_stop_hook_commit_message_scope.md
 tier: tale
 ---
 

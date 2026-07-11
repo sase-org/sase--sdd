@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 17:17:34
 status: done
-prompt: sdd/prompts/202605/artifact_panel_single_plan.md
+prompt: sdd/plans/202605/prompts/artifact_panel_single_plan.md
 tier: tale
 ---
 # Plan: Single Canonical Plan Artifact in Agent Artifact Panel

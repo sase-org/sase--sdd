@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-27 15:16:46
 status: done
-prompt: sdd/prompts/202603/axe_error_notification_action.md
+prompt: sdd/plans/202603/prompts/axe_error_notification_action.md
 tier: tale
 ---
 

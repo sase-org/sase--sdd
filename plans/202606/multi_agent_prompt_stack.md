@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-15 17:35:51
 status: done
-prompt: sdd/prompts/202606/multi_agent_prompt_stack.md
+prompt: sdd/plans/202606/prompts/multi_agent_prompt_stack.md
 bead_id: sase-4p
 tier: epic
 ---

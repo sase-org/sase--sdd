@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-31 15:25:56
 status: done
-prompt: sdd/prompts/202605/episode_id_portability.md
+prompt: sdd/plans/202605/prompts/episode_id_portability.md
 tier: tale
 ---
 # Episode ID Portability Fix Plan

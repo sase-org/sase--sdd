@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-19 14:55:56
 status: wip
-prompt: sdd/prompts/202604/parent_p4head_leak.md
+prompt: sdd/plans/202604/prompts/parent_p4head_leak.md
 tier: tale
 ---
 

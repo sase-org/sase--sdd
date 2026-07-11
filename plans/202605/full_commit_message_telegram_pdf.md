@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-23 13:57:47
 status: done
-prompt: sdd/prompts/202605/full_commit_message_telegram_pdf.md
+prompt: sdd/plans/202605/prompts/full_commit_message_telegram_pdf.md
 tier: tale
 ---
 # Plan: Full Commit Messages in Telegram Completion PDFs

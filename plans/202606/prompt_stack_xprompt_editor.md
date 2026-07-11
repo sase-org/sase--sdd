@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-17 05:42:28
 status: wip
-prompt: sdd/prompts/202606/prompt_stack_xprompt_editor.md
+prompt: sdd/plans/202606/prompts/prompt_stack_xprompt_editor.md
 tier: tale
 ---
 # Plan: Prompt Stack Xprompt Editor Keymap

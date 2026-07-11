@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-25 17:28:06
 status: done
-prompt: sdd/prompts/202606/move_pencil_after_runtime.md
+prompt: sdd/plans/202606/prompts/move_pencil_after_runtime.md
 tier: tale
 ---
 # Plan: Move Agent Row Pencil After Runtime

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-28 20:46:46
 status: done
-prompt: sdd/prompts/202605/github_actions_home_init.md
+prompt: sdd/plans/202605/prompts/github_actions_home_init.md
 tier: tale
 ---
 # Plan: Initialize SASE Home Surfaces In CI Before Validation

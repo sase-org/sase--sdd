@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 15:27:11
 status: done
-prompt: sdd/prompts/202606/blog00_paper_crediting.md
+prompt: sdd/plans/202606/prompts/blog00_paper_crediting.md
 tier: tale
 ---
 # Plan: Strengthen the SASE-paper crediting in blog post `[00]`

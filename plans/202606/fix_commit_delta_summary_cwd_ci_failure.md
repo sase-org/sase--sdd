@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-29 12:02:21
 status: done
-prompt: sdd/prompts/202606/fix_commit_delta_summary_cwd_ci_failure.md
+prompt: sdd/plans/202606/prompts/fix_commit_delta_summary_cwd_ci_failure.md
 tier: tale
 ---
 # Fix CI failure: `test_agents_commit_messages_panel_png_snapshot` times out

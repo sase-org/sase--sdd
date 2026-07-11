@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 08:31:33
 status: done
-prompt: sdd/prompts/202606/artifact_file_fallback_viewer.md
+prompt: sdd/plans/202606/prompts/artifact_file_fallback_viewer.md
 tier: tale
 ---
 # Plan: Artifact File Fallback Viewer

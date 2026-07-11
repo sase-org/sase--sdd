@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-22 21:10:16
 status: done
-prompt: sdd/prompts/202605/remove_commit_stop_hooks.md
+prompt: sdd/plans/202605/prompts/remove_commit_stop_hooks.md
 tier: tale
 ---
 # Remove Obsolete Commit Stop Hook Scripts

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 03:37:14
 status: done
-prompt: sdd/prompts/202605/xprompt_lsp_server.md
+prompt: sdd/plans/202605/prompts/xprompt_lsp_server.md
 bead_id: sase-2a
 tier: epic
 ---

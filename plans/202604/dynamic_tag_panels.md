@@ -2,7 +2,7 @@
 create_time: 2026-04-25 18:55:08
 status: done
 bead_id: sase-s
-prompt: sdd/prompts/202604/dynamic_tag_panels.md
+prompt: sdd/plans/202604/prompts/dynamic_tag_panels.md
 tier: epic
 ---
 # Plan: Dynamic Tag Panels on the Agents Tab

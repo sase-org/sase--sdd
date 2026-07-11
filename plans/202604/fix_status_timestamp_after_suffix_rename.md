@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-03 11:40:42
 status: done
-prompt: sdd/prompts/202604/fix_status_timestamp_after_suffix_rename.md
+prompt: sdd/plans/202604/prompts/fix_status_timestamp_after_suffix_rename.md
 tier: tale
 ---
 

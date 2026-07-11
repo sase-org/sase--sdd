@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-29 11:50:51
 status: done
-prompt: sdd/prompts/202604/rust_backend_parse_project_file_fallback.md
+prompt: sdd/plans/202604/prompts/rust_backend_parse_project_file_fallback.md
 tier: tale
 ---
 # Plan: Keep `parse_project_file` usable under `SASE_CORE_BACKEND=rust`

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-15 21:44:59
 status: done
-prompt: sdd/prompts/202606/ace_startup_active_index_bloat.md
+prompt: sdd/plans/202606/prompts/ace_startup_active_index_bloat.md
 tier: tale
 ---
 # Plan: Fix the Residual `sase ace` Startup Slowdown (Artifact-Index Active-Tier Bloat)

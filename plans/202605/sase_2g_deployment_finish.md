@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 03:37:37
 status: wip
-prompt: sdd/prompts/202605/sase_2g_deployment_finish.md
+prompt: sdd/plans/202605/prompts/sase_2g_deployment_finish.md
 tier: tale
 ---
 # Finish sase-2g Deployment Verification

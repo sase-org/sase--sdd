@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-24 14:34:50
 status: done
-prompt: sdd/prompts/202604/startup_stopwatch.md
+prompt: sdd/plans/202604/prompts/startup_stopwatch.md
 tier: tale
 ---
 # Plan: Startup Stopwatch in `sase ace` Bottom-Right Corner

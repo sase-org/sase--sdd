@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-27 10:14:20
 status: done
-prompt: sdd/prompts/202605/agent_metadata_section_dividers.md
+prompt: sdd/plans/202605/prompts/agent_metadata_section_dividers.md
 tier: tale
 ---
 # Plan: Agent Metadata Section Dividers

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-22 20:18:56
 status: done
-prompt: sdd/prompts/202605/init_memory_workspace_section.md
+prompt: sdd/plans/202605/prompts/init_memory_workspace_section.md
 tier: tale
 ---
 # Plan: Project Workspace Section in `sase init memory`

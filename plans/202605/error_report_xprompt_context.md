@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 18:08:23
 status: done
-prompt: sdd/prompts/202605/error_report_xprompt_context.md
+prompt: sdd/plans/202605/prompts/error_report_xprompt_context.md
 tier: tale
 ---
 # Plan: Add Submitted XPrompt Context to Agent Error Reports

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-21 11:38:34
 status: done
-prompt: sdd/prompts/202606/working_plan_tale_statuses_1.md
+prompt: sdd/plans/202606/prompts/working_plan_tale_statuses_1.md
 tier: tale
 ---
 # Plan: `WORKING PLAN` / `WORKING TALE` statuses for code agents

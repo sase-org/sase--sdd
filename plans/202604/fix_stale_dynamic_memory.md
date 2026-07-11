@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-14 17:58:21
 status: done
-prompt: sdd/prompts/202604/fix_stale_dynamic_memory.md
+prompt: sdd/plans/202604/prompts/fix_stale_dynamic_memory.md
 tier: tale
 ---
 

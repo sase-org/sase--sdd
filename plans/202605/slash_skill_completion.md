@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 11:15:14
 status: done
-prompt: sdd/prompts/202605/slash_skill_completion.md
+prompt: sdd/plans/202605/prompts/slash_skill_completion.md
 tier: tale
 ---
 # Plan: restore slash-skill completion in the prompt widget

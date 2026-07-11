@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-04 10:55:29
 status: done
-prompt: sdd/prompts/202604/fix_xprompt_space.md
+prompt: sdd/plans/202604/prompts/fix_xprompt_space.md
 tier: tale
 ---
 

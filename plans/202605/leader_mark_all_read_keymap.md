@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-23 17:02:49
 status: done
-prompt: sdd/prompts/202605/leader_mark_all_read_keymap.md
+prompt: sdd/plans/202605/prompts/leader_mark_all_read_keymap.md
 tier: tale
 ---
 # Plan: Move Mark-All-Read Leader Command to `,u`

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-01 15:56:43
 status: done
-prompt: sdd/prompts/202607/fix_axe_daemon_stop_sigkill_flake.md
+prompt: sdd/plans/202607/prompts/fix_axe_daemon_stop_sigkill_flake.md
 tier: tale
 ---
 # Fix CI red: `test_stop_axe_daemon_targets_inherited_lock_daemon` SIGKILL (`-9`) flake

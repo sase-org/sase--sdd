@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-03 14:24:05
 status: done
-prompt: sdd/prompts/202604/bug_id_cli_option.md
+prompt: sdd/plans/202604/prompts/bug_id_cli_option.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-06 16:33:18
 status: done
-prompt: sdd/prompts/202607/generated_media_default_artifacts.md
+prompt: sdd/plans/202607/prompts/generated_media_default_artifacts.md
 tier: tale
 ---
 # Plan: Generated Media Default Artifacts

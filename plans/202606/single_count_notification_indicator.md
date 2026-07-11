@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-10 09:03:55
 status: done
-prompt: sdd/prompts/202606/single_count_notification_indicator.md
+prompt: sdd/plans/202606/prompts/single_count_notification_indicator.md
 tier: tale
 ---
 # Single-Count Notification Indicator

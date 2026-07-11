@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-14 14:20:41
 status: done
-prompt: sdd/prompts/202605/gmail_gog_skill_1.md
+prompt: sdd/plans/202605/prompts/gmail_gog_skill_1.md
 bead_id: sase-3h
 tier: epic
 ---

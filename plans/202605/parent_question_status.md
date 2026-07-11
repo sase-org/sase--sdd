@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-11 10:19:10
 status: done
-prompt: sdd/prompts/202605/parent_question_status.md
+prompt: sdd/plans/202605/prompts/parent_question_status.md
 tier: tale
 ---
 # Plan: Propagate `QUESTION` from follow-up child to parent workflow

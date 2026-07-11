@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-13 01:05:02
 status: done
-prompt: sdd/prompts/202605/qwen_wait_chain.md
+prompt: sdd/plans/202605/prompts/qwen_wait_chain.md
 tier: tale
 ---
 # Plan: Fix stalled Qwen wait chain

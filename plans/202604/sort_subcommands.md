@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-11 22:39:17
 status: done
-prompt: sdd/prompts/202604/sort_subcommands.md
+prompt: sdd/plans/202604/prompts/sort_subcommands.md
 tier: tale
 ---
 

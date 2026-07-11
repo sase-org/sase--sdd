@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-30 15:36:51
 status: done
-prompt: sdd/prompts/202604/always_show_by_date_hour_headers.md
+prompt: sdd/plans/202604/prompts/always_show_by_date_hour_headers.md
 tier: tale
 ---
 # Always Show BY_DATE Hour Headers

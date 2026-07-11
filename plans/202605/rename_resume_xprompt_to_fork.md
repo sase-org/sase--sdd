@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-21 13:37:40
 status: done
-prompt: sdd/prompts/202605/rename_resume_xprompt_to_fork.md
+prompt: sdd/plans/202605/prompts/rename_resume_xprompt_to_fork.md
 tier: tale
 ---
 # Plan: Rename the `#resume` XPrompt Workflow to `#fork`

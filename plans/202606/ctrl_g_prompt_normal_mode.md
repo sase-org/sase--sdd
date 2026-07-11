@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-21 10:15:51
 status: done
-prompt: sdd/prompts/202606/ctrl_g_prompt_normal_mode.md
+prompt: sdd/plans/202606/prompts/ctrl_g_prompt_normal_mode.md
 tier: tale
 ---
 # Plan: Enable Ctrl+G Prompt Prefix in Normal Mode

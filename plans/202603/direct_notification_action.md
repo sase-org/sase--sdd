@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-27 13:40:28
 status: done
-prompt: sdd/prompts/202603/direct_notification_action.md
+prompt: sdd/plans/202603/prompts/direct_notification_action.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 10:44:54
 status: done
-prompt: sdd/prompts/202605/space_keymap_error_toast.md
+prompt: sdd/plans/202605/prompts/space_keymap_error_toast.md
 tier: tale
 ---
 # Plan: Convert Space Keymap VCS Detection Crash Into TUI Error Toast

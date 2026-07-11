@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-12 15:22:06
 status: done
-prompt: sdd/prompts/202606/pylimit_split_codex_model.md
+prompt: sdd/plans/202606/prompts/pylimit_split_codex_model.md
 tier: tale
 ---
 # Plan: Route pylimit split agents through #m_codex

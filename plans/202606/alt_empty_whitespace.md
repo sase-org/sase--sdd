@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-20 18:49:37
 status: done
-prompt: sdd/prompts/202606/alt_empty_whitespace.md
+prompt: sdd/plans/202606/prompts/alt_empty_whitespace.md
 tier: tale
 ---
 # Plan: Smarter whitespace handling for empty alternation renders

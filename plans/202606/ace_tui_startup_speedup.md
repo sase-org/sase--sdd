@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-15 20:55:07
 status: wip
-prompt: sdd/prompts/202606/ace_tui_startup_speedup.md
+prompt: sdd/plans/202606/prompts/ace_tui_startup_speedup.md
 tier: tale
 ---
 # Plan: Make `sase ace` TUI startup MUCH faster

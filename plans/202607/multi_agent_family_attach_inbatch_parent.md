@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 14:45:57
 status: wip
-prompt: .sase/sdd/prompts/202607/multi_agent_family_attach_inbatch_parent.md
+prompt: .sase/sdd/plans/202607/prompts/multi_agent_family_attach_inbatch_parent.md
 tier: tale
 ---
 # Plan: Attach `%n(parent, suffix)` to an in-batch sibling named earlier in the same multi-agent prompt

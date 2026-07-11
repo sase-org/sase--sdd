@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 12:47:25
 status: done
-prompt: sdd/prompts/202607/fix_sase_github_ci_dependency_floor.md
+prompt: sdd/plans/202607/prompts/fix_sase_github_ci_dependency_floor.md
 tier: tale
 ---
 # Fix failing sase-github GitHub Actions CI (sase version-floor resolution failure)

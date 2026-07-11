@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-04 08:38:15
 status: wip
-prompt: sdd/prompts/202607/fix_flaky_neighbor_modal_visual_test.md
+prompt: sdd/plans/202607/prompts/fix_flaky_neighbor_modal_visual_test.md
 tier: tale
 ---
 # Fix Flaky CI Visual Test: `test_agent_neighbor_modal_dismissed_descendant_png_snapshot`

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 21:18:27
 status: done
-prompt: sdd/prompts/202606/jump_all_scroll.md
+prompt: sdd/plans/202606/prompts/jump_all_scroll.md
 tier: tale
 ---
 # Plan: Fix Jump to Entry Ctrl+D/U Scrolling

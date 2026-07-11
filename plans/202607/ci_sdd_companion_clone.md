@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-09 01:01:59
 status: done
-prompt: .sase/sdd/prompts/202607/ci_sdd_companion_clone.md
+prompt: .sase/sdd/plans/202607/prompts/ci_sdd_companion_clone.md
 tier: tale
 ---
 # Fix CI `lint` failure: clone the SDD companion repo in the CI environment

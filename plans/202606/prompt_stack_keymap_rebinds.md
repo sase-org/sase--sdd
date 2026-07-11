@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-17 11:37:12
 status: done
-prompt: sdd/prompts/202606/prompt_stack_keymap_rebinds.md
+prompt: sdd/plans/202606/prompts/prompt_stack_keymap_rebinds.md
 tier: tale
 ---
 # Prompt Stack Keymap Rebinds Plan

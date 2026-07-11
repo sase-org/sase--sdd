@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-07 17:04:13
 status: done
-prompt: sdd/prompts/202604/fix_agents_revive_suffix_alias.md
+prompt: sdd/plans/202604/prompts/fix_agents_revive_suffix_alias.md
 tier: tale
 ---
 

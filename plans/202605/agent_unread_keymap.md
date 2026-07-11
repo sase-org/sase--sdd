@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 15:41:52
 status: done
-prompt: sdd/prompts/202605/agent_unread_keymap.md
+prompt: sdd/plans/202605/prompts/agent_unread_keymap.md
 tier: tale
 ---
 # Plan: Agents Tab Manual Unread Toggle

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-25 22:44:56
 status: done
-prompt: sdd/prompts/202604/notification_mute_1.md
+prompt: sdd/plans/202604/prompts/notification_mute_1.md
 tier: tale
 ---
 # Plan: Mute / Unmute Notifications in the Notification Panel

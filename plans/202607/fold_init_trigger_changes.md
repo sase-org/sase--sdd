@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 09:59:39
 status: done
-prompt: .sase/sdd/prompts/202607/fold_init_trigger_changes.md
+prompt: .sase/sdd/plans/202607/prompts/fold_init_trigger_changes.md
 tier: tale
 ---
 # Fold `sase init` trigger changes into generated commits

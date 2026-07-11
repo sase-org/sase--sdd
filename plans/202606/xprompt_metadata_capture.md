@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-17 07:18:48
 status: done
-prompt: sdd/prompts/202606/xprompt_metadata_capture.md
+prompt: sdd/plans/202606/prompts/xprompt_metadata_capture.md
 tier: tale
 ---
 # Plan: Complete Xprompt Metadata Capture

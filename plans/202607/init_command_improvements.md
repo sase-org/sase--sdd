@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-04 06:32:35
 status: wip
-prompt: sdd/prompts/202607/init_command_improvements.md
+prompt: sdd/plans/202607/prompts/init_command_improvements.md
 tier: tale
 ---
 # Plan: Fix bugs and objective UX gaps in `sase init`

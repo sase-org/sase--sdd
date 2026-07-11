@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-06 13:22:13
 status: done
-prompt: sdd/prompts/202605/github_xprompt_workspace_fallback.md
+prompt: sdd/plans/202605/prompts/github_xprompt_workspace_fallback.md
 tier: tale
 ---
 # Plan: Fix GitHub xprompt workspace fallback

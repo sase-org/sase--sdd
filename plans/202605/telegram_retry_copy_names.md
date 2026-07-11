@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-26 18:43:20
 status: done
-prompt: sdd/prompts/202605/telegram_retry_copy_names.md
+prompt: sdd/plans/202605/prompts/telegram_retry_copy_names.md
 tier: tale
 ---
 # Plan: Telegram Retry Copy Names

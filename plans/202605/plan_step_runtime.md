@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-06 13:18:21
 status: done
-prompt: sdd/prompts/202605/plan_step_runtime.md
+prompt: sdd/plans/202605/prompts/plan_step_runtime.md
 tier: tale
 ---
 # Plan: Fix completed plan-step runtime suffixes

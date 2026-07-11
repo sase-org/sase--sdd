@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-28 14:20:34
 status: done
-prompt: sdd/prompts/202603/fix_wait_dead_root.md
+prompt: sdd/plans/202603/prompts/fix_wait_dead_root.md
 tier: tale
 ---
 

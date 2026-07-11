@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-23 18:24:50
 status: done
-prompt: sdd/prompts/202606/prompt_number_increment.md
+prompt: sdd/plans/202606/prompts/prompt_number_increment.md
 tier: tale
 ---
 # Plan: Vim-style `<ctrl+a>` / `<ctrl+x>` number increment/decrement in the prompt input

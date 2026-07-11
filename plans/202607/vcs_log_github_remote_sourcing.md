@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 18:44:26
 status: done
-prompt: .sase/sdd/prompts/202607/vcs_log_github_remote_sourcing.md
+prompt: .sase/sdd/plans/202607/prompts/vcs_log_github_remote_sourcing.md
 tier: tale
 ---
 # Plan: Source `sase vcs log` from the GitHub remote, marking local presence

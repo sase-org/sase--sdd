@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-31 13:31:24
 status: done
-prompt: sdd/prompts/202603/reliable_enter_jump.md
+prompt: sdd/plans/202603/prompts/reliable_enter_jump.md
 tier: tale
 ---
 

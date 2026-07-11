@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 08:14:40
 status: done
-prompt: .sase/sdd/prompts/202607/commit_hooks.md
+prompt: .sase/sdd/plans/202607/prompts/commit_hooks.md
 tier: tale
 ---
 # Plan: Before/After Commit Hooks

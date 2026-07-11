@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-01 15:01:51
 status: done
-prompt: sdd/prompts/202605/prompt_history_rows.md
+prompt: sdd/plans/202605/prompts/prompt_history_rows.md
 tier: tale
 ---
 # Prompt History One-Line Rows

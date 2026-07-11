@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-04 19:46:50
 status: done
-prompt: sdd/prompts/202604/rename_timestamps.md
+prompt: sdd/plans/202604/prompts/rename_timestamps.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-11 10:32:16
 status: wip
-prompt: sdd/prompts/202606/publish_sase_015_to_pypi.md
+prompt: sdd/plans/202606/prompts/publish_sase_015_to_pypi.md
 tier: tale
 ---
 # Plan: Dispatch publish.yml to Release sase 0.1.5 to PyPI and Verify

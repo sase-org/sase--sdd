@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-24 13:14:49
 status: done
-prompt: sdd/prompts/202605/memory_read_skill.md
+prompt: sdd/plans/202605/prompts/memory_read_skill.md
 tier: tale
 ---
 # Plan: SASE Memory Read Skill

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-30 17:33:56
 status: done
-prompt: sdd/prompts/202604/notification_jump_keymap.md
+prompt: sdd/plans/202604/prompts/notification_jump_keymap.md
 tier: tale
 ---
 # Add apostrophe jump hints to the notification panel

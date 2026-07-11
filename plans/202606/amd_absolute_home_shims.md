@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-06 11:29:40
 status: done
-prompt: sdd/prompts/202606/amd_absolute_home_shims.md
+prompt: sdd/plans/202606/prompts/amd_absolute_home_shims.md
 tier: tale
 ---
 # Plan: Make `sase amd init` generate absolute home-provider shims

@@ -1,7 +1,7 @@
 ---
 status: done
 create_time: 2026-03-24 16:20:24
-prompt: sdd/prompts/202603/fix_embedded_env_injection.md
+prompt: sdd/plans/202603/prompts/fix_embedded_env_injection.md
 tier: tale
 ---
 

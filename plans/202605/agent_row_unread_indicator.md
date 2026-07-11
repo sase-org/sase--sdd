@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 00:42:04
 status: done
-prompt: sdd/prompts/202605/agent_row_unread_indicator.md
+prompt: sdd/plans/202605/prompts/agent_row_unread_indicator.md
 tier: tale
 ---
 # Agent Row Unread Indicator Plan

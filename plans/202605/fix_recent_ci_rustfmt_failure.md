@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-01 19:33:52
 status: done
-prompt: sdd/prompts/202605/fix_recent_ci_rustfmt_failure.md
+prompt: sdd/plans/202605/prompts/fix_recent_ci_rustfmt_failure.md
 tier: tale
 ---
 # Fix Recent CI Rustfmt Failure

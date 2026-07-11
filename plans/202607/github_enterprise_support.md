@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-01 08:06:25
 status: done
-prompt: sdd/prompts/202607/github_enterprise_support.md
+prompt: sdd/plans/202607/prompts/github_enterprise_support.md
 tier: tale
 ---
 # Plan: GitHub Enterprise / Custom Root URL Support for the sase-github Plugin

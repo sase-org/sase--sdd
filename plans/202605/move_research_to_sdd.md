@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-02 18:19:03
 status: done
-prompt: sdd/prompts/202605/move_research_to_sdd.md
+prompt: sdd/plans/202605/prompts/move_research_to_sdd.md
 tier: tale
 ---
 # Move root-level research under sdd/

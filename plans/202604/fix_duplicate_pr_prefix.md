@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-12 12:36:34
 status: done
-prompt: sdd/prompts/202604/fix_duplicate_pr_prefix.md
+prompt: sdd/plans/202604/prompts/fix_duplicate_pr_prefix.md
 tier: tale
 ---
 

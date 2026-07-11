@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-02 13:11:47
 status: done
-prompt: sdd/prompts/202604/resume_planner_for_coder.md
+prompt: sdd/plans/202604/prompts/resume_planner_for_coder.md
 tier: tale
 ---
 

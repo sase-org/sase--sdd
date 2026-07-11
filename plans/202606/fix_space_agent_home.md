@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 14:43:33
 status: done
-prompt: sdd/prompts/202606/fix_space_agent_home.md
+prompt: sdd/plans/202606/prompts/fix_space_agent_home.md
 tier: tale
 ---
 # Plan: Restore Bare Space Agent-Home Shortcut

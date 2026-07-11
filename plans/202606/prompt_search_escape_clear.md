@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-18 07:41:10
 status: done
-prompt: sdd/prompts/202606/prompt_search_escape_clear.md
+prompt: sdd/plans/202606/prompts/prompt_search_escape_clear.md
 tier: tale
 ---
 # Prompt Search Escape Clear Plan

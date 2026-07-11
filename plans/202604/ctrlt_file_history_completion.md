@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-23 14:18:07
 status: done
-prompt: sdd/prompts/202604/ctrlt_file_history_completion.md
+prompt: sdd/plans/202604/prompts/ctrlt_file_history_completion.md
 tier: tale
 ---
 

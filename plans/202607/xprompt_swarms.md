@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 20:45:50
 status: done
-prompt: .sase/sdd/prompts/202607/xprompt_swarms.md
+prompt: .sase/sdd/plans/202607/prompts/xprompt_swarms.md
 tier: tale
 ---
 # Rename multi-agent xprompts to xprompt swarms

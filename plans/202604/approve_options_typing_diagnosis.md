@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-02 13:21:55
 status: done
-prompt: sdd/prompts/202604/approve_options_typing_diagnosis.md
+prompt: sdd/plans/202604/prompts/approve_options_typing_diagnosis.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-29 10:10:56
 status: done
-prompt: sdd/prompts/202606/fix_coverage_load_test_flakes.md
+prompt: sdd/plans/202606/prompts/fix_coverage_load_test_flakes.md
 tier: tale
 ---
 # Fix two CI test failures caused by load-sensitive flakes

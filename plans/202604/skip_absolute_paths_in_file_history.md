@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-25 09:44:53
 status: draft
-prompt: sdd/prompts/202604/skip_absolute_paths_in_file_history.md
+prompt: sdd/plans/202604/prompts/skip_absolute_paths_in_file_history.md
 tier: tale
 ---
 

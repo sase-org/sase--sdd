@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-11 22:57:22
 status: done
-prompt: sdd/prompts/202605/codex_commit_stop_guard.md
+prompt: sdd/plans/202605/prompts/codex_commit_stop_guard.md
 tier: tale
 ---
 # Codex Commit Stop Guard Plan

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 17:44:39
 status: done
-prompt: sdd/prompts/202605/fix_just_bool_rendering.md
+prompt: sdd/plans/202605/prompts/fix_just_bool_rendering.md
 tier: tale
 ---
 # Plan: Fix `fix_just` Python Boolean Rendering

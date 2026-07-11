@@ -1,7 +1,7 @@
 ---
 status: done
 create_time: 2026-03-27 16:56:59
-prompt: sdd/prompts/202603/message_file_migration.md
+prompt: sdd/plans/202603/prompts/message_file_migration.md
 tier: tale
 ---
 

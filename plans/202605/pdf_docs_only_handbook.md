@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 11:10:06
 status: wip
-prompt: sdd/prompts/202605/pdf_docs_only_handbook.md
+prompt: sdd/plans/202605/prompts/pdf_docs_only_handbook.md
 tier: tale
 ---
 # Plan: Fix "Failed to load PDF document" and Shrink Handbook PDF to docs/ Only

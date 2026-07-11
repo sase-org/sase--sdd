@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-13 16:54:50
 status: done
-prompt: sdd/prompts/202605/attach_explicit_artifacts_to_completion.md
+prompt: sdd/plans/202605/prompts/attach_explicit_artifacts_to_completion.md
 tier: tale
 ---
 # Attach explicit agent artifacts to completion notifications

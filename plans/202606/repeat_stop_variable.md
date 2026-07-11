@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-13 16:04:11
 status: done
-prompt: sdd/prompts/202606/repeat_stop_variable.md
+prompt: sdd/plans/202606/prompts/repeat_stop_variable.md
 tier: tale
 ---
 # Plan: STOP Output Variable for `%repeat`

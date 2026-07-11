@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-15 14:59:01
 status: done
-prompt: sdd/prompts/202605/artifact_tab_no_rerender.md
+prompt: sdd/plans/202605/prompts/artifact_tab_no_rerender.md
 tier: tale
 ---
 # Plan: Stop re-rendering artifact pane PDF when `<tab>` returns focus to the TUI

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-27 22:41:10
 status: done
-prompt: sdd/prompts/202604/ace_by_date_hour_subgroup.md
+prompt: sdd/plans/202604/prompts/ace_by_date_hour_subgroup.md
 tier: tale
 ---
 # Plan: Hour-of-day sub-grouping under BY_DATE in the `sase ace` Agents tab

@@ -2,7 +2,7 @@
 name: first_blog_post_hello_sase
 status: draft
 create_time: 2026-05-10 19:41:03
-prompt: sdd/prompts/202605/first_blog_post_hello_sase.md
+prompt: sdd/plans/202605/prompts/first_blog_post_hello_sase.md
 tier: tale
 ---
 

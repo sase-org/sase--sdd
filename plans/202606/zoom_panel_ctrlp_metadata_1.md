@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-25 16:22:52
 status: done
-prompt: sdd/prompts/202606/zoom_panel_ctrlp_metadata_1.md
+prompt: sdd/plans/202606/prompts/zoom_panel_ctrlp_metadata_1.md
 tier: tale
 ---
 # Fix Zoom Panel Ctrl-P Return From Metadata-Revealed File Panel

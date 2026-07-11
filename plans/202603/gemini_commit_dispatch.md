@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-24 17:16:54
 status: wip
-prompt: sdd/prompts/202603/gemini_commit_dispatch.md
+prompt: sdd/plans/202603/prompts/gemini_commit_dispatch.md
 tier: tale
 ---
 

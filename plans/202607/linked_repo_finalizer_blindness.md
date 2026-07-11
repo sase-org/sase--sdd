@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-06 17:29:17
 status: done
-prompt: sdd/prompts/202607/linked_repo_finalizer_blindness.md
+prompt: sdd/plans/202607/prompts/linked_repo_finalizer_blindness.md
 tier: tale
 ---
 # Fix Linked-Repo Commit Finalizer Blindness + Recover q/p's Stashed sase-telegram Work

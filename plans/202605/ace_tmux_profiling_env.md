@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-16 15:58:44
 status: done
-prompt: sdd/prompts/202605/ace_tmux_profiling_env.md
+prompt: sdd/plans/202605/prompts/ace_tmux_profiling_env.md
 tier: tale
 ---
 # Plan: Enable TUI Profiling Env Vars for `sase ace --tmux`

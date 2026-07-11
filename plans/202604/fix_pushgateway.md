@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-08 21:11:30
 status: wip
-prompt: sdd/prompts/202604/fix_pushgateway.md
+prompt: sdd/plans/202604/prompts/fix_pushgateway.md
 tier: tale
 ---
 

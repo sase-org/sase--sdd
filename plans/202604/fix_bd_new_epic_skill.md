@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-17 22:27:29
 status: done
-prompt: sdd/prompts/202604/fix_bd_new_epic_skill.md
+prompt: sdd/plans/202604/prompts/fix_bd_new_epic_skill.md
 tier: tale
 ---
 

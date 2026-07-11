@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-16 17:23:02
 status: done
-prompt: sdd/prompts/202606/agents_bulk_kill_edit.md
+prompt: sdd/plans/202606/prompts/agents_bulk_kill_edit.md
 tier: tale
 ---
 # Agents Tab Bulk Kill And Edit With Prompt Stack

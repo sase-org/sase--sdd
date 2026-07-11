@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 06:44:17
 status: wip
-prompt: sdd/prompts/202606/project_management_edit_keymap.md
+prompt: sdd/plans/202606/prompts/project_management_edit_keymap.md
 tier: tale
 ---
 # Plan: Project Management `e` Edit Keymap

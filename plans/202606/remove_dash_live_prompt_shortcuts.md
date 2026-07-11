@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-17 10:46:04
 status: done
-prompt: sdd/prompts/202606/remove_dash_live_prompt_shortcuts.md
+prompt: sdd/plans/202606/prompts/remove_dash_live_prompt_shortcuts.md
 tier: tale
 ---
 # Remove `---` Live Prompt Shortcuts Plan

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-14 19:20:01
 status: done
-prompt: sdd/prompts/202605/revert_sase_3e_legend.md
+prompt: sdd/plans/202605/prompts/revert_sase_3e_legend.md
 tier: tale
 ---
 # Revert sase-3e Legend Work

@@ -3,7 +3,7 @@ create_time: 2026-05-04 15:54:50
 bead_id: sase-22
 tier: epic
 status: done
-prompt: sdd/prompts/202605/resume_optional_name.md
+prompt: sdd/plans/202605/prompts/resume_optional_name.md
 ---
 # Plan: Optional `#resume` Name Input
 

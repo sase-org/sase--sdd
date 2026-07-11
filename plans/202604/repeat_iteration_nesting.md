@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-14 22:03:43
 status: done
-prompt: sdd/prompts/202604/repeat_iteration_nesting.md
+prompt: sdd/plans/202604/prompts/repeat_iteration_nesting.md
 tier: tale
 ---
 

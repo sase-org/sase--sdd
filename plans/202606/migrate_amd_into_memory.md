@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-26 12:38:21
 status: done
-prompt: sdd/prompts/202606/migrate_amd_into_memory.md
+prompt: sdd/plans/202606/prompts/migrate_amd_into_memory.md
 tier: tale
 ---
 # Plan: Migrate `sase amd` Into `sase memory`

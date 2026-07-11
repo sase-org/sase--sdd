@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-06 19:25:13
 status: done
-prompt: sdd/prompts/202605/wait_requires_success_1.md
+prompt: sdd/plans/202605/prompts/wait_requires_success_1.md
 tier: tale
 ---
 # Plan: Make `%wait` Dependencies Require Successful Completion

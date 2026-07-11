@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-30 12:05:00
 status: done
-prompt: sdd/prompts/202603/suppress_hidden_agent_notifications.md
+prompt: sdd/plans/202603/prompts/suppress_hidden_agent_notifications.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 17:15:02
 status: done
-prompt: sdd/prompts/202605/artifacts_glyph.md
+prompt: sdd/plans/202605/prompts/artifacts_glyph.md
 tier: tale
 ---
 # Plan: ARTIFACTS Entry Prefix Glyph

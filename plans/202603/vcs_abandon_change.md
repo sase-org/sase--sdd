@@ -2,7 +2,7 @@
 create_time: 2026-03-25 19:08:39
 status: wip
 bead_id: sase-c
-prompt: sdd/prompts/202603/vcs_abandon_change.md
+prompt: sdd/plans/202603/prompts/vcs_abandon_change.md
 tier: epic
 ---
 

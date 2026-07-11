@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-15 10:34:40
 status: done
-prompt: sdd/prompts/202606/revert_agent_push.md
+prompt: sdd/plans/202606/prompts/revert_agent_push.md
 tier: tale
 ---
 # Plan: Push Agents-Tab Revert Commits To GitHub

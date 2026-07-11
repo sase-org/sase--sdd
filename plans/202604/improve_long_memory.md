@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-13 13:26:51
 status: done
-prompt: sdd/prompts/202604/improve_long_memory.md
+prompt: sdd/plans/202604/prompts/improve_long_memory.md
 tier: tale
 ---
 

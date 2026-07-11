@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-01 09:06:31
 status: done
-prompt: sdd/prompts/202606/bulk_kill_flake_1.md
+prompt: sdd/plans/202606/prompts/bulk_kill_flake_1.md
 tier: tale
 ---
 # Plan: Fix Bulk Kill Flake

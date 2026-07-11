@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-21 16:25:39
 status: done
-prompt: sdd/prompts/202605/tier1_agent_index_upkeep.md
+prompt: sdd/plans/202605/prompts/tier1_agent_index_upkeep.md
 bead_id: sase-3u
 tier: epic
 ---

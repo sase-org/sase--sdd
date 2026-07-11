@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-28 21:49:34
 status: done
-prompt: sdd/prompts/202605/default_list_subcommands.md
+prompt: sdd/plans/202605/prompts/default_list_subcommands.md
 tier: tale
 ---
 # Default list Subcommands

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-14 15:59:17
 status: wip
-prompt: sdd/prompts/202605/blazing_fast_ace_daemon.md
+prompt: sdd/plans/202605/prompts/blazing_fast_ace_daemon.md
 bead_id: sase-3i
 tier: epic
 ---

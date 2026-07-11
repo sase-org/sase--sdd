@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-01 13:22:31
 status: done
-prompt: sdd/prompts/202605/conditional_one_hour_headings.md
+prompt: sdd/plans/202605/prompts/conditional_one_hour_headings.md
 tier: tale
 ---
 # Conditional one-hour heading visibility

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 19:12:29
 status: done
-prompt: sdd/prompts/202605/remove_obsolete_plugin_repos.md
+prompt: sdd/plans/202605/prompts/remove_obsolete_plugin_repos.md
 bead_id: sase-2k
 tier: epic
 ---

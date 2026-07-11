@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-21 11:20:05
 status: done
-prompt: sdd/prompts/202605/footer_overflow.md
+prompt: sdd/plans/202605/prompts/footer_overflow.md
 tier: tale
 ---
 # TUI Footer Overflow Redesign

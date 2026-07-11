@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 19:09:09
 status: done
-prompt: sdd/prompts/202605/done_timestamp.md
+prompt: sdd/plans/202605/prompts/done_timestamp.md
 tier: tale
 ---
 # Rename Agent END Timestamp To DONE

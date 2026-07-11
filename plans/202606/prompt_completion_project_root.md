@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-06 14:17:10
 status: done
-prompt: sdd/prompts/202606/prompt_completion_project_root.md
+prompt: sdd/plans/202606/prompts/prompt_completion_project_root.md
 tier: tale
 ---
 # Plan: Project-Rooted Prompt File Completion

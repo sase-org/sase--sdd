@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-10 01:03:04
 status: wip
-prompt: sdd/prompts/202605/agents_stopped_status.md
+prompt: sdd/plans/202605/prompts/agents_stopped_status.md
 tier: tale
 ---
 # Plan: Rename Agents Status Presentation to Stopped

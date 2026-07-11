@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 17:17:57
 status: done
-prompt: sdd/prompts/202605/agent_status_plan.md
+prompt: sdd/plans/202605/prompts/agent_status_plan.md
 tier: tale
 ---
 # Plan: Rename Agents-tab PLANNING status to PLAN

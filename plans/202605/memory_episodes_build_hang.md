@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-26 21:38:56
 status: done
-prompt: sdd/prompts/202605/memory_episodes_build_hang.md
+prompt: sdd/plans/202605/prompts/memory_episodes_build_hang.md
 tier: tale
 ---
 # Plan: Fix `sase memory episodes build` project-scan fan-out

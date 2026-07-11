@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-11 16:51:59
 status: done
-prompt: sdd/prompts/202604/pr_status_input.md
+prompt: sdd/plans/202604/prompts/pr_status_input.md
 tier: tale
 ---
 

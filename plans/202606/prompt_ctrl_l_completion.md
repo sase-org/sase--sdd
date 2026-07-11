@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-05 10:37:27
 status: done
-prompt: sdd/prompts/202606/prompt_ctrl_l_completion.md
+prompt: sdd/plans/202606/prompts/prompt_ctrl_l_completion.md
 tier: tale
 ---
 # Prompt Ctrl+L Completion Plan

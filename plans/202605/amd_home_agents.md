@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-29 16:36:51
 status: done
-prompt: sdd/prompts/202605/amd_home_agents.md
+prompt: sdd/plans/202605/prompts/amd_home_agents.md
 tier: tale
 ---
 # Manage Home AGENTS.md With AMD

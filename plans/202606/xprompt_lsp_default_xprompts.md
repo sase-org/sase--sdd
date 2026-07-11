@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-10 09:25:13
 status: done
-prompt: sdd/prompts/202606/xprompt_lsp_default_xprompts.md
+prompt: sdd/plans/202606/prompts/xprompt_lsp_default_xprompts.md
 tier: tale
 ---
 # Fix: xprompt LSP not attaching for `src/sase/default_xprompts/*.md` in neovim

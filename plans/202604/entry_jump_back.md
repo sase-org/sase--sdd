@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-06 15:20:01
 status: done
-prompt: sdd/prompts/202604/entry_jump_back.md
+prompt: sdd/plans/202604/prompts/entry_jump_back.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 12:11:56
 status: done
-prompt: sdd/prompts/202605/pylimit_split_registry_collision.md
+prompt: sdd/plans/202605/prompts/pylimit_split_registry_collision.md
 tier: tale
 ---
 # Fix `sase_pylimit_split` chop: honor durable agent-name registry when naming `pysplit.<stem>` agents

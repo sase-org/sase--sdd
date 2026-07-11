@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 13:46:49
 status: done
-prompt: sdd/prompts/202607/tui_toasts_log_source.md
+prompt: sdd/plans/202607/prompts/tui_toasts_log_source.md
 tier: tale
 ---
 # Plan: "TUI Toasts" Log Source in the SASE Admin Center Logs Tab

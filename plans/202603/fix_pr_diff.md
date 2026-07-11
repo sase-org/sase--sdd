@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-30 17:25:50
 status: done
-prompt: sdd/prompts/202603/fix_pr_diff.md
+prompt: sdd/plans/202603/prompts/fix_pr_diff.md
 tier: tale
 ---
 

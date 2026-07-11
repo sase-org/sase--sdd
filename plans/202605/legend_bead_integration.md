@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-04 13:43:10
 status: done
-prompt: sdd/prompts/202605/legend_bead_integration.md
+prompt: sdd/plans/202605/prompts/legend_bead_integration.md
 bead_id: sase-21
 tier: epic
 ---

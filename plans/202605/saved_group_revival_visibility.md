@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-27 15:06:10
 status: done
-prompt: sdd/prompts/202605/saved_group_revival_visibility.md
+prompt: sdd/plans/202605/prompts/saved_group_revival_visibility.md
 tier: tale
 ---
 # Saved Group Revival Visibility Plan

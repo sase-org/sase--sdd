@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-23 14:22:58
 status: done
-prompt: sdd/prompts/202606/reasoning_effort_pyvision_cleanup_2.md
+prompt: sdd/plans/202606/prompts/reasoning_effort_pyvision_cleanup_2.md
 tier: tale
 ---
 # Reasoning Effort Pyvision Cleanup Plan

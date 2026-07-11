@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-15 16:42:30
 status: done
-prompt: sdd/prompts/202604/profile_output_path.md
+prompt: sdd/plans/202604/prompts/profile_output_path.md
 tier: tale
 ---
 

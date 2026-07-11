@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-02 10:47:52
 status: done
-prompt: sdd/prompts/202607/remove_idle_tracking.md
+prompt: sdd/plans/202607/prompts/remove_idle_tracking.md
 tier: tale
 ---
 # Remove the User Idle / Activity-Tracking System

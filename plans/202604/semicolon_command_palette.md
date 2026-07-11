@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-29 19:46:23
 status: done
-prompt: sdd/prompts/202604/semicolon_command_palette.md
+prompt: sdd/plans/202604/prompts/semicolon_command_palette.md
 tier: tale
 ---
 # Plan: Make `;` Also Open the Ace Command Palette

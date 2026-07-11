@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 17:36:43
 status: done
-prompt: sdd/prompts/202605/agent_panel_count_colors.md
+prompt: sdd/plans/202605/prompts/agent_panel_count_colors.md
 tier: tale
 ---
 # Plan: Agent Panel Count Colors

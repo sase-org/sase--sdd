@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 19:04:51
 status: done
-prompt: sdd/prompts/202605/git_xprompt_auto_init.md
+prompt: sdd/plans/202605/prompts/git_xprompt_auto_init.md
 tier: tale
 ---
 # Plan: Auto-Initialize Bare Git Projects From `#git:<project>`

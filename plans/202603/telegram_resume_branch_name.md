@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-27 09:58:37
 status: done
-prompt: sdd/prompts/202603/telegram_resume_branch_name.md
+prompt: sdd/plans/202603/prompts/telegram_resume_branch_name.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-14 22:20:52
 status: done
-prompt: sdd/prompts/202605/async_workflow_detail_loads.md
+prompt: sdd/plans/202605/prompts/async_workflow_detail_loads.md
 tier: tale
 ---
 # Async Workflow Detail Loads Plan

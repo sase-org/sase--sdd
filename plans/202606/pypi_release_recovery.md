@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-09 07:12:04
 status: wip
-prompt: sdd/prompts/202606/pypi_release_recovery.md
+prompt: sdd/plans/202606/prompts/pypi_release_recovery.md
 tier: tale
 ---
 # PyPI Release Recovery Plan

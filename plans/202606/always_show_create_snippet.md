@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-27 11:16:39
 status: done
-prompt: sdd/prompts/202606/always_show_create_snippet.md
+prompt: sdd/plans/202606/prompts/always_show_create_snippet.md
 tier: tale
 ---
 # Always Offer Prompt Snippet Creation from `gx`

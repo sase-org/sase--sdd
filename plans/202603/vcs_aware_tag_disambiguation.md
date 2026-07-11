@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-23 22:25:50
 status: done
-prompt: sdd/prompts/202603/vcs_aware_tag_disambiguation.md
+prompt: sdd/plans/202603/prompts/vcs_aware_tag_disambiguation.md
 tier: tale
 ---
 

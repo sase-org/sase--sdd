@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 00:24:58
 status: done
-prompt: sdd/prompts/202605/image_rendering.md
+prompt: sdd/plans/202605/prompts/image_rendering.md
 tier: tale
 ---
 # Improve SASE Image Rendering

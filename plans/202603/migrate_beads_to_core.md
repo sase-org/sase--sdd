@@ -1,6 +1,6 @@
 ---
 bead_id: sase-cu8
-prompt: sdd/prompts/202603/migrate_beads_to_core.md
+prompt: sdd/plans/202603/prompts/migrate_beads_to_core.md
 tier: epic
 create_time: '2026-07-08 16:10:05'
 ---

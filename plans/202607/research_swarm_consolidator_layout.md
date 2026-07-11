@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 14:23:27
 status: wip
-prompt: .sase/sdd/prompts/202607/research_swarm_consolidator_layout.md
+prompt: .sase/sdd/plans/202607/prompts/research_swarm_consolidator_layout.md
 tier: tale
 ---
 # Research Swarm Consolidator Output Layout

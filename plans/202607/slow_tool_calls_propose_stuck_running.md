@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 09:04:33
 status: done
-prompt: .sase/sdd/prompts/202607/slow_tool_calls_propose_stuck_running.md
+prompt: .sase/sdd/plans/202607/prompts/slow_tool_calls_propose_stuck_running.md
 tier: tale
 ---
 # Fix eternally-"running" `sase plan propose` entry in ACE SLOW TOOL CALLS

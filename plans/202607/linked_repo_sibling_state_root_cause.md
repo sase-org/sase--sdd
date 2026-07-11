@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-06 18:12:38
 status: done
-prompt: sdd/prompts/202607/linked_repo_sibling_state_root_cause.md
+prompt: sdd/plans/202607/prompts/linked_repo_sibling_state_root_cause.md
 tier: tale
 ---
 # Root Cause + Fix: Linked-Repo ProjectSpecs Created Without `PROJECT_STATE: sibling`

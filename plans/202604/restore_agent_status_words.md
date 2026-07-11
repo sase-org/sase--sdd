@@ -1,7 +1,7 @@
 ---
 status: done
 create_time: 2026-04-26 03:24:00
-prompt: sdd/prompts/202604/restore_agent_status_words.md
+prompt: sdd/plans/202604/prompts/restore_agent_status_words.md
 tier: tale
 ---
 

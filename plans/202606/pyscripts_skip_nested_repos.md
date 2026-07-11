@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 23:47:44
 status: done
-prompt: sdd/prompts/202606/pyscripts_skip_nested_repos.md
+prompt: sdd/plans/202606/prompts/pyscripts_skip_nested_repos.md
 tier: tale
 ---
 # Plan: Stop `pyscripts` linter from descending into nested sibling-repo checkouts

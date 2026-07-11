@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-23 09:01:43
 status: done
-prompt: sdd/prompts/202606/zoom_file_reverse_cycle.md
+prompt: sdd/plans/202606/prompts/zoom_file_reverse_cycle.md
 tier: tale
 ---
 # Plan: Fix ACE zoom modal previous-file cycling

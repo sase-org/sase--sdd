@@ -4,7 +4,7 @@ bead_id: sase-3c
 tier: epic
 create_time: 2026-05-12 22:55:25
 status: wip
-prompt: sdd/prompts/202605/remove_cross_workspace_bead_reads.md
+prompt: sdd/plans/202605/prompts/remove_cross_workspace_bead_reads.md
 ---
 
 # Goal

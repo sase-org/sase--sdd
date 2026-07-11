@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-08 18:54:24
 status: wip
-prompt: sdd/prompts/202604/concurrent_chops.md
+prompt: sdd/plans/202604/prompts/concurrent_chops.md
 tier: tale
 ---
 

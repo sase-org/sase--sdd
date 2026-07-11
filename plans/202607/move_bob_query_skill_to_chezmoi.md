@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 13:11:45
 status: done
-prompt: .sase/sdd/prompts/202607/move_bob_query_skill_to_chezmoi.md
+prompt: .sase/sdd/plans/202607/prompts/move_bob_query_skill_to_chezmoi.md
 tier: tale
 ---
 # Move and Rename the Bob Query XPrompt Skill

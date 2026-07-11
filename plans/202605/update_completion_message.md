@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-04 16:47:43
 status: done
-prompt: sdd/prompts/202605/update_completion_message.md
+prompt: sdd/plans/202605/prompts/update_completion_message.md
 tier: tale
 ---
 # Plan: Send Chat Update Completion Messages

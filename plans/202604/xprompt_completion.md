@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-14 17:44:33
 status: done
-prompt: sdd/prompts/202604/xprompt_completion.md
+prompt: sdd/plans/202604/prompts/xprompt_completion.md
 tier: tale
 ---
 

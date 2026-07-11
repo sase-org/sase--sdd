@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 22:38:04
 status: wip
-prompt: sdd/prompts/202605/plan_review_approve_keymap.md
+prompt: sdd/plans/202605/prompts/plan_review_approve_keymap.md
 tier: tale
 ---
 # Plan: Plan Review Approve/Tale Keymaps

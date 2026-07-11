@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-01 13:38:17
 status: done
-prompt: sdd/prompts/202605/agent_bead_description.md
+prompt: sdd/plans/202605/prompts/agent_bead_description.md
 tier: tale
 ---
 # Plan: Enrich Agents Bead Metadata

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-30 19:13:39
 status: done
-prompt: sdd/prompts/202603/fix_pylimit_split.md
+prompt: sdd/plans/202603/prompts/fix_pylimit_split.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-12 16:40:10
 status: done
-prompt: sdd/prompts/202604/revive_modal_datetime.md
+prompt: sdd/plans/202604/prompts/revive_modal_datetime.md
 tier: tale
 ---
 

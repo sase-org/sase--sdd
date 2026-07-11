@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-06 10:05:01
 status: done
-prompt: sdd/prompts/202605/runtime_suffix_followup_vs_step.md
+prompt: sdd/plans/202605/prompts/runtime_suffix_followup_vs_step.md
 tier: tale
 ---
 # Plan: Runtime Suffix Ownership For Follow-Up Workflows

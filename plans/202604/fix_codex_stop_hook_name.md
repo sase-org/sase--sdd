@@ -1,7 +1,7 @@
 ---
 status: done
 create_time: 2026-04-04 18:24:48
-prompt: sdd/prompts/202604/fix_codex_stop_hook_name.md
+prompt: sdd/plans/202604/prompts/fix_codex_stop_hook_name.md
 tier: tale
 ---
 

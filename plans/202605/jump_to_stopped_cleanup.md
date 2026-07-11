@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-13 15:35:54
 status: done
-prompt: sdd/prompts/202605/jump_to_stopped_cleanup.md
+prompt: sdd/plans/202605/prompts/jump_to_stopped_cleanup.md
 tier: tale
 ---
 # Plan: Clean Up Stopped-Agent Jump Implementation

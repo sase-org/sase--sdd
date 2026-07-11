@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 17:52:36
 status: done
-prompt: sdd/prompts/202605/disable_kitty_cmd_f.md
+prompt: sdd/plans/202605/prompts/disable_kitty_cmd_f.md
 tier: tale
 ---
 # Plan: Disable Kitty cmd+f Interception for SASE Prompt Word Navigation

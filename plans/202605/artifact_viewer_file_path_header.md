@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 15:44:33
 status: done
-prompt: sdd/prompts/202605/artifact_viewer_file_path_header.md
+prompt: sdd/plans/202605/prompts/artifact_viewer_file_path_header.md
 tier: tale
 ---
 # Artifact Viewer File Path Header Plan

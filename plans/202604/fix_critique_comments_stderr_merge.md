@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-20 13:32:36
 status: done
-prompt: sdd/prompts/202604/fix_critique_comments_stderr_merge.md
+prompt: sdd/plans/202604/prompts/fix_critique_comments_stderr_merge.md
 tier: tale
 ---
 

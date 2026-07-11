@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-24 02:17:41
 status: done
-prompt: sdd/prompts/202603/sase_9_3.md
+prompt: sdd/plans/202603/prompts/sase_9_3.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 14:54:42
 status: done
-prompt: sdd/prompts/202605/codex_phase_commit_workspace.md
+prompt: sdd/plans/202605/prompts/codex_phase_commit_workspace.md
 tier: tale
 ---
 # Codex phase-agent commit fallback workspace plan

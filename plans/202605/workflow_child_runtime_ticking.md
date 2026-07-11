@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-21 15:31:49
 status: done
-prompt: sdd/prompts/202605/workflow_child_runtime_ticking.md
+prompt: sdd/plans/202605/prompts/workflow_child_runtime_ticking.md
 tier: tale
 ---
 # Fix Workflow Plan/Code Child Runtime Ticking on the Agents Tab

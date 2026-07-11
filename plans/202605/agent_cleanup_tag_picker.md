@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 14:50:00
 status: wip
-prompt: sdd/prompts/202605/agent_cleanup_tag_picker.md
+prompt: sdd/plans/202605/prompts/agent_cleanup_tag_picker.md
 tier: tale
 ---
 # Plan: Limit Agent Cleanup Tag Picker To Visible Agents-Tab Tags

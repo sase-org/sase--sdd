@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 13:27:25
 status: done
-prompt: sdd/prompts/202606/sibling_project_status.md
+prompt: sdd/plans/202606/prompts/sibling_project_status.md
 tier: tale
 ---
 # Plan: Sibling Project Lifecycle State

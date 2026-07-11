@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-11 18:31:40
 status: done
-prompt: sdd/prompts/202605/axe_png_snapshots.md
+prompt: sdd/plans/202605/prompts/axe_png_snapshots.md
 tier: tale
 ---
 # Plan — Expand AXE Tab PNG Snapshot Coverage

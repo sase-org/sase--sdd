@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-26 11:09:01
 status: done
-prompt: sdd/prompts/202603/agent_ref_in_vcs_tags.md
+prompt: sdd/plans/202603/prompts/agent_ref_in_vcs_tags.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 11:21:48
 status: done
-prompt: sdd/prompts/202606/runners_uppercase_r.md
+prompt: sdd/plans/202606/prompts/runners_uppercase_r.md
 tier: tale
 ---
 # Plan: Move Runners Panel to `,R`

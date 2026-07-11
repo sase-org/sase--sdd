@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-16 10:51:11
 status: done
-prompt: sdd/prompts/202606/agent_name_unbracket_list.md
+prompt: sdd/plans/202606/prompts/agent_name_unbracket_list.md
 tier: tale
 ---
 # Plan: Remove Square Brackets Around Agent Names in the Agents List

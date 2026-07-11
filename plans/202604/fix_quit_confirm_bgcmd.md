@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-13 12:40:39
 status: done
-prompt: sdd/prompts/202604/fix_quit_confirm_bgcmd.md
+prompt: sdd/plans/202604/prompts/fix_quit_confirm_bgcmd.md
 tier: tale
 ---
 

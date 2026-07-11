@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-27 11:46:22
 status: done
-prompt: sdd/prompts/202604/hide_agent_attempt_rows.md
+prompt: sdd/plans/202604/prompts/hide_agent_attempt_rows.md
 tier: tale
 ---
 # Hide Attempt Rows In Agents List

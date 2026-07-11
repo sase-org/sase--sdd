@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 15:47:37
 status: done
-prompt: sdd/prompts/202605/bead_work_speed.md
+prompt: sdd/plans/202605/prompts/bead_work_speed.md
 tier: tale
 ---
 # Make `sase bead work` Faster

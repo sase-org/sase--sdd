@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 14:04:56
 status: done
-prompt: sdd/prompts/202607/xprompt_lsp_update_reconcile.md
+prompt: sdd/plans/202607/prompts/xprompt_lsp_update_reconcile.md
 tier: tale
 ---
 # Rebuild and Reinstall the xprompt LSP Server During `sase update`

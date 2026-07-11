@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-27 22:57:52
 status: done
-prompt: sdd/prompts/202604/remove_cls_flat_grouping.md
+prompt: sdd/plans/202604/prompts/remove_cls_flat_grouping.md
 tier: tale
 ---
 # Remove FLAT Grouping from the CLs Tab

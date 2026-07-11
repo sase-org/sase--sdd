@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-26 18:16:08
 status: done
-prompt: sdd/prompts/202605/retry_suffix_and_keymap.md
+prompt: sdd/plans/202605/prompts/retry_suffix_and_keymap.md
 tier: tale
 ---
 # Retry Suffix And Keymap Plan

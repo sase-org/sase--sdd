@@ -4,7 +4,7 @@ description: Add a shift+O keymap that cycles the Agents/CLs grouping strategy i
   reverse (mirror of existing `o`).
 create_time: 2026-04-28 19:21:55
 status: done
-prompt: sdd/prompts/202604/reverse_grouping_keymap.md
+prompt: sdd/plans/202604/prompts/reverse_grouping_keymap.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-27 09:22:48
 status: done
-prompt: sdd/prompts/202604/g_keymap_restore.md
+prompt: sdd/plans/202604/prompts/g_keymap_restore.md
 tier: tale
 ---
 # Restore `g` to "scroll to top" on the Agents tab; move grouping-mode cycle to a new key

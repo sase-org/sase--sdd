@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-01 08:31:56
 status: done
-prompt: sdd/prompts/202607/github_enterprise_setup_docs.md
+prompt: sdd/plans/202607/prompts/github_enterprise_setup_docs.md
 tier: tale
 ---
 # Plan: GitHub Enterprise Setup Documentation (install routes + end-to-end walkthrough)

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 10:33:25
 status: done
-prompt: .sase/sdd/prompts/202607/limit_completion_image_attachments.md
+prompt: .sase/sdd/plans/202607/prompts/limit_completion_image_attachments.md
 tier: tale
 ---
 # Plan: Limit Agent Completion Image Attachments

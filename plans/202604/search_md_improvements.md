@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-01 15:51:56
 status: active
-prompt: sdd/prompts/202604/search_md_improvements.md
+prompt: sdd/plans/202604/prompts/search_md_improvements.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-18 23:48:08
 status: done
-prompt: sdd/prompts/202606/prompt_search_completion.md
+prompt: sdd/plans/202606/prompts/prompt_search_completion.md
 tier: tale
 ---
 # Complete `sase-4y` Prompt Search Verification

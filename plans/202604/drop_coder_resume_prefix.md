@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-19 15:29:09
 status: done
-prompt: sdd/prompts/202604/drop_coder_resume_prefix.md
+prompt: sdd/plans/202604/prompts/drop_coder_resume_prefix.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-26 21:17:09
 status: done
-prompt: sdd/prompts/202603/fix_sibling_stop_hook.md
+prompt: sdd/plans/202603/prompts/fix_sibling_stop_hook.md
 tier: tale
 ---
 

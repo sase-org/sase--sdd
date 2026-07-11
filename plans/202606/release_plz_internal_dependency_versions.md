@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-09 09:03:53
 status: done
-prompt: sdd/prompts/202606/release_plz_internal_dependency_versions.md
+prompt: sdd/plans/202606/prompts/release_plz_internal_dependency_versions.md
 tier: tale
 ---
 # Plan: Fix release-plz PR package verification

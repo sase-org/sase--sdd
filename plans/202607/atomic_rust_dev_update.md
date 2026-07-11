@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-06 00:04:06
 status: wip
-prompt: sdd/prompts/202607/atomic_rust_dev_update.md
+prompt: sdd/plans/202607/prompts/atomic_rust_dev_update.md
 tier: tale
 ---
 # Plan: Make the dev-update Rust reconcile atomic and self-healing

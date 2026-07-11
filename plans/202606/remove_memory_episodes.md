@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-15 19:41:39
 status: done
-prompt: sdd/prompts/202606/remove_memory_episodes.md
+prompt: sdd/plans/202606/prompts/remove_memory_episodes.md
 tier: tale
 ---
 # Remove Memory Episodes Command

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-17 07:07:50
 status: done
-prompt: sdd/prompts/202606/plan_list_recent_approvals.md
+prompt: sdd/plans/202606/prompts/plan_list_recent_approvals.md
 tier: tale
 ---
 # Fix `sase plan list` Recent Approvals

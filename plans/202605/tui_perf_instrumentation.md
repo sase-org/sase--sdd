@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-16 18:15:24
 status: done
-prompt: sdd/prompts/202605/tui_perf_instrumentation.md
+prompt: sdd/plans/202605/prompts/tui_perf_instrumentation.md
 tier: tale
 ---
 # TUI Perf Diagnosis — Instrumentation Improvements (#1, #2)

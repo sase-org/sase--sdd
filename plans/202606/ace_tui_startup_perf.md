@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-15 21:02:19
 status: done
-prompt: sdd/prompts/202606/ace_tui_startup_perf.md
+prompt: sdd/plans/202606/prompts/ace_tui_startup_perf.md
 tier: tale
 ---
 # Plan: Make `sase ace` Startup Much Faster

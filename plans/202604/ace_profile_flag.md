@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-14 23:32:46
 status: wip
-prompt: sdd/prompts/202604/ace_profile_flag.md
+prompt: sdd/plans/202604/prompts/ace_profile_flag.md
 tier: tale
 ---
 

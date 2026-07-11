@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-31 19:26:12
 status: done
-prompt: sdd/prompts/202603/task_queue_live_output.md
+prompt: sdd/plans/202603/prompts/task_queue_live_output.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-01 21:09:21
 status: done
-prompt: sdd/prompts/202605/land_agent_epic_id_names.md
+prompt: sdd/plans/202605/prompts/land_agent_epic_id_names.md
 tier: tale
 ---
 # Land epic agents named by epic bead ID

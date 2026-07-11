@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-11 18:09:27
 status: done
-prompt: sdd/prompts/202605/fix_visual_snapshot_state_leakage.md
+prompt: sdd/plans/202605/prompts/fix_visual_snapshot_state_leakage.md
 tier: tale
 ---
 # Plan: Fix ACE PNG visual snapshot state leakage in CI

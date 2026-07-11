@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-01 07:35:23
 status: done
-prompt: sdd/prompts/202607/agy_model_alias_removal.md
+prompt: sdd/plans/202607/prompts/agy_model_alias_removal.md
 tier: tale
 ---
 # Plan: Remove the hacky `agy` / `agy_pro` model aliases in favor of quoted `%model` arguments

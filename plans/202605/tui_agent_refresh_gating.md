@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-16 16:25:19
 status: done
-prompt: sdd/prompts/202605/tui_agent_refresh_gating.md
+prompt: sdd/plans/202605/prompts/tui_agent_refresh_gating.md
 tier: tale
 ---
 # Plan: Tab-gate and debounce the TUI agent loader

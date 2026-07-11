@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-13 11:09:39
 status: done
-prompt: sdd/prompts/202604/migrate.md
+prompt: sdd/plans/202604/prompts/migrate.md
 tier: tale
 ---
 

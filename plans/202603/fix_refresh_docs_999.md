@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-29 17:30:03
 status: done
-prompt: sdd/prompts/202603/fix_refresh_docs_999.md
+prompt: sdd/plans/202603/prompts/fix_refresh_docs_999.md
 tier: tale
 ---
 

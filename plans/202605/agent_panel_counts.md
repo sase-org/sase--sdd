@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 17:13:26
 status: done
-prompt: sdd/prompts/202605/agent_panel_counts.md
+prompt: sdd/plans/202605/prompts/agent_panel_counts.md
 tier: tale
 ---
 # Plan: Per-Panel Shorthand Agent Counts

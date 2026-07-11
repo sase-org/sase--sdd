@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-21 01:17:04
 status: done
-prompt: sdd/prompts/202603/config_grouping.md
+prompt: sdd/plans/202603/prompts/config_grouping.md
 tier: tale
 ---
 

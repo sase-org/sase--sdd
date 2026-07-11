@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-27 11:39:07
 status: done
-prompt: sdd/prompts/202604/agent_list_single_line.md
+prompt: sdd/plans/202604/prompts/agent_list_single_line.md
 tier: tale
 ---
 # Agent List Single-Line Rendering Plan

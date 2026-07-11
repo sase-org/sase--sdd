@@ -2,7 +2,7 @@
 status: done
 create_time: 2026-03-24 12:30:08
 bead_id: sase-b
-prompt: sdd/prompts/202603/migrate_ccommit.md
+prompt: sdd/plans/202603/prompts/migrate_ccommit.md
 tier: epic
 ---
 

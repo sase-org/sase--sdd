@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-21 14:14:17
 status: done
-prompt: sdd/prompts/202605/tier1_index_meta_staleness.md
+prompt: sdd/plans/202605/prompts/tier1_index_meta_staleness.md
 tier: tale
 ---
 # Fix: Tier 1 Fast Reload Doesn't Pick Up agent_meta.json Timestamp Updates

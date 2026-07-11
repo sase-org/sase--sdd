@@ -4,7 +4,7 @@ description: Convert plan-approval markdown attachments to PDF before uploading 
   Google Chat, falling back to the raw markdown when conversion is unavailable.
 create_time: 2026-04-25 12:14:23
 status: done
-prompt: sdd/prompts/202604/gchat_plan_pdf_attachment.md
+prompt: sdd/plans/202604/prompts/gchat_plan_pdf_attachment.md
 tier: tale
 ---
 

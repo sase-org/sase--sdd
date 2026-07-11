@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 16:53:12
 status: done
-prompt: sdd/prompts/202606/hide_home_project_from_at_panel.md
+prompt: sdd/plans/202606/prompts/hide_home_project_from_at_panel.md
 tier: tale
 ---
 # Hide `home` Project From `@` Agent Selector

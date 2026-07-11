@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-29 21:43:44
 status: done
-prompt: sdd/prompts/202604/grouping_strategy_persistence.md
+prompt: sdd/plans/202604/prompts/grouping_strategy_persistence.md
 tier: tale
 ---
 # Persist ACE Grouping Strategy

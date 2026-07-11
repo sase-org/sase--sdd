@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-10 22:45:59
 status: draft
-prompt: sdd/prompts/202604/commit_parent_flag.md
+prompt: sdd/plans/202604/prompts/commit_parent_flag.md
 tier: tale
 ---
 

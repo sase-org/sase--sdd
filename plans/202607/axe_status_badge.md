@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 09:56:38
 status: done
-prompt: .sase/sdd/prompts/202607/axe_status_badge.md
+prompt: .sase/sdd/plans/202607/prompts/axe_status_badge.md
 tier: tale
 ---
 # Plan: Label the AXE Status Pill in the TUI Footer

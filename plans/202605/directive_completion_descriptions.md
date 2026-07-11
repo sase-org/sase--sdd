@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 11:47:54
 status: done
-prompt: sdd/prompts/202605/directive_completion_descriptions.md
+prompt: sdd/plans/202605/prompts/directive_completion_descriptions.md
 tier: tale
 ---
 # Plan: Directive Completion Descriptions

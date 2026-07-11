@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-30 03:33:06
 status: done
-prompt: sdd/prompts/202604/fix_agent_cleanup_rs_validation.md
+prompt: sdd/plans/202604/prompts/fix_agent_cleanup_rs_validation.md
 tier: tale
 ---
 # Fix agent-cleanup Rust facade test failures

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-24 17:36:58
 status: done
-prompt: sdd/prompts/202603/commit_message_in_pdf.md
+prompt: sdd/plans/202603/prompts/commit_message_in_pdf.md
 tier: tale
 ---
 

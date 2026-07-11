@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-29 20:26:28
 status: done
-prompt: sdd/prompts/202605/dynamic_memory_tier2.md
+prompt: sdd/plans/202605/prompts/dynamic_memory_tier2.md
 tier: tale
 ---
 # Plan: Conditional Tier 2 Dynamic Memory Section

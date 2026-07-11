@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-05 07:05:36
 status: wip
-prompt: sdd/prompts/202607/move_research_xprompts_to_chezmoi.md
+prompt: sdd/plans/202607/prompts/move_research_xprompts_to_chezmoi.md
 tier: tale
 ---
 # Move Research XPrompts from sase Defaults to Chezmoi + Add `@research` / `@research_assist` Model Aliases

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 10:41:32
 status: done
-prompt: sdd/prompts/202606/init_onboarding_agents.md
+prompt: sdd/plans/202606/prompts/init_onboarding_agents.md
 tier: tale
 ---
 # Fix `sase init` AGENTS onboarding

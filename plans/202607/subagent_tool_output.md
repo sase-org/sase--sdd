@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 21:09:18
 status: done
-prompt: sdd/prompts/202607/subagent_tool_output.md
+prompt: sdd/plans/202607/prompts/subagent_tool_output.md
 tier: tale
 ---
 # Plan: Capture & Surface Subagent (`Agent`/`Task`) Tool Output

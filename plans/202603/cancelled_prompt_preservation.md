@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-25 18:39:06
 status: done
-prompt: sdd/prompts/202603/cancelled_prompt_preservation.md
+prompt: sdd/plans/202603/prompts/cancelled_prompt_preservation.md
 tier: tale
 ---
 

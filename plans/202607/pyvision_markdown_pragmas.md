@@ -3,7 +3,7 @@ create_time: 2026-07-08 22:14:14
 bead_id: sase-5n
 tier: epic
 status: done
-prompt: .sase/sdd/prompts/202607/pyvision_markdown_pragmas.md
+prompt: .sase/sdd/plans/202607/prompts/pyvision_markdown_pragmas.md
 ---
 # Plan: Replace Markdown pyvision Pragmas With Real Visibility Boundaries
 

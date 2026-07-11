@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-24 16:21:08
 status: done
-prompt: sdd/prompts/202606/directive_arg_completion.md
+prompt: sdd/plans/202606/prompts/directive_arg_completion.md
 tier: tale
 ---
 # Plan: Auto-completion for `%effort:` and `%auto:` directive argument values

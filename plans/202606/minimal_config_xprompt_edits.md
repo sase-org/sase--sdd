@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-25 10:06:14
 status: done
-prompt: sdd/prompts/202606/minimal_config_xprompt_edits.md
+prompt: sdd/plans/202606/prompts/minimal_config_xprompt_edits.md
 tier: tale
 ---
 # Plan: Minimal, comment-preserving xprompt edits in YAML config files

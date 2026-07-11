@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-09 19:40:02
 status: done
-prompt: sdd/prompts/202606/nonblocking_tui_agent_launch_tasks.md
+prompt: sdd/plans/202606/prompts/nonblocking_tui_agent_launch_tasks.md
 tier: tale
 ---
 # Nonblocking TUI Agent Launch Tasks

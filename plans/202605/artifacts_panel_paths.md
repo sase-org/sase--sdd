@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 12:01:04
 status: done
-prompt: sdd/prompts/202605/artifacts_panel_paths.md
+prompt: sdd/plans/202605/prompts/artifacts_panel_paths.md
 tier: tale
 ---
 # Artifacts Panel Path Display Improvements

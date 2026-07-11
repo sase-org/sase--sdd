@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-04 16:18:16
 status: done
-prompt: sdd/prompts/202605/preserve_agent_xprompt.md
+prompt: sdd/plans/202605/prompts/preserve_agent_xprompt.md
 tier: tale
 ---
 # Preserve AGENT XPROMPT After Agent Completion

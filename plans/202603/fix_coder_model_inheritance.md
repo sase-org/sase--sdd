@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-31 08:34:25
 status: done
-prompt: sdd/prompts/202603/fix_coder_model_inheritance.md
+prompt: sdd/plans/202603/prompts/fix_coder_model_inheritance.md
 tier: tale
 ---
 

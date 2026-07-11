@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-21 18:25:47
 status: done
-prompt: sdd/prompts/202605/agent_total_count_emphasis.md
+prompt: sdd/plans/202605/prompts/agent_total_count_emphasis.md
 tier: tale
 ---
 # Plan: Make the total agent count in the Agents tab stand out

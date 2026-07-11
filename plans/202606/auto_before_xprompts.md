@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-28 09:07:36
 status: done
-prompt: sdd/prompts/202606/auto_before_xprompts.md
+prompt: sdd/plans/202606/prompts/auto_before_xprompts.md
 tier: tale
 ---
 # Move Auto Metadata Before XPrompts

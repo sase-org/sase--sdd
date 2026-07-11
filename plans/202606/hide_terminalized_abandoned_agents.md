@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-16 08:28:07
 status: done
-prompt: sdd/prompts/202606/hide_terminalized_abandoned_agents.md
+prompt: sdd/plans/202606/prompts/hide_terminalized_abandoned_agents.md
 tier: tale
 ---
 # Plan: Stop terminalized "abandoned" agents from reappearing on the Agents tab

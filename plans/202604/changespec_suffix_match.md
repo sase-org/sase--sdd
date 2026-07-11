@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-10 17:01:11
 status: done
-prompt: sdd/prompts/202604/changespec_suffix_match.md
+prompt: sdd/plans/202604/prompts/changespec_suffix_match.md
 tier: tale
 ---
 

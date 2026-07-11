@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-17 08:11:28
 status: done
-prompt: sdd/prompts/202606/agent_question_answered_status.md
+prompt: sdd/plans/202606/prompts/agent_question_answered_status.md
 tier: tale
 ---
 # Plan: Fix Answered Question Agent Status

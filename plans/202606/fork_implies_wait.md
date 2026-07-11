@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 09:49:19
 status: done
-prompt: sdd/prompts/202606/fork_implies_wait.md
+prompt: sdd/plans/202606/prompts/fork_implies_wait.md
 tier: tale
 ---
 # Plan: Make `#fork:<name>` Imply `%w:<name>`

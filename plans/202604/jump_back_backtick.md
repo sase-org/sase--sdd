@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-05 11:28:34
 status: done
-prompt: sdd/prompts/202604/jump_back_backtick.md
+prompt: sdd/plans/202604/prompts/jump_back_backtick.md
 tier: tale
 ---
 

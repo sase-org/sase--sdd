@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-01 17:04:53
 status: done
-prompt: sdd/prompts/202605/land_bead_description.md
+prompt: sdd/plans/202605/prompts/land_bead_description.md
 tier: tale
 ---
 # Plan: Land Agent Bead Description

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 11:20:26
 status: done
-prompt: sdd/prompts/202605/homepage_hero_buttons.md
+prompt: sdd/plans/202605/prompts/homepage_hero_buttons.md
 tier: tale
 ---
 # Plan: Reduce Homepage Hero Buttons

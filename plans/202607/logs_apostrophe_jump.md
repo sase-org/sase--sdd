@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 22:38:26
 status: done
-prompt: sdd/prompts/202607/logs_apostrophe_jump.md
+prompt: sdd/plans/202607/prompts/logs_apostrophe_jump.md
 tier: tale
 ---
 # Add apostrophe entry-jump support to Admin Center Logs

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-23 14:44:16
 status: done
-prompt: sdd/prompts/202604/ctrld_delete_file_history.md
+prompt: sdd/plans/202604/prompts/ctrld_delete_file_history.md
 tier: tale
 ---
 

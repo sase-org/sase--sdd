@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 20:15:50
 status: done
-prompt: sdd/prompts/202605/agent_revival_keymaps.md
+prompt: sdd/plans/202605/prompts/agent_revival_keymaps.md
 tier: tale
 ---
 # Agent Revival Panel Keymaps Plan

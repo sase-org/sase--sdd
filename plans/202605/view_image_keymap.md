@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 17:57:11
 status: done
-prompt: sdd/prompts/202605/view_image_keymap.md
+prompt: sdd/plans/202605/prompts/view_image_keymap.md
 tier: tale
 ---
 # Add `V` View Image Keymap

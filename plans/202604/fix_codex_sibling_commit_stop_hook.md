@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-29 13:27:23
 status: done
-prompt: sdd/prompts/202604/fix_codex_sibling_commit_stop_hook.md
+prompt: sdd/plans/202604/prompts/fix_codex_sibling_commit_stop_hook.md
 tier: tale
 ---
 # Plan: Fix Codex Sibling Commit Stop Hook

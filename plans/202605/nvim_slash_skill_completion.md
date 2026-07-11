@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 01:23:39
 status: done
-prompt: sdd/prompts/202605/nvim_slash_skill_completion.md
+prompt: sdd/plans/202605/prompts/nvim_slash_skill_completion.md
 tier: tale
 ---
 # Add Slash Skill Completion to sase-nvim

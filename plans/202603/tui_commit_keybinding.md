@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-25 16:24:18
 status: done
-prompt: sdd/prompts/202603/tui_commit_keybinding.md
+prompt: sdd/plans/202603/prompts/tui_commit_keybinding.md
 tier: tale
 ---
 

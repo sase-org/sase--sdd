@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-17 16:28:59
 status: done
-prompt: sdd/prompts/202606/complete_sase_4t.md
+prompt: sdd/plans/202606/prompts/complete_sase_4t.md
 tier: tale
 ---
 # Plan: Complete verification fixes for sase-4t

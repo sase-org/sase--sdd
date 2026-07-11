@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-29 07:24:25
 status: done
-prompt: sdd/prompts/202606/project_name_field.md
+prompt: sdd/plans/202606/prompts/project_name_field.md
 tier: tale
 ---
 # Configurable `PROJECT_NAME` Field for Project Specs

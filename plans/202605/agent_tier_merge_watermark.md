@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-13 10:56:44
 status: done
-prompt: sdd/prompts/202605/agent_tier_merge_watermark.md
+prompt: sdd/plans/202605/prompts/agent_tier_merge_watermark.md
 tier: tale
 ---
 # Plan: Fix transient agent row disappearance across repeated Tier 1 refreshes

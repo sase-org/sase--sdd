@@ -1,7 +1,7 @@
 ---
 status: proposed
 create_time: 2026-05-11 15:46:25
-prompt: sdd/prompts/202605/unread_label_highlight.md
+prompt: sdd/plans/202605/prompts/unread_label_highlight.md
 tier: tale
 ---
 

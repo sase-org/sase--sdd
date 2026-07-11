@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-06 17:53:51
 status: done
-prompt: sdd/prompts/202605/sase_26_5_completion.md
+prompt: sdd/plans/202605/prompts/sase_26_5_completion.md
 tier: tale
 ---
 # Plan: Finish sase-26.5 Android Pairing-To-Inbox Integration

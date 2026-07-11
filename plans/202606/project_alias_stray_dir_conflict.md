@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 22:13:40
 status: done
-prompt: sdd/prompts/202606/project_alias_stray_dir_conflict.md
+prompt: sdd/plans/202606/prompts/project_alias_stray_dir_conflict.md
 tier: tale
 ---
 # Plan: Stop stray project directories from breaking project-alias launches

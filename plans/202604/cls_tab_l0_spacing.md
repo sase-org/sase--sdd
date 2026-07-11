@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-28 10:39:13
 status: done
-prompt: sdd/prompts/202604/cls_tab_l0_spacing.md
+prompt: sdd/plans/202604/prompts/cls_tab_l0_spacing.md
 tier: tale
 ---
 # Add vertical space between top-level groups on the CLs tab

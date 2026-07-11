@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-03 12:19:23
 status: wip
-prompt: sdd/prompts/202607/slow_tool_calls_metadata_panel.md
+prompt: sdd/plans/202607/prompts/slow_tool_calls_metadata_panel.md
 tier: tale
 ---
 # Plan: Surface Slow Tool Calls in the Agent Metadata Panel

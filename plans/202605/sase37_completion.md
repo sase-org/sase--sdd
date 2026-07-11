@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 18:55:53
 status: done
-prompt: sdd/prompts/202605/sase37_completion.md
+prompt: sdd/plans/202605/prompts/sase37_completion.md
 tier: tale
 ---
 # Complete sase-37 Archive Verification

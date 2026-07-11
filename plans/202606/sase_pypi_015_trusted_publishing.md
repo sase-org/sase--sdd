@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-11 07:53:50
 status: done
-prompt: sdd/prompts/202606/sase_pypi_015_trusted_publishing.md
+prompt: sdd/plans/202606/prompts/sase_pypi_015_trusted_publishing.md
 tier: tale
 ---
 # Plan: Fix PyPI Trusted Publishing for sase and Release 0.1.5

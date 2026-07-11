@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-29 08:55:55
 status: done
-prompt: sdd/prompts/202606/auto_approve_plan_mode_commits_tale.md
+prompt: sdd/plans/202606/prompts/auto_approve_plan_mode_commits_tale.md
 tier: tale
 ---
 # Fix: `%a` (auto plan mode) wrongly approves a tale instead of a plain plan

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-18 00:26:03
 status: done
-prompt: sdd/prompts/202604/g_auto_expand_file.md
+prompt: sdd/plans/202604/prompts/g_auto_expand_file.md
 tier: tale
 ---
 

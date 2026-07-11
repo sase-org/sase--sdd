@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 10:51:02
 status: done
-prompt: sdd/prompts/202605/phase7_agent_scan_perf_failure.md
+prompt: sdd/plans/202605/prompts/phase7_agent_scan_perf_failure.md
 tier: tale
 ---
 # Phase 7 Agent Scan Perf Failure Plan

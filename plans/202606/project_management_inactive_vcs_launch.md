@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 18:25:22
 status: done
-prompt: sdd/prompts/202606/project_management_inactive_vcs_launch.md
+prompt: sdd/plans/202606/prompts/project_management_inactive_vcs_launch.md
 tier: tale
 ---
 # Plan: Project Management Inactive Visibility and VCS Launch Reactivation

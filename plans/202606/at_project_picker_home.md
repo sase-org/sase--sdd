@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 06:25:00
 status: done
-prompt: sdd/prompts/202606/at_project_picker_home.md
+prompt: sdd/plans/202606/prompts/at_project_picker_home.md
 tier: tale
 ---
 # Plan: Show Real Projects In The @ Picker

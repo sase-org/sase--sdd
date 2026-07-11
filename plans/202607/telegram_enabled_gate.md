@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-03 14:02:57
 status: wip
-prompt: sdd/prompts/202607/telegram_enabled_gate.md
+prompt: sdd/plans/202607/prompts/telegram_enabled_gate.md
 tier: tale
 ---
 # Gate Telegram Chops on `~/.sase/telegram_is_enabled` + Move Chop Config to `sase.yml`

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-17 11:26:28
 status: done
-prompt: sdd/prompts/202606/prompt_submit_choice_popup.md
+prompt: sdd/plans/202606/prompts/prompt_submit_choice_popup.md
 tier: tale
 ---
 # Plan: `<enter>` Submit-Choice Popup for Multi-Pane Prompt Stacks

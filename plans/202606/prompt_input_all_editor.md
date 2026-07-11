@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-17 07:10:57
 status: done
-prompt: sdd/prompts/202606/prompt_input_all_editor.md
+prompt: sdd/plans/202606/prompts/prompt_input_all_editor.md
 tier: tale
 ---
 # Plan: Prompt Input All-Panes Editor Keymap

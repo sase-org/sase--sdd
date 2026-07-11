@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-06 20:05:26
 status: done
-prompt: sdd/prompts/202605/agent_tag_hash_prefix.md
+prompt: sdd/plans/202605/prompts/agent_tag_hash_prefix.md
 tier: tale
 ---
 # Plan: Use `#` For Agents-Tab Dynamic Agent Tag Prefixes

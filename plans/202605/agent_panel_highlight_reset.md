@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-13 16:03:05
 status: done
-prompt: sdd/prompts/202605/agent_panel_highlight_reset.md
+prompt: sdd/plans/202605/prompts/agent_panel_highlight_reset.md
 tier: tale
 ---
 # Stop stale row highlight after dynamic agent panel switches

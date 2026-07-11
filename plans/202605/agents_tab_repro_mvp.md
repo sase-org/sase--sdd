@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-13 11:40:55
 status: done
-prompt: sdd/prompts/202605/agents_tab_repro_mvp.md
+prompt: sdd/plans/202605/prompts/agents_tab_repro_mvp.md
 bead_id: sase-3d
 tier: epic
 ---

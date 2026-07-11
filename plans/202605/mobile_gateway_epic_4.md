@@ -4,7 +4,7 @@ bead_id: sase-26.4
 tier: epic
 create_time: 2026-05-06 15:08:41
 status: done
-prompt: sdd/prompts/202605/mobile_gateway_epic_4.md
+prompt: sdd/plans/202605/prompts/mobile_gateway_epic_4.md
 ---
 
 # Plan: Mobile MVP Epic 4 - Workflow Helper APIs

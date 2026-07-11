@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 12:47:39
 status: done
-prompt: sdd/prompts/202605/agent_artifacts_metadata_field.md
+prompt: sdd/plans/202605/prompts/agent_artifacts_metadata_field.md
 tier: tale
 ---
 # Plan: Fix Agents-Tab ARTIFACTS Metadata Field

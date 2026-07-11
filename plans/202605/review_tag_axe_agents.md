@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-06 21:25:30
 status: done
-prompt: sdd/prompts/202605/review_tag_axe_agents.md
+prompt: sdd/plans/202605/prompts/review_tag_axe_agents.md
 tier: tale
 ---
 # Review-Tagged Axe Agents Plan

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-01 12:04:35
 status: done
-prompt: sdd/prompts/202605/agents_date_4_hour_windows.md
+prompt: sdd/plans/202605/prompts/agents_date_4_hour_windows.md
 tier: tale
 ---
 # Plan: Agents by-date 4-hour windows

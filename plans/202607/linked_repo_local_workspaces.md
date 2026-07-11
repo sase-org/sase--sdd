@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 17:08:51
 status: done
-prompt: .sase/sdd/prompts/202607/linked_repo_local_workspaces.md
+prompt: .sase/sdd/plans/202607/prompts/linked_repo_local_workspaces.md
 tier: tale
 ---
 # Plan: Retire `linked_repos[].workspace.strategy` — Local Per-Workspace Linked Repo Clones

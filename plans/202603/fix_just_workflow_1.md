@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-29 14:53:28
 status: done
-prompt: sdd/prompts/202603/fix_just_workflow_1.md
+prompt: sdd/plans/202603/prompts/fix_just_workflow_1.md
 tier: tale
 ---
 

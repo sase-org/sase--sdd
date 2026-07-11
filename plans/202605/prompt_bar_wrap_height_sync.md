@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 11:42:28
 status: done
-prompt: sdd/prompts/202605/prompt_bar_wrap_height_sync.md
+prompt: sdd/plans/202605/prompts/prompt_bar_wrap_height_sync.md
 tier: tale
 ---
 # Plan: Prompt Bar Wrapped Height Synchronization

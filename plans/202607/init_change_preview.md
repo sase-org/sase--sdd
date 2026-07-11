@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 09:02:30
 status: done
-prompt: .sase/sdd/prompts/202607/init_change_preview.md
+prompt: .sase/sdd/plans/202607/prompts/init_change_preview.md
 tier: tale
 ---
 # `sase init` Change Preview: See Exactly What Will Change Before Saying Yes

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-17 09:57:37
 status: done
-prompt: sdd/prompts/202606/prompt_stack_ctrl_shift_hl_reorder.md
+prompt: sdd/plans/202606/prompts/prompt_stack_ctrl_shift_hl_reorder.md
 tier: tale
 ---
 # Migrate Prompt Stack Reorder to Ctrl+Shift+H/L

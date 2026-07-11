@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-17 07:21:46
 status: done
-prompt: sdd/prompts/202606/remove_leader_x_bulk_kill_edit.md
+prompt: sdd/plans/202606/prompts/remove_leader_x_bulk_kill_edit.md
 tier: tale
 ---
 # Plan: Move Marked Kill-And-Edit Back To `,x`

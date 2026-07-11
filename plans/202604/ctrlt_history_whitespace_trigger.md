@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-23 15:00:55
 status: done
-prompt: sdd/prompts/202604/ctrlt_history_whitespace_trigger.md
+prompt: sdd/plans/202604/prompts/ctrlt_history_whitespace_trigger.md
 tier: tale
 ---
 

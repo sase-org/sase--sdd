@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-08 11:11:35
 status: done
-prompt: sdd/prompts/202606/pyvendor_strip_executable_prefix.md
+prompt: sdd/plans/202606/prompts/pyvendor_strip_executable_prefix.md
 tier: tale
 ---
 # Plan: Strip Chezmoi `executable_` Prefix During Pyvendor

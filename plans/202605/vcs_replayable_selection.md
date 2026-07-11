@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 19:39:58
 status: done
-prompt: sdd/prompts/202605/vcs_replayable_selection.md
+prompt: sdd/plans/202605/prompts/vcs_replayable_selection.md
 tier: tale
 ---
 # Plan: Prevent Non-Launchable VCS Refs From Becoming Replay State

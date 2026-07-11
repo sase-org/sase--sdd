@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-25 18:00:25
 status: done
-prompt: sdd/prompts/202603/changespec_mercurial_fix.md
+prompt: sdd/plans/202603/prompts/changespec_mercurial_fix.md
 tier: tale
 ---
 

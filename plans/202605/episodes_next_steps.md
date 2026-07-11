@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-29 09:20:37
 status: done
-prompt: sdd/prompts/202605/episodes_next_steps.md
+prompt: sdd/plans/202605/prompts/episodes_next_steps.md
 tier: tale
 ---
 # Episode Visualization Next Steps Plan

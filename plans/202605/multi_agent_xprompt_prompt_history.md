@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-21 09:58:14
 status: done
-prompt: sdd/prompts/202605/multi_agent_xprompt_prompt_history.md
+prompt: sdd/plans/202605/prompts/multi_agent_xprompt_prompt_history.md
 tier: tale
 ---
 # Multi-Agent XPrompt Prompt History Plan

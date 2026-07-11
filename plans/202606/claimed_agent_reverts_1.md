@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-25 16:57:11
 status: done
-prompt: sdd/prompts/202606/claimed_agent_reverts_1.md
+prompt: sdd/plans/202606/prompts/claimed_agent_reverts_1.md
 tier: tale
 ---
 # Claimed Workspaces for Agent Reverts

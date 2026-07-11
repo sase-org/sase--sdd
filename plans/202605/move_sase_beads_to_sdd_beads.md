@@ -2,7 +2,7 @@
 title: Move version-controlled bead storage to sdd/beads
 create_time: 2026-05-01 22:10:51
 status: done
-prompt: sdd/prompts/202605/move_sase_beads_to_sdd_beads.md
+prompt: sdd/plans/202605/prompts/move_sase_beads_to_sdd_beads.md
 tier: tale
 ---
 

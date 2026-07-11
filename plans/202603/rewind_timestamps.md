@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-30 14:51:01
 status: done
-prompt: sdd/prompts/202603/rewind_timestamps.md
+prompt: sdd/plans/202603/prompts/rewind_timestamps.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-27 16:23:26
 status: done
-prompt: sdd/prompts/202606/memory_init_header_basename.md
+prompt: sdd/plans/202606/prompts/memory_init_header_basename.md
 tier: tale
 ---
 # Plan: Include memory file basename in generated H3 headers

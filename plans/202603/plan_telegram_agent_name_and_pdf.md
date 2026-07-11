@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-24 17:45:55
 status: done
-prompt: sdd/prompts/202603/plan_telegram_agent_name_and_pdf.md
+prompt: sdd/plans/202603/prompts/plan_telegram_agent_name_and_pdf.md
 tier: tale
 ---
 

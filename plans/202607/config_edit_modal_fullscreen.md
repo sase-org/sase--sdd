@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-05 19:24:19
 status: wip
-prompt: sdd/prompts/202607/config_edit_modal_fullscreen.md
+prompt: sdd/plans/202607/prompts/config_edit_modal_fullscreen.md
 tier: tale
 ---
 # Plan: Near-Fullscreen Config Edit Modal (SASE Admin Center → Config tab)

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-10 01:19:36
 status: wip
-prompt: sdd/prompts/202605/hide_pdf_artifacts_panel.md
+prompt: sdd/plans/202605/prompts/hide_pdf_artifacts_panel.md
 tier: tale
 ---
 # Hide PDF Artifacts From ACE Artifacts Panel

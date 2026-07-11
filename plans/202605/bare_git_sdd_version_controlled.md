@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-27 12:18:10
 status: done
-prompt: sdd/prompts/202605/bare_git_sdd_version_controlled.md
+prompt: sdd/plans/202605/prompts/bare_git_sdd_version_controlled.md
 tier: tale
 ---
 # Plan: Bare Git Implies Version-Controlled SDD

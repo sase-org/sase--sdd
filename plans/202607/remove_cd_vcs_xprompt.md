@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-09 15:11:47
 status: done
-prompt: .sase/sdd/prompts/202607/remove_cd_vcs_xprompt.md
+prompt: .sase/sdd/plans/202607/prompts/remove_cd_vcs_xprompt.md
 tier: tale
 ---
 # Remove the `#cd` VCS XPrompt Workflow

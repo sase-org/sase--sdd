@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-23 12:03:29
 status: done
-prompt: sdd/prompts/202605/validate_command.md
+prompt: sdd/plans/202605/prompts/validate_command.md
 tier: tale
 ---
 # Plan: Add `sase validate`

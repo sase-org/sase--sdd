@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-13 19:44:49
 status: done
-prompt: sdd/prompts/202605/wait_timestamp_display.md
+prompt: sdd/plans/202605/prompts/wait_timestamp_display.md
 tier: tale
 ---
 # WAIT Timestamp Display Plan

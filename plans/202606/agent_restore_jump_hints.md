@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-21 09:14:10
 status: done
-prompt: sdd/prompts/202606/agent_restore_jump_hints.md
+prompt: sdd/plans/202606/prompts/agent_restore_jump_hints.md
 tier: tale
 ---
 # Agent Restore Jump Hints Plan

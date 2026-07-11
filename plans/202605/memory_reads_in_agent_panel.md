@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-24 13:13:02
 status: done
-prompt: sdd/prompts/202605/memory_reads_in_agent_panel.md
+prompt: sdd/plans/202605/prompts/memory_reads_in_agent_panel.md
 tier: tale
 ---
 # Surface Audited Memory Reads in the Agents Tab Metadata Panel

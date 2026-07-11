@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 11:55:08
 status: done
-prompt: sdd/prompts/202607/pr_terminology_rename.md
+prompt: sdd/plans/202607/prompts/pr_terminology_rename.md
 tier: tale
 ---
 # Replace CL Terminology With PR

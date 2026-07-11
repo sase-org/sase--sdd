@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 17:27:30
 status: wip
-prompt: .sase/sdd/prompts/202607/migrate_sdd_prompts_into_plans.md
+prompt: .sase/sdd/plans/202607/prompts/migrate_sdd_prompts_into_plans.md
 tier: tale
 ---
 # Plan: Migrate SDD `prompts/` into `plans/<YYYYMM>/prompts/`

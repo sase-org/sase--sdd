@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-11 10:48:14
 status: done
-prompt: sdd/prompts/202606/publish_sase_github_011_to_pypi.md
+prompt: sdd/plans/202606/prompts/publish_sase_github_011_to_pypi.md
 tier: tale
 ---
 # Plan: Fix sase-github Trusted Publisher Mismatch and Publish 0.1.1 to PyPI

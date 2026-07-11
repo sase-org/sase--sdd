@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 20:59:18
 status: done
-prompt: sdd/prompts/202605/readme_reduction.md
+prompt: sdd/plans/202605/prompts/readme_reduction.md
 tier: tale
 ---
 # Plan: Reduce README to a concise project front door

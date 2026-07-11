@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-27 13:24:59
 status: done
-prompt: sdd/prompts/202606/ctrl_g_ctrl_c_cancel_all.md
+prompt: sdd/plans/202606/prompts/ctrl_g_ctrl_c_cancel_all.md
 tier: tale
 ---
 # Plan: Ctrl+G Ctrl+C Cancel All Prompt Panes

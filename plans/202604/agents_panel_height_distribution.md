@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-27 11:27:39
 status: done
-prompt: sdd/prompts/202604/agents_panel_height_distribution.md
+prompt: sdd/plans/202604/prompts/agents_panel_height_distribution.md
 tier: tale
 ---
 # Fix Agents-tab panel height distribution

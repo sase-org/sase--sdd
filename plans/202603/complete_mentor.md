@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-30 17:26:23
 status: done
-prompt: sdd/prompts/202603/complete_mentor.md
+prompt: sdd/plans/202603/prompts/complete_mentor.md
 tier: tale
 ---
 

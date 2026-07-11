@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 17:56:29
 status: done
-prompt: sdd/prompts/202605/xprompt_snippet_composition.md
+prompt: sdd/plans/202605/prompts/xprompt_snippet_composition.md
 tier: tale
 ---
 # Plan: XPrompt Snippet Composition

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-12 17:54:52
 status: done
-prompt: sdd/prompts/202604/migrate_e2e_tests.md
+prompt: sdd/plans/202604/prompts/migrate_e2e_tests.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-03 13:23:59
 status: wip
-prompt: sdd/prompts/202604/split_workspace_fix.md
+prompt: sdd/plans/202604/prompts/split_workspace_fix.md
 tier: tale
 ---
 

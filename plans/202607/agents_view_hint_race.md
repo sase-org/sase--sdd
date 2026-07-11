@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 12:42:11
 status: done
-prompt: .sase/sdd/prompts/202607/agents_view_hint_race.md
+prompt: .sase/sdd/plans/202607/prompts/agents_view_hint_race.md
 tier: tale
 ---
 # Stabilize Agents-tab view hints against deferred detail repaints

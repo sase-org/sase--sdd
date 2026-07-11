@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-22 15:39:20
 status: done
-prompt: sdd/prompts/202605/workspace_open_clean.md
+prompt: sdd/plans/202605/prompts/workspace_open_clean.md
 tier: tale
 ---
 # Plan: `sase workspace open --clean`

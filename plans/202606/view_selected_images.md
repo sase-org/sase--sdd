@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-15 19:03:13
 status: done
-prompt: sdd/prompts/202606/view_selected_images.md
+prompt: sdd/plans/202606/prompts/view_selected_images.md
 tier: tale
 ---
 # Display `v`-Selected Images With The Artifact Viewer

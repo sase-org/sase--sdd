@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-15 16:11:45
 status: done
-prompt: sdd/prompts/202606/answered_agent_status.md
+prompt: sdd/plans/202606/prompts/answered_agent_status.md
 tier: tale
 ---
 # Plan: ANSWERED agent status for answered questions

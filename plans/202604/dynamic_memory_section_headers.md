@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-12 22:21:15
 status: done
-prompt: sdd/prompts/202604/dynamic_memory_section_headers.md
+prompt: sdd/plans/202604/prompts/dynamic_memory_section_headers.md
 tier: tale
 ---
 

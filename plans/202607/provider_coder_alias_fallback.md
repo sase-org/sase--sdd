@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-06 12:52:30
 status: done
-prompt: sdd/prompts/202607/provider_coder_alias_fallback.md
+prompt: sdd/plans/202607/prompts/provider_coder_alias_fallback.md
 tier: tale
 ---
 # Plan: Fix provider coder aliases so they inherit @coder

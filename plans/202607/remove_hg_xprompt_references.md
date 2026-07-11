@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 10:24:46
 status: done
-prompt: .sase/sdd/prompts/202607/remove_hg_xprompt_references.md
+prompt: .sase/sdd/plans/202607/prompts/remove_hg_xprompt_references.md
 tier: tale
 ---
 # Remove obsolete `#hg` xprompt references

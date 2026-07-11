@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-05 22:51:00
 status: done
-prompt: sdd/prompts/202605/parent_prefix_group_membership.md
+prompt: sdd/plans/202605/prompts/parent_prefix_group_membership.md
 tier: tale
 ---
 # Plan: Include Parent Marker Agents In Their Prefix Group

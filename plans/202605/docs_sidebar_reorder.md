@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 09:34:13
 status: done
-prompt: sdd/prompts/202605/docs_sidebar_reorder.md
+prompt: sdd/plans/202605/prompts/docs_sidebar_reorder.md
 tier: tale
 ---
 # Plan: Reorder and Rename SASE Docs Sidebar Sections

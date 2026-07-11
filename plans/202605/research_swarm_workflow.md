@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-28 16:03:15
 status: done
-prompt: sdd/prompts/202605/research_swarm_workflow.md
+prompt: sdd/plans/202605/prompts/research_swarm_workflow.md
 tier: tale
 ---
 # Plan: Improve the `research_swarm` xprompt workflow

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-21 16:30:38
 status: done
-prompt: sdd/prompts/202604/question_status_override.md
+prompt: sdd/plans/202604/prompts/question_status_override.md
 tier: tale
 ---
 

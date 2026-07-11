@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-01 16:05:30
 status: done
-prompt: sdd/prompts/202606/project_delete_keymap.md
+prompt: sdd/plans/202606/prompts/project_delete_keymap.md
 tier: tale
 ---
 # Add Ctrl+D Project Deletion to Project Management Panel

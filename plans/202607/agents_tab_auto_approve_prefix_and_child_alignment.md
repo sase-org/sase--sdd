@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-05 21:37:01
 status: wip
-prompt: sdd/prompts/202607/agents_tab_auto_approve_prefix_and_child_alignment.md
+prompt: sdd/plans/202607/prompts/agents_tab_auto_approve_prefix_and_child_alignment.md
 tier: tale
 ---
 # Plan: Fix over-applied ⚡ (auto-approve) prefix on Agents-tab child rows + child row alignment

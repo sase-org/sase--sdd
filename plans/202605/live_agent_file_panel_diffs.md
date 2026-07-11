@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-31 11:35:35
 status: done
-prompt: sdd/prompts/202605/live_agent_file_panel_diffs.md
+prompt: sdd/plans/202605/prompts/live_agent_file_panel_diffs.md
 tier: tale
 ---
 # Live Agent File Panel Diffs

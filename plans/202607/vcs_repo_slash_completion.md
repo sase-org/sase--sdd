@@ -3,7 +3,7 @@ create_time: 2026-07-07 13:10:16
 bead_id: sase-5h
 tier: epic
 status: done
-prompt: sdd/prompts/202607/vcs_repo_slash_completion.md
+prompt: sdd/plans/202607/prompts/vcs_repo_slash_completion.md
 ---
 # Plan: VCS-Agnostic Repo Completion for `#gh` Refs (the `/` trigger)
 

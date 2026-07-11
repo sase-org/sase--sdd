@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-08 18:41:40
 status: done
-prompt: sdd/prompts/202604/lumberjack_chop_reliability.md
+prompt: sdd/plans/202604/prompts/lumberjack_chop_reliability.md
 tier: tale
 ---
 

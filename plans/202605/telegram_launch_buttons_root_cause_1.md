@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-22 11:22:33
 status: done
-prompt: sdd/prompts/202605/telegram_launch_buttons_root_cause_1.md
+prompt: sdd/plans/202605/prompts/telegram_launch_buttons_root_cause_1.md
 tier: tale
 ---
 # Plan: Eliminate the Telegram Launch Button Race by Returning the Agent Name From the Launcher

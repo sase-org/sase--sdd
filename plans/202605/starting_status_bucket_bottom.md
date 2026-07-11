@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 20:20:36
 status: done
-prompt: sdd/prompts/202605/starting_status_bucket_bottom.md
+prompt: sdd/plans/202605/prompts/starting_status_bucket_bottom.md
 tier: tale
 ---
 # Plan: Move Agents BY_STATUS Starting Bucket To Bottom

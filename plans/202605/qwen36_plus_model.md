@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 15:06:53
 status: done
-prompt: sdd/prompts/202605/qwen36_plus_model.md
+prompt: sdd/plans/202605/prompts/qwen36_plus_model.md
 tier: tale
 ---
 # Plan: Add `qwen3.6-plus` Qwen Model Routing

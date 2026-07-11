@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 11:44:00
 status: done
-prompt: sdd/prompts/202605/agent_header_number_colors.md
+prompt: sdd/plans/202605/prompts/agent_header_number_colors.md
 tier: tale
 ---
 # Plan: Agents Header Number Colors

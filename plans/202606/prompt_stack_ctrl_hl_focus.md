@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-17 10:46:38
 status: done
-prompt: sdd/prompts/202606/prompt_stack_ctrl_hl_focus.md
+prompt: sdd/plans/202606/prompts/prompt_stack_ctrl_hl_focus.md
 tier: tale
 ---
 # Prompt Stack Ctrl+H/L Focus Keymap Plan

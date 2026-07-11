@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-31 11:21:55
 status: wip
-prompt: sdd/prompts/202605/revert_agents_md_titles.md
+prompt: sdd/plans/202605/prompts/revert_agents_md_titles.md
 tier: tale
 ---
 # Revert AMD-Generated AGENTS.md Memory Titles

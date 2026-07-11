@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 13:10:41
 status: done
-prompt: sdd/prompts/202606/agent_family_context_1.md
+prompt: sdd/plans/202606/prompts/agent_family_context_1.md
 tier: tale
 ---
 # Plan: Agent-family context in the ACE metadata panel

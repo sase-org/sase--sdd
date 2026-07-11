@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-05 21:36:24
 status: done
-prompt: sdd/prompts/202605/epic_legend_agent_tags.md
+prompt: sdd/plans/202605/prompts/epic_legend_agent_tags.md
 tier: tale
 ---
 # Plan: Tag Epic and Legend Work Agents by Bead ID

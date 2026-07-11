@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 13:40:19
 status: done
-prompt: sdd/prompts/202606/hide_empty_skills_context_1.md
+prompt: sdd/plans/202606/prompts/hide_empty_skills_context_1.md
 tier: tale
 ---
 # Plan: Hide Empty SKILLS Lane in AGENT CONTEXT

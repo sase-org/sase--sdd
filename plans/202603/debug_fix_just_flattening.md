@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-27 02:26:36
 status: done
-prompt: sdd/prompts/202603/debug_fix_just_flattening.md
+prompt: sdd/plans/202603/prompts/debug_fix_just_flattening.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 18:04:04
 status: done
-prompt: sdd/prompts/202606/repeat_stop_status_1.md
+prompt: sdd/plans/202606/prompts/repeat_stop_status_1.md
 tier: tale
 ---
 # Plan: Display Repeat STOP Slots As STOPPED

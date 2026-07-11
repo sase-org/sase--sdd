@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-22 14:03:16
 status: wip
-prompt: sdd/prompts/202605/xprompt_descriptions_finish.md
+prompt: sdd/plans/202605/prompts/xprompt_descriptions_finish.md
 tier: tale
 ---
 # Finish xprompt description support for sase-3w

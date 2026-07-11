@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-21 09:45:13
 status: done
-prompt: sdd/prompts/202606/prompt_search_char_targets.md
+prompt: sdd/plans/202606/prompts/prompt_search_char_targets.md
 tier: tale
 ---
 # Fix prompt Vim char-target search key regression

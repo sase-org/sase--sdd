@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-21 17:04:48
 status: done
-prompt: sdd/prompts/202605/artifact_tmux_zoom.md
+prompt: sdd/plans/202605/prompts/artifact_tmux_zoom.md
 tier: tale
 ---
 # Plan: Artifact tmux pane zoom key

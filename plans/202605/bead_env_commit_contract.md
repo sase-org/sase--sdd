@@ -3,7 +3,7 @@ create_time: 2026-05-07 22:53:22
 bead_id: sase-2d
 tier: epic
 status: done
-prompt: sdd/prompts/202605/bead_env_commit_contract.md
+prompt: sdd/plans/202605/prompts/bead_env_commit_contract.md
 ---
 # Plan: Require Bead Association Through Environment for `sase commit`
 

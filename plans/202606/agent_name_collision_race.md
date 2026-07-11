@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 23:37:11
 status: done
-prompt: sdd/prompts/202606/agent_name_collision_race.md
+prompt: sdd/plans/202606/prompts/agent_name_collision_race.md
 tier: tale
 ---
 # Fix Explicit Agent Name Collision Race

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-07 22:56:27
 status: done
-prompt: sdd/prompts/202604/wait_checks_latency.md
+prompt: sdd/plans/202604/prompts/wait_checks_latency.md
 tier: tale
 ---
 

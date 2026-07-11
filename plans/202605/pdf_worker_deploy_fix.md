@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 14:07:29
 status: done
-prompt: sdd/prompts/202605/pdf_worker_deploy_fix.md
+prompt: sdd/plans/202605/prompts/pdf_worker_deploy_fix.md
 tier: tale
 ---
 # Plan: Fix SASE Handbook Deployment To Cloudflare Worker

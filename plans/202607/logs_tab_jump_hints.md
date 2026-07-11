@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 03:01:21
 status: wip
-prompt: sdd/prompts/202607/logs_tab_jump_hints.md
+prompt: sdd/plans/202607/prompts/logs_tab_jump_hints.md
 tier: tale
 ---
 # Plan: Logs Tab Apostrophe Jump Hints

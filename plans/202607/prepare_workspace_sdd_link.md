@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 13:11:52
 status: wip
-prompt: .sase/sdd/prompts/202607/prepare_workspace_sdd_link.md
+prompt: .sase/sdd/plans/202607/prompts/prepare_workspace_sdd_link.md
 tier: tale
 ---
 # Plan: Fix plan-chain SDD reference crash by linking + refreshing the workspace SDD store during prep

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-14 18:51:37
 status: done
-prompt: sdd/prompts/202605/hide_starting_agent_rows.md
+prompt: sdd/plans/202605/prompts/hide_starting_agent_rows.md
 tier: tale
 ---
 # Hide STARTING Agent Rows In The TUI

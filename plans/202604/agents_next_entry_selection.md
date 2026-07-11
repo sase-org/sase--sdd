@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-27 14:00:34
 status: done
-prompt: sdd/prompts/202604/agents_next_entry_selection.md
+prompt: sdd/plans/202604/prompts/agents_next_entry_selection.md
 tier: tale
 ---
 # Fix Agents Tab Next-Entry Selection

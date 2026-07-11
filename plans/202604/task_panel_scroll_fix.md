@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-02 13:10:51
 status: done
-prompt: sdd/prompts/202604/task_panel_scroll_fix.md
+prompt: sdd/plans/202604/prompts/task_panel_scroll_fix.md
 tier: tale
 ---
 

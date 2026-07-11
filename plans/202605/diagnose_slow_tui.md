@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-14 23:07:46
 status: done
-prompt: sdd/prompts/202605/diagnose_slow_tui.md
+prompt: sdd/plans/202605/prompts/diagnose_slow_tui.md
 tier: tale
 ---
 # Diagnose and Fix Slow `sase ace` TUI

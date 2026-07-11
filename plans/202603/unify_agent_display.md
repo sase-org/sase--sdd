@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-27 15:00:32
 status: done
-prompt: sdd/prompts/202603/unify_agent_display.md
+prompt: sdd/plans/202603/prompts/unify_agent_display.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 20:02:32
 status: done
-prompt: sdd/prompts/202605/qwen_global_commit_stop_hook.md
+prompt: sdd/plans/202605/prompts/qwen_global_commit_stop_hook.md
 tier: tale
 ---
 # Plan: Wire `sase_commit_stop_hook` into the Qwen Code runtime (global-first)

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-02 13:19:41
 status: done
-prompt: sdd/prompts/202604/task_kill_keymap.md
+prompt: sdd/plans/202604/prompts/task_kill_keymap.md
 tier: tale
 ---
 

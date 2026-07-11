@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 13:53:30
 status: done
-prompt: sdd/prompts/202606/auto_name_zero_first.md
+prompt: sdd/plans/202606/prompts/auto_name_zero_first.md
 tier: tale
 ---
 # Auto Name Zero-First Plan

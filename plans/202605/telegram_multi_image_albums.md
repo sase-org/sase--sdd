@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-23 21:31:52
 status: wip
-prompt: sdd/prompts/202605/telegram_multi_image_albums.md
+prompt: sdd/plans/202605/prompts/telegram_multi_image_albums.md
 tier: tale
 ---
 # Implementation Plan - Telegram Multi-Image Launches

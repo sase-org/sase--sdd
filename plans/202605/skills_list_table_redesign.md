@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-23 14:10:03
 status: done
-prompt: sdd/prompts/202605/skills_list_table_redesign.md
+prompt: sdd/plans/202605/prompts/skills_list_table_redesign.md
 tier: tale
 ---
 # Plan: Render `sase skills list` as a beautiful table with rich provider chips

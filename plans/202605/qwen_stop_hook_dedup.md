@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 20:41:14
 status: done
-prompt: sdd/prompts/202605/qwen_stop_hook_dedup.md
+prompt: sdd/plans/202605/prompts/qwen_stop_hook_dedup.md
 tier: tale
 ---
 # Plan: Fix Qwen commit stop-hook deduplication

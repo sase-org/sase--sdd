@@ -2,7 +2,7 @@
 create_time: 2026-04-30 04:23:24
 bead_id: sase-1j
 status: done
-prompt: sdd/prompts/202604/markdown_pdf_attachments.md
+prompt: sdd/plans/202604/prompts/markdown_pdf_attachments.md
 tier: epic
 ---
 

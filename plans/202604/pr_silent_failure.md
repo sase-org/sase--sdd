@@ -1,7 +1,7 @@
 ---
 status: wip
 create_time: 2026-04-10 13:58:43
-prompt: sdd/prompts/202604/pr_silent_failure.md
+prompt: sdd/plans/202604/prompts/pr_silent_failure.md
 tier: tale
 ---
 

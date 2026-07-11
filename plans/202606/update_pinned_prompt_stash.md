@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-25 07:26:56
 status: done
-prompt: sdd/prompts/202606/update_pinned_prompt_stash.md
+prompt: sdd/plans/202606/prompts/update_pinned_prompt_stash.md
 tier: tale
 ---
 # Plan: `gS` / `<Ctrl+G>S` — update a pinned prompt stash with the current prompt

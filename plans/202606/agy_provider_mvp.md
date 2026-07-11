@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 18:55:35
 status: done
-prompt: sdd/prompts/202606/agy_provider_mvp.md
+prompt: sdd/plans/202606/prompts/agy_provider_mvp.md
 bead_id: sase-50
 tier: epic
 ---

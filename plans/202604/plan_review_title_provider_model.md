@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-22 16:38:10
 status: done
-prompt: sdd/prompts/202604/plan_review_title_provider_model.md
+prompt: sdd/plans/202604/prompts/plan_review_title_provider_model.md
 tier: tale
 ---
 

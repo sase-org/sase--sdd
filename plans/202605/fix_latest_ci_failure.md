@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-01 18:19:55
 status: done
-prompt: sdd/prompts/202605/fix_latest_ci_failure.md
+prompt: sdd/plans/202605/prompts/fix_latest_ci_failure.md
 tier: tale
 ---
 # Fix Latest CI Failure

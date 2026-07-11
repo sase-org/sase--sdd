@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-11 19:39:04
 status: wip
-prompt: sdd/prompts/202605/blog_series_review.md
+prompt: sdd/plans/202605/prompts/blog_series_review.md
 tier: tale
 ---
 # Plan: Review and Polish the Agentic Software Engineering Blog Series

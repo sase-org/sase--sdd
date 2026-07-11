@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-27 09:03:28
 status: done
-prompt: sdd/prompts/202604/pretty_agents_tab_headings.md
+prompt: sdd/plans/202604/prompts/pretty_agents_tab_headings.md
 tier: tale
 ---
 # Pretty Agents-Tab Headings — Design & Plan

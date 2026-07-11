@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-01 18:28:03
 status: wip
-prompt: sdd/prompts/202605/fast_startup_phases.md
+prompt: sdd/plans/202605/prompts/fast_startup_phases.md
 tier: tale
 ---
 # Plan: Make Sase Startup Much Faster

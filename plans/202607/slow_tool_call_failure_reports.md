@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 17:05:39
 status: done
-prompt: sdd/prompts/202607/slow_tool_call_failure_reports.md
+prompt: sdd/plans/202607/prompts/slow_tool_call_failure_reports.md
 tier: tale
 ---
 # Plan: `v` Hints for Failed SLOW TOOL CALLS (On-the-fly Failure Reports)

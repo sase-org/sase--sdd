@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-27 13:40:55
 status: done
-prompt: sdd/prompts/202606/prompt_history_three_word_minimum.md
+prompt: sdd/plans/202606/prompts/prompt_history_three_word_minimum.md
 tier: tale
 ---
 # Plan: Raise prompt-history minimum from 2 to 3 words

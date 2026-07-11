@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-17 23:18:40
 status: done
-prompt: sdd/prompts/202604/fix_commit_workflow_test_reservation_leak.md
+prompt: sdd/plans/202604/prompts/fix_commit_workflow_test_reservation_leak.md
 tier: tale
 ---
 

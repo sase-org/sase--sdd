@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 03:44:45
 status: done
-prompt: sdd/prompts/202605/artifact_pane_focus_keymap.md
+prompt: sdd/plans/202605/prompts/artifact_pane_focus_keymap.md
 tier: tale
 ---
 # Artifact Pane Focus Keymap Plan

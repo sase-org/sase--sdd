@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-28 15:02:01
 status: done
-prompt: sdd/prompts/202605/tui_diff_workspace_resolution.md
+prompt: sdd/plans/202605/prompts/tui_diff_workspace_resolution.md
 tier: tale
 ---
 # Plan: Remove workspace materialization from TUI diff rendering

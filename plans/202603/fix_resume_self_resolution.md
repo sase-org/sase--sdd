@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-27 01:43:46
 status: done
-prompt: sdd/prompts/202603/fix_resume_self_resolution.md
+prompt: sdd/plans/202603/prompts/fix_resume_self_resolution.md
 tier: tale
 ---
 

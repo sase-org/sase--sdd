@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-27 10:40:56
 status: done
-prompt: sdd/prompts/202604/jk_navigation_reliability.md
+prompt: sdd/plans/202604/prompts/jk_navigation_reliability.md
 tier: tale
 ---
 # Plan — Make `j`/`k` Navigation on the Agents Tab Reliable

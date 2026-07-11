@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 16:19:26
 status: wip
-prompt: .sase/sdd/prompts/202607/prompt_history_load_inline.md
+prompt: .sase/sdd/plans/202607/prompts/prompt_history_load_inline.md
 tier: tale
 ---
 # Fix Prompt-History `<ctrl+i>` Load to Preserve the Existing Prompt Stack

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-25 21:14:24
 status: done
-prompt: sdd/prompts/202604/agents_tab_vertical_panels.md
+prompt: sdd/plans/202604/prompts/agents_tab_vertical_panels.md
 tier: tale
 ---
 # Plan: Stack dynamic tag panels vertically on the Agents tab

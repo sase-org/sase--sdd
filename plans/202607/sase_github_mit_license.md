@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-06 06:48:21
 status: done
-prompt: sdd/prompts/202607/sase_github_mit_license.md
+prompt: sdd/plans/202607/prompts/sase_github_mit_license.md
 tier: tale
 ---
 # Plan: MIT License for the sase-github Repo

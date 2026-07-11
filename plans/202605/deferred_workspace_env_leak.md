@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-13 19:10:37
 status: done
-prompt: sdd/prompts/202605/deferred_workspace_env_leak.md
+prompt: sdd/plans/202605/prompts/deferred_workspace_env_leak.md
 tier: tale
 ---
 # Fix Deferred Workspace Env Leak

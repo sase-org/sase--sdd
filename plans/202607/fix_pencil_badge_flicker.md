@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-06 04:06:39
 status: wip
-prompt: sdd/prompts/202607/fix_pencil_badge_flicker.md
+prompt: sdd/plans/202607/prompts/fix_pencil_badge_flicker.md
 tier: tale
 ---
 # Fix flickering ✏️ file-change pencil badge for running agents in the ace TUI

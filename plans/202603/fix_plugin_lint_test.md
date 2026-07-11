@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-26 20:34:51
 status: done
-prompt: sdd/prompts/202603/fix_plugin_lint_test.md
+prompt: sdd/plans/202603/prompts/fix_plugin_lint_test.md
 tier: tale
 ---
 

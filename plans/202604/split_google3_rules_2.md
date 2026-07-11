@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-13 11:13:07
 status: wip
-prompt: sdd/prompts/202604/split_google3_rules_2.md
+prompt: sdd/plans/202604/prompts/split_google3_rules_2.md
 tier: tale
 ---
 

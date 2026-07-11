@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-12 15:28:42
 status: done
-prompt: sdd/prompts/202604/agents_md_refactor.md
+prompt: sdd/plans/202604/prompts/agents_md_refactor.md
 tier: tale
 ---
 

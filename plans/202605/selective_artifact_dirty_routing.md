@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-28 14:30:51
 status: done
-prompt: sdd/prompts/202605/selective_artifact_dirty_routing.md
+prompt: sdd/plans/202605/prompts/selective_artifact_dirty_routing.md
 tier: tale
 ---
 # Selective Artifact Dirty Routing Plan

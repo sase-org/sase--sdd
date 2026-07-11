@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-24 15:49:19
 status: done
-prompt: sdd/prompts/202606/wait_time_keyword.md
+prompt: sdd/plans/202606/prompts/wait_time_keyword.md
 tier: tale
 ---
 # Plan: Migrate `%time` to a `time=` keyword on `%wait` (+ new `#t` xprompt)

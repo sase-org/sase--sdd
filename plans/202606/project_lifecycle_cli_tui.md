@@ -3,7 +3,7 @@ create_time: 2026-06-01 12:38:22
 bead_id: sase-49
 tier: epic
 status: done
-prompt: sdd/prompts/202606/project_lifecycle_cli_tui.md
+prompt: sdd/plans/202606/prompts/project_lifecycle_cli_tui.md
 ---
 # Project Lifecycle CLI and TUI Implementation Plan
 

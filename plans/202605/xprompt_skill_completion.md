@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 01:13:36
 status: done
-prompt: sdd/prompts/202605/xprompt_skill_completion.md
+prompt: sdd/plans/202605/prompts/xprompt_skill_completion.md
 tier: tale
 ---
 # Add Prompt Input Ctrl+T Completion for XPrompt Skills

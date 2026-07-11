@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 15:46:07
 status: done
-prompt: sdd/prompts/202605/agents_failed_count.md
+prompt: sdd/plans/202605/prompts/agents_failed_count.md
 tier: tale
 ---
 # Plan: Agents Failed Count And Zero-Count Noise

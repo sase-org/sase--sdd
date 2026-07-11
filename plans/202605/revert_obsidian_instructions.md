@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-30 16:45:29
 status: done
-prompt: sdd/prompts/202605/revert_obsidian_instructions.md
+prompt: sdd/plans/202605/prompts/revert_obsidian_instructions.md
 tier: tale
 ---
 # Revert Obsidian Sibling Config And Add Vault Agent Instructions

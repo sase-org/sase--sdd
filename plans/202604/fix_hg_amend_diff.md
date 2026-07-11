@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-14 00:03:08
 status: done
-prompt: sdd/prompts/202604/fix_hg_amend_diff.md
+prompt: sdd/plans/202604/prompts/fix_hg_amend_diff.md
 tier: tale
 ---
 

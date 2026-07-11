@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-13 13:35:34
 status: done
-prompt: sdd/prompts/202606/ace_run_layout_review_fixes.md
+prompt: sdd/plans/202606/prompts/ace_run_layout_review_fixes.md
 tier: tale
 ---
 # Plan: Fix Gaps in the Sharded `ace-run` Artifact Layout Implementation

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 11:13:24
 status: done
-prompt: sdd/prompts/202607/popup_panel_tab_switch_keymaps.md
+prompt: sdd/plans/202607/prompts/popup_panel_tab_switch_keymaps.md
 tier: tale
 ---
 # Popup Panel Tab-Switch Keymaps

@@ -1,7 +1,7 @@
 ---
 bead_id: sase-2
 status: done
-prompt: sdd/prompts/202603/multi_agent_prompts.md
+prompt: sdd/plans/202603/prompts/multi_agent_prompts.md
 tier: epic
 create_time: '2026-07-08 16:10:05'
 ---

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-27 13:53:48
 status: done
-prompt: sdd/prompts/202606/q_keymap_quit_restart_panel.md
+prompt: sdd/plans/202606/prompts/q_keymap_quit_restart_panel.md
 tier: tale
 ---
 # `Q` Keymap → Quit / Restart Options Panel

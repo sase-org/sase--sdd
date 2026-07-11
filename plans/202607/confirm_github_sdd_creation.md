@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 08:36:02
 status: done
-prompt: .sase/sdd/prompts/202607/confirm_github_sdd_creation.md
+prompt: .sase/sdd/plans/202607/prompts/confirm_github_sdd_creation.md
 tier: tale
 ---
 # Confirm GitHub SDD Companion Repository Creation

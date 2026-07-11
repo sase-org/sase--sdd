@@ -1,7 +1,7 @@
 ---
 status: done
 create_time: 2026-03-26 19:21:26
-prompt: sdd/prompts/202603/remove_commit_fallbacks.md
+prompt: sdd/plans/202603/prompts/remove_commit_fallbacks.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 12:48:26
 status: done
-prompt: sdd/prompts/202606/log_skill_use_config.md
+prompt: sdd/plans/202606/prompts/log_skill_use_config.md
 tier: tale
 ---
 # Plan: Configurable Generated Skill-Use Audit Directive

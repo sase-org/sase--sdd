@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 12:12:19
 status: done
-prompt: sdd/prompts/202605/mobile_markdown_pdfs.md
+prompt: sdd/plans/202605/prompts/mobile_markdown_pdfs.md
 tier: tale
 ---
 # Plan: Small-Screen Markdown PDF Defaults

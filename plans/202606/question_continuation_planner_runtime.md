@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-23 10:14:49
 status: done
-prompt: sdd/prompts/202606/question_continuation_planner_runtime.md
+prompt: sdd/plans/202606/prompts/question_continuation_planner_runtime.md
 tier: tale
 ---
 # Plan: Pin the runtime for the `ANSWERED` asker and `*APPROVED` approver rows of a `%approve` question-continuation family

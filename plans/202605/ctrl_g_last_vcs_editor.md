@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-15 00:52:08
 status: done
-prompt: sdd/prompts/202605/ctrl_g_last_vcs_editor.md
+prompt: sdd/plans/202605/prompts/ctrl_g_last_vcs_editor.md
 tier: tale
 ---
 # Plan: Global Ctrl+G Editor Launch for Last VCS XPrompt

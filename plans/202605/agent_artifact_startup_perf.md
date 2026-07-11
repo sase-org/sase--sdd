@@ -3,7 +3,7 @@ create_time: 2026-05-04 12:57:15
 bead_id: sase-20
 tier: epic
 status: done
-prompt: sdd/prompts/202605/agent_artifact_startup_perf.md
+prompt: sdd/plans/202605/prompts/agent_artifact_startup_perf.md
 ---
 # `sase ace` Agent Artifact Startup Performance Plan
 

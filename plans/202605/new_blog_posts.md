@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-11 19:23:48
 status: done
-prompt: sdd/prompts/202605/new_blog_posts.md
+prompt: sdd/plans/202605/prompts/new_blog_posts.md
 tier: tale
 ---
 # Plan: Add Posts 3–8 to the Agentic Software Engineering Blog Series

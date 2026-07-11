@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-21 14:47:59
 status: done
-prompt: sdd/prompts/202605/command_palette_key_hint.md
+prompt: sdd/plans/202605/prompts/command_palette_key_hint.md
 tier: tale
 ---
 # Command Palette Key Filter Hint Plan

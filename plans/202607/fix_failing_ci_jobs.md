@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 18:35:00
 status: done
-prompt: .sase/sdd/prompts/202607/fix_failing_ci_jobs.md
+prompt: .sase/sdd/plans/202607/prompts/fix_failing_ci_jobs.md
 tier: tale
 ---
 # Fix Failing GitHub Actions Jobs (sase repo)

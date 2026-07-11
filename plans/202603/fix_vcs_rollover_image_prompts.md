@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-27 18:38:09
 status: done
-prompt: sdd/prompts/202603/fix_vcs_rollover_image_prompts.md
+prompt: sdd/plans/202603/prompts/fix_vcs_rollover_image_prompts.md
 tier: tale
 ---
 

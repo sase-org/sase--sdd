@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-01 22:06:21
 status: done
-prompt: sdd/prompts/202605/retry_agent_name_suffix.md
+prompt: sdd/plans/202605/prompts/retry_agent_name_suffix.md
 tier: tale
 ---
 # Plan: Retry Agent Names

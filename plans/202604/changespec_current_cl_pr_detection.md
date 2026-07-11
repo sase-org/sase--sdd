@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-29 14:42:48
 status: wip
-prompt: sdd/prompts/202604/changespec_current_cl_pr_detection.md
+prompt: sdd/plans/202604/prompts/changespec_current_cl_pr_detection.md
 tier: tale
 ---
 # Improve `/sase_changespecs` Current CL/PR Detection

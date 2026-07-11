@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 20:19:28
 status: done
-prompt: sdd/prompts/202605/sdd_validate_in_lint.md
+prompt: sdd/plans/202605/prompts/sdd_validate_in_lint.md
 tier: tale
 ---
 # Plan: Run SDD Validation From `just lint`

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-27 16:36:55
 status: done
-prompt: sdd/prompts/202604/prompt_input_lag_followup.md
+prompt: sdd/plans/202604/prompts/prompt_input_lag_followup.md
 tier: tale
 ---
 # Plan: Follow-up Fixes for Prompt Input Lag Implementation

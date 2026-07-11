@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-16 11:22:18
 status: done
-prompt: sdd/prompts/202606/bead_agent_selection_freeze.md
+prompt: sdd/plans/202606/prompts/bead_agent_selection_freeze.md
 tier: tale
 ---
 # Fix: TUI freeze when selecting a bead-associated agent

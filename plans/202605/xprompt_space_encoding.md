@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-23 15:44:02
 status: done
-prompt: sdd/prompts/202605/xprompt_space_encoding.md
+prompt: sdd/plans/202605/prompts/xprompt_space_encoding.md
 tier: tale
 ---
 # Plan: XPrompt Space Encoding for Path Values

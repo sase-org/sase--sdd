@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-16 10:20:18
 status: done
-prompt: sdd/prompts/202605/pylimit_split_stale_workspace.md
+prompt: sdd/plans/202605/prompts/pylimit_split_stale_workspace.md
 tier: tale
 ---
 # Plan: Stop `sase_pylimit_split` From Re-Scanning Stale Workspaces

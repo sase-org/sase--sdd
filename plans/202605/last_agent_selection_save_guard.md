@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 00:24:48
 status: done
-prompt: sdd/prompts/202605/last_agent_selection_save_guard.md
+prompt: sdd/plans/202605/prompts/last_agent_selection_save_guard.md
 tier: tale
 ---
 # Plan: Validate `project_name` On All `save_last_agent_selection()` Call Sites

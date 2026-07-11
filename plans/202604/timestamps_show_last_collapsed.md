@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-02 19:59:28
 status: done
-prompt: sdd/prompts/202604/timestamps_show_last_collapsed.md
+prompt: sdd/plans/202604/prompts/timestamps_show_last_collapsed.md
 tier: tale
 ---
 

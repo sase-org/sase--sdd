@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-27 13:54:28
 status: done
-prompt: sdd/prompts/202605/sase_home_path_isolation.md
+prompt: sdd/plans/202605/prompts/sase_home_path_isolation.md
 tier: tale
 ---
 # Fix SASE Home Path Isolation

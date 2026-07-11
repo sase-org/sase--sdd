@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-23 11:25:21
 status: done
-prompt: sdd/prompts/202605/static_sibling_memory_display.md
+prompt: sdd/plans/202605/prompts/static_sibling_memory_display.md
 tier: tale
 ---
 # Plan: Inline Static Sibling Paths in Generated Memory

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-06 00:27:54
 status: done
-prompt: sdd/prompts/202605/dedup_feedback_timestamps.md
+prompt: sdd/plans/202605/prompts/dedup_feedback_timestamps.md
 tier: tale
 ---
 # Deduplicate Plan-Chain Timestamp Aggregation

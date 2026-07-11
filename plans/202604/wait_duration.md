@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-10 22:16:58
 status: done
-prompt: sdd/prompts/202604/wait_duration.md
+prompt: sdd/plans/202604/prompts/wait_duration.md
 tier: tale
 ---
 

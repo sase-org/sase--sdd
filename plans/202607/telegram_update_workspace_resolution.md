@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-06 15:03:38
 status: done
-prompt: sdd/prompts/202607/telegram_update_workspace_resolution.md
+prompt: sdd/plans/202607/prompts/telegram_update_workspace_resolution.md
 tier: tale
 ---
 # Fix Telegram `/update` Workspace Resolution

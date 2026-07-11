@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-01 08:00:19
 status: done
-prompt: sdd/prompts/202607/models_panel_state_column_alignment.md
+prompt: sdd/plans/202607/prompts/models_panel_state_column_alignment.md
 tier: tale
 ---
 # Plan: Align the Models panel state column

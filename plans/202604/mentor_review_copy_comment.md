@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-19 17:00:10
 status: done
-prompt: sdd/prompts/202604/mentor_review_copy_comment.md
+prompt: sdd/plans/202604/prompts/mentor_review_copy_comment.md
 tier: tale
 ---
 

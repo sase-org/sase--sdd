@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-22 10:29:41
 status: done
-prompt: sdd/prompts/202606/freeze_approved_plan_runtime.md
+prompt: sdd/plans/202606/prompts/freeze_approved_plan_runtime.md
 tier: tale
 ---
 # Plan: Freeze runtime for `PLAN APPROVED` / `TALE APPROVED` rows

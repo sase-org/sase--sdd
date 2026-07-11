@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-17 14:22:44
 status: done
-prompt: sdd/prompts/202606/bad_fanout_xprompt.md
+prompt: sdd/plans/202606/prompts/bad_fanout_xprompt.md
 tier: tale
 ---
 # Fix xprompt-injected model fanout shape

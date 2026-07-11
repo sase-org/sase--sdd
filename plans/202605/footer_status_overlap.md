@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-21 12:41:43
 status: done
-prompt: sdd/prompts/202605/footer_status_overlap.md
+prompt: sdd/plans/202605/prompts/footer_status_overlap.md
 tier: tale
 ---
 # Plan: Restore ACE Keybinding Footer Visibility

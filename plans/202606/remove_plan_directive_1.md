@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 17:06:34
 status: done
-prompt: sdd/prompts/202606/remove_plan_directive_1.md
+prompt: sdd/plans/202606/prompts/remove_plan_directive_1.md
 tier: tale
 ---
 # Remove the Legacy Manual Planning Directive

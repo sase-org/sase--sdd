@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-02 20:12:49
 status: done
-prompt: sdd/prompts/202604/hitl_approved_validation.md
+prompt: sdd/plans/202604/prompts/hitl_approved_validation.md
 tier: tale
 ---
 

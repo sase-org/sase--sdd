@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-29 13:28:40
 status: wip
-prompt: sdd/prompts/202604/agent_plan_timestamp_backend.md
+prompt: sdd/plans/202604/prompts/agent_plan_timestamp_backend.md
 tier: tale
 ---
 # Plan: Restore PLAN Timestamp Display in `sase ace`

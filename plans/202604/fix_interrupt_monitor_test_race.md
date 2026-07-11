@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-22 10:17:40
 status: done
-prompt: sdd/prompts/202604/fix_interrupt_monitor_test_race.md
+prompt: sdd/plans/202604/prompts/fix_interrupt_monitor_test_race.md
 tier: tale
 ---
 

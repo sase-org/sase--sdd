@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-13 15:52:58
 status: done
-prompt: sdd/prompts/202605/kill_edit_force_name_reuse.md
+prompt: sdd/plans/202605/prompts/kill_edit_force_name_reuse.md
 tier: tale
 ---
 # Plan: Force Name Reuse When Killing And Editing Agents

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 07:23:12
 status: done
-prompt: sdd/prompts/202606/invalid_sase_project.md
+prompt: sdd/plans/202606/prompts/invalid_sase_project.md
 tier: tale
 ---
 # Stop Hidden `.sase` Project Records

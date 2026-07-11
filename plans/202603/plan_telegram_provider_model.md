@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-30 11:11:38
 status: done
-prompt: sdd/prompts/202603/plan_telegram_provider_model.md
+prompt: sdd/plans/202603/prompts/plan_telegram_provider_model.md
 tier: tale
 ---
 

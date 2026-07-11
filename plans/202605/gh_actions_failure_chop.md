@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 13:29:42
 status: wip
-prompt: sdd/prompts/202605/gh_actions_failure_chop.md
+prompt: sdd/plans/202605/prompts/gh_actions_failure_chop.md
 tier: tale
 ---
 # GitHub Actions Failure Fix Chop Plan

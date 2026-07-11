@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-06 06:36:41
 status: done
-prompt: sdd/prompts/202607/mode_switch_sync_dev_checkouts.md
+prompt: sdd/plans/202607/prompts/mode_switch_sync_dev_checkouts.md
 tier: tale
 ---
 # Sync Existing Dev Checkouts With Upstream During PyPI → Dev Mode Switch

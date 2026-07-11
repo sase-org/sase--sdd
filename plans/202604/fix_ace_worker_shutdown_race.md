@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-24 20:36:08
 status: done
-prompt: sdd/prompts/202604/fix_ace_worker_shutdown_race.md
+prompt: sdd/plans/202604/prompts/fix_ace_worker_shutdown_race.md
 tier: tale
 ---
 # Fix `test_query_edit_modal_invalid_query` Worker Shutdown Race

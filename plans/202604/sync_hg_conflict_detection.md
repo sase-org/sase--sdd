@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-01 12:25:24
 status: done
-prompt: sdd/prompts/202604/sync_hg_conflict_detection.md
+prompt: sdd/plans/202604/prompts/sync_hg_conflict_detection.md
 tier: tale
 ---
 

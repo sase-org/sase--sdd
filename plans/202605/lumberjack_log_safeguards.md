@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-13 10:08:47
 status: done
-prompt: sdd/prompts/202605/lumberjack_log_safeguards.md
+prompt: sdd/plans/202605/prompts/lumberjack_log_safeguards.md
 tier: tale
 ---
 # Plan: Remove Runaway Logs and Cap Lumberjack Logging

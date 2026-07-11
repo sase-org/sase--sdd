@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-21 08:51:51
 status: done
-prompt: sdd/prompts/202605/agents_refresh_on_notifications.md
+prompt: sdd/plans/202605/prompts/agents_refresh_on_notifications.md
 tier: tale
 ---
 # Plan: Refresh Agents Tab On New Auto-Refresh Notifications

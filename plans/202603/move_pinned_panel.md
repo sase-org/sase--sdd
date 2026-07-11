@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-30 18:00:03
 status: done
-prompt: sdd/prompts/202603/move_pinned_panel.md
+prompt: sdd/plans/202603/prompts/move_pinned_panel.md
 tier: tale
 ---
 

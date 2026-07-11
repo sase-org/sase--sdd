@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-12 22:06:02
 status: done
-prompt: sdd/prompts/202604/shell_sub_dynamic_memory.md
+prompt: sdd/plans/202604/prompts/shell_sub_dynamic_memory.md
 tier: tale
 ---
 

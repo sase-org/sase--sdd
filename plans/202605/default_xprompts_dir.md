@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-04 17:16:49
 status: done
-prompt: sdd/prompts/202605/default_xprompts_dir.md
+prompt: sdd/plans/202605/prompts/default_xprompts_dir.md
 tier: tale
 ---
 # Default XPrompts Directory

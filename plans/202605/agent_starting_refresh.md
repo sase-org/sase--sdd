@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-14 19:36:23
 status: done
-prompt: sdd/prompts/202605/agent_starting_refresh.md
+prompt: sdd/plans/202605/prompts/agent_starting_refresh.md
 tier: tale
 ---
 ## Problem

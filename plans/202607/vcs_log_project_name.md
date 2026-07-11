@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 16:04:15
 status: done
-prompt: .sase/sdd/prompts/202607/vcs_log_project_name.md
+prompt: .sase/sdd/plans/202607/prompts/vcs_log_project_name.md
 tier: tale
 ---
 # Plan: `sase vcs log` — show the project name, not the spec-file slug

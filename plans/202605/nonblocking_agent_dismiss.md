@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 19:26:37
 status: wip
-prompt: sdd/prompts/202605/nonblocking_agent_dismiss.md
+prompt: sdd/plans/202605/prompts/nonblocking_agent_dismiss.md
 tier: tale
 ---
 # Plan: Non-Blocking TUI Agent Dismissal

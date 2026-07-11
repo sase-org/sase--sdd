@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 15:16:50
 status: wip
-prompt: .sase/sdd/prompts/202607/vcs_log_options.md
+prompt: .sase/sdd/plans/202607/prompts/vcs_log_options.md
 tier: tale
 ---
 # Plan: `sase vcs log` — filter, format & ordering options

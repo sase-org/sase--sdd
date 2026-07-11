@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-01 14:25:19
 status: done
-prompt: sdd/prompts/202604/edit_directive.md
+prompt: sdd/plans/202604/prompts/edit_directive.md
 tier: tale
 ---
 

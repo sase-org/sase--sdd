@@ -1,7 +1,7 @@
 ---
 status: wip
 create_time: 2026-03-26 19:18:31
-prompt: sdd/prompts/202603/commit_diff_drawer.md
+prompt: sdd/plans/202603/prompts/commit_diff_drawer.md
 tier: tale
 ---
 

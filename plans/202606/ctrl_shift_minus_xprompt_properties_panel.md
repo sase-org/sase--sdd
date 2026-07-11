@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-17 10:27:48
 status: done
-prompt: sdd/prompts/202606/ctrl_shift_minus_xprompt_properties_panel.md
+prompt: sdd/plans/202606/prompts/ctrl_shift_minus_xprompt_properties_panel.md
 tier: tale
 ---
 # Ctrl+Shift+- XPrompt Properties Panel Toggle Plan

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 10:11:59
 status: done
-prompt: sdd/prompts/202605/followup_planning_status_propagation.md
+prompt: sdd/plans/202605/prompts/followup_planning_status_propagation.md
 tier: tale
 ---
 # Followup Plan -> Parent Workflow PLANNING Status Propagation

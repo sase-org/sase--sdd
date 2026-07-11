@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 06:10:18
 status: done
-prompt: sdd/prompts/202606/project_keymap_lowercase_p.md
+prompt: sdd/plans/202606/prompts/project_keymap_lowercase_p.md
 tier: tale
 ---
 # Plan: move project management leader key from ,P to ,p

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-27 10:18:33
 status: done
-prompt: sdd/prompts/202604/ace_by_date_drop_name_root.md
+prompt: sdd/plans/202604/prompts/ace_by_date_drop_name_root.md
 tier: tale
 ---
 # Plan: `sase ace` "by date" grouping should not sub-group by base name

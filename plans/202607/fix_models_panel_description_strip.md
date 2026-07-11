@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-03 14:20:27
 status: wip
-prompt: sdd/prompts/202607/fix_models_panel_description_strip.md
+prompt: sdd/plans/202607/prompts/fix_models_panel_description_strip.md
 tier: tale
 ---
 # Fix the Invisible Models-Panel Alias Description Strip

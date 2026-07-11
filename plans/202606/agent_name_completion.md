@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-24 17:39:37
 status: done
-prompt: sdd/prompts/202606/agent_name_completion.md
+prompt: sdd/plans/202606/prompts/agent_name_completion.md
 tier: tale
 ---
 # Plan: Agent-name completion for the `%wait` directive and the `#fork` xprompt

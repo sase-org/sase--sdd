@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-23 13:16:26
 status: done
-prompt: sdd/prompts/202605/skills_command.md
+prompt: sdd/plans/202605/prompts/skills_command.md
 tier: tale
 ---
 # Add `sase skills`

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-24 17:04:07
 status: done
-prompt: sdd/prompts/202605/targeted_commit_staging.md
+prompt: sdd/plans/202605/prompts/targeted_commit_staging.md
 tier: tale
 ---
 # Plan: Targeted Staging for Automatic Commits

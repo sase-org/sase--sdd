@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-28 22:19:39
 status: done
-prompt: sdd/prompts/202605/tui_prompt_live_completion.md
+prompt: sdd/plans/202605/prompts/tui_prompt_live_completion.md
 tier: tale
 ---
 # TUI Prompt Live Completion Plan

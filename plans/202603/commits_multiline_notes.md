@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-27 17:06:30
 status: done
-prompt: sdd/prompts/202603/commits_multiline_notes.md
+prompt: sdd/plans/202603/prompts/commits_multiline_notes.md
 tier: tale
 ---
 

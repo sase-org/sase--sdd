@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-30 23:08:24
 status: done
-prompt: sdd/prompts/202604/agent_bead_list_indicator.md
+prompt: sdd/plans/202604/prompts/agent_bead_list_indicator.md
 tier: tale
 ---
 # Agent Bead List Indicator Plan

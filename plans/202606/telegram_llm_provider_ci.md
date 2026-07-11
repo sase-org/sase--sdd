@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-18 08:57:54
 status: wip
-prompt: sdd/prompts/202606/telegram_llm_provider_ci.md
+prompt: sdd/plans/202606/prompts/telegram_llm_provider_ci.md
 tier: tale
 ---
 # Fix Telegram Launch Tests Without an Installed LLM Provider

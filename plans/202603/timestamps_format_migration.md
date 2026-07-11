@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-30 14:59:20
 status: done
-prompt: sdd/prompts/202603/timestamps_format_migration.md
+prompt: sdd/plans/202603/prompts/timestamps_format_migration.md
 tier: tale
 ---
 

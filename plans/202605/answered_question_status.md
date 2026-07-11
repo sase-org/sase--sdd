@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-29 13:54:48
 status: done
-prompt: sdd/prompts/202605/answered_question_status.md
+prompt: sdd/plans/202605/prompts/answered_question_status.md
 tier: tale
 ---
 # Fix Answered Planner Question Status

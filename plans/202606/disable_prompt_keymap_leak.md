@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-23 09:47:06
 status: wip
-prompt: sdd/prompts/202606/disable_prompt_keymap_leak.md
+prompt: sdd/plans/202606/prompts/disable_prompt_keymap_leak.md
 tier: tale
 ---
 # Disable App Keymaps While Prompt Normal Mode Owns Focus

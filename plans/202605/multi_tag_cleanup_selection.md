@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 10:54:01
 status: done
-prompt: sdd/prompts/202605/multi_tag_cleanup_selection.md
+prompt: sdd/plans/202605/prompts/multi_tag_cleanup_selection.md
 tier: tale
 ---
 # Multi-Tag Agent Cleanup Selection Plan

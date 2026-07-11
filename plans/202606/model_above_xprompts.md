@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-28 10:00:36
 status: done
-prompt: sdd/prompts/202606/model_above_xprompts.md
+prompt: sdd/plans/202606/prompts/model_above_xprompts.md
 tier: tale
 ---
 # Plan: Render `Model:` Above `Xprompts:` In Agent Detail Metadata

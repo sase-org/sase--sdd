@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 16:32:32
 status: done
-prompt: sdd/prompts/202606/bare_plus_project_completion.md
+prompt: sdd/plans/202606/prompts/bare_plus_project_completion.md
 tier: tale
 ---
 # Plan: Bare Plus Project Completion

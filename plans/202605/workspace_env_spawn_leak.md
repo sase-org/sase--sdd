@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 19:15:38
 status: done
-prompt: sdd/prompts/202605/workspace_env_spawn_leak.md
+prompt: sdd/plans/202605/prompts/workspace_env_spawn_leak.md
 tier: tale
 ---
 # Fix workspace-env leak across agent spawns

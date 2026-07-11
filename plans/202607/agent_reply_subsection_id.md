@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 14:44:44
 status: wip
-prompt: .sase/sdd/prompts/202607/agent_reply_subsection_id.md
+prompt: .sase/sdd/plans/202607/prompts/agent_reply_subsection_id.md
 tier: tale
 ---
 # Plan: Show the family `<id>` in generic "AGENT" sub-sections of the AGENT REPLY panel

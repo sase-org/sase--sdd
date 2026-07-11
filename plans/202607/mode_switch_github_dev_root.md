@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-05 06:21:22
 status: wip
-prompt: sdd/prompts/202607/mode_switch_github_dev_root.md
+prompt: sdd/plans/202607/prompts/mode_switch_github_dev_root.md
 tier: tale
 ---
 # Plan: Clone mode-switch dev checkouts into `~/projects/github/` using SSH remotes

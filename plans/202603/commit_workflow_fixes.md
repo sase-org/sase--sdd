@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-24 09:34:47
 status: done
-prompt: sdd/prompts/202603/commit_workflow_fixes.md
+prompt: sdd/plans/202603/prompts/commit_workflow_fixes.md
 tier: tale
 ---
 

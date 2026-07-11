@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-10 11:23:49
 status: done
-prompt: sdd/prompts/202605/finish_sase_2n.md
+prompt: sdd/plans/202605/prompts/finish_sase_2n.md
 bead_id: sase-2q
 tier: epic
 ---

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 00:57:55
 status: done
-prompt: sdd/prompts/202605/lsp_sase_snippets.md
+prompt: sdd/plans/202605/prompts/lsp_sase_snippets.md
 bead_id: sase-2f
 tier: epic
 ---

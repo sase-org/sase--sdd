@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-27 13:19:23
 status: done
-prompt: sdd/prompts/202606/yaml_literal_chomping.md
+prompt: sdd/plans/202606/prompts/yaml_literal_chomping.md
 tier: tale
 ---
 # Plan: Use `|-` For Config-Saved Snippets And XPrompts

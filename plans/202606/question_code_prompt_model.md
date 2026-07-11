@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-15 17:37:43
 status: done
-prompt: sdd/prompts/202606/question_code_prompt_model.md
+prompt: sdd/plans/202606/prompts/question_code_prompt_model.md
 tier: tale
 ---
 # Fix Question Continuations for Code-Agent Prompts

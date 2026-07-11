@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-06 14:56:21
 status: done
-prompt: sdd/prompts/202605/mobile_gateway_request_id_completion.md
+prompt: sdd/plans/202605/prompts/mobile_gateway_request_id_completion.md
 tier: tale
 ---
 # Plan: Preserve Mobile Agent Request IDs

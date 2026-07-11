@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-02 18:49:44
 status: done
-prompt: sdd/prompts/202605/sdd_research_readme.md
+prompt: sdd/plans/202605/prompts/sdd_research_readme.md
 tier: tale
 ---
 # Initialize SDD Research README

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-19 11:39:53
 status: done
-prompt: sdd/prompts/202605/agent_reply_phase_headers.md
+prompt: sdd/plans/202605/prompts/agent_reply_phase_headers.md
 tier: tale
 ---
 # Fix Agent Reply Phase Headers After Agent Families

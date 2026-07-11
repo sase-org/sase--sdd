@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-11 17:07:53
 status: done
-prompt: sdd/prompts/202605/fix_recent_ci_failures.md
+prompt: sdd/plans/202605/prompts/fix_recent_ci_failures.md
 tier: tale
 ---
 # Plan: Fix Recent GitHub Actions Failures on master

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 23:00:21
 status: done
-prompt: sdd/prompts/202607/telegram_output_variables.md
+prompt: sdd/plans/202607/prompts/telegram_output_variables.md
 tier: tale
 ---
 # Plan: Show `/sase_var` Output Variables in the Telegram Agent-Completion Message

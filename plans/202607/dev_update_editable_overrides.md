@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 13:49:41
 status: done
-prompt: sdd/prompts/202607/dev_update_editable_overrides.md
+prompt: sdd/plans/202607/prompts/dev_update_editable_overrides.md
 tier: tale
 ---
 # Fix dev update failure: editable reinstall breaks when a plugin's sase floor exceeds the checkout's static version

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-20 10:02:16
 status: done
-prompt: sdd/prompts/202606/agy_tools_panel.md
+prompt: sdd/plans/202606/prompts/agy_tools_panel.md
 tier: tale
 ---
 # Plan: Tools Panel support for the Antigravity (`agy`) provider

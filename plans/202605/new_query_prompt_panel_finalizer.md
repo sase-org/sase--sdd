@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-31 12:10:34
 status: done
-prompt: sdd/prompts/202605/new_query_prompt_panel_finalizer.md
+prompt: sdd/plans/202605/prompts/new_query_prompt_panel_finalizer.md
 tier: tale
 ---
 # Plan: Keep the agent's submitted prompt (with `# New Query` at the bottom) in the ACE prompt panel

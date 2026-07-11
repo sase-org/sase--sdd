@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-01 10:34:39
 status: done
-prompt: sdd/prompts/202604/coder_model_directive_override.md
+prompt: sdd/plans/202604/prompts/coder_model_directive_override.md
 tier: tale
 ---
 

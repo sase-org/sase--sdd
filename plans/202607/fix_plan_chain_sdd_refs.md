@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 14:55:05
 status: wip
-prompt: .sase/sdd/prompts/202607/fix_plan_chain_sdd_refs.md
+prompt: .sase/sdd/plans/202607/prompts/fix_plan_chain_sdd_refs.md
 tier: tale
 ---
 # Fix Approved Plan-Chain SDD References

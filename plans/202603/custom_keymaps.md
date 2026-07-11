@@ -1,7 +1,7 @@
 ---
 status: done
 bead_id: sase-gjad
-prompt: sdd/prompts/202603/custom_keymaps.md
+prompt: sdd/plans/202603/prompts/custom_keymaps.md
 tier: epic
 create_time: '2026-07-08 16:10:05'
 ---

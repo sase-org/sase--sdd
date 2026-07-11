@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-11 14:54:40
 status: done
-prompt: sdd/prompts/202605/tale_done_status.md
+prompt: sdd/plans/202605/prompts/tale_done_status.md
 tier: tale
 ---
 # Plan: Add `TALE DONE` agent status

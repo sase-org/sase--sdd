@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 19:32:49
 status: done
-prompt: .sase/sdd/prompts/202607/init_all_active_projects.md
+prompt: .sase/sdd/plans/202607/prompts/init_all_active_projects.md
 tier: tale
 ---
 # Plan: Add `sase init --all` for Every Active Main Project

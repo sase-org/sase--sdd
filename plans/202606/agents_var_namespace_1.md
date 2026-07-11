@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 01:31:36
 status: done
-prompt: sdd/prompts/202606/agents_var_namespace_1.md
+prompt: sdd/plans/202606/prompts/agents_var_namespace_1.md
 tier: tale
 ---
 # Plan: Expose `sase var` Output Variables Under a Single `agents` Jinja Dictionary

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 12:45:13
 status: done
-prompt: .sase/sdd/prompts/202607/artifact_type_icons.md
+prompt: .sase/sdd/plans/202607/prompts/artifact_type_icons.md
 tier: tale
 ---
 # Plan: Artifact‑type icons in the Agents‑tab "Artifacts:" panel

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 10:46:22
 status: done
-prompt: sdd/prompts/202606/agents_tab_revert_agent_commits.md
+prompt: sdd/plans/202606/prompts/agents_tab_revert_agent_commits.md
 tier: tale
 ---
 # Implement Agents-Tab `,r` Revert For Done Agents

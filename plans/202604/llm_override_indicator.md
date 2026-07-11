@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-29 18:59:52
 status: done
-prompt: sdd/prompts/202604/llm_override_indicator.md
+prompt: sdd/plans/202604/prompts/llm_override_indicator.md
 tier: tale
 ---
 # Plan: Active LLM Override Indicator

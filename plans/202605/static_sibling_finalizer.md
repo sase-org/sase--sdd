@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-24 11:42:07
 status: done
-prompt: sdd/prompts/202605/static_sibling_finalizer.md
+prompt: sdd/plans/202605/prompts/static_sibling_finalizer.md
 tier: tale
 ---
 # Plan: Ignore Static Sibling Repos in Commit Finalizer Failures

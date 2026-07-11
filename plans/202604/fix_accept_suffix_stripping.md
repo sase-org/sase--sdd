@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-14 21:30:21
 status: done
-prompt: sdd/prompts/202604/fix_accept_suffix_stripping.md
+prompt: sdd/plans/202604/prompts/fix_accept_suffix_stripping.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-20 17:03:12
 status: done
-prompt: sdd/prompts/202606/workspace_tmux_chooser.md
+prompt: sdd/plans/202606/prompts/workspace_tmux_chooser.md
 tier: tale
 ---
 # Tmux Workspace Chooser for Agents with Opened Workspaces

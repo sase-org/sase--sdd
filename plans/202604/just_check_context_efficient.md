@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-17 23:58:05
 status: done
-prompt: sdd/prompts/202604/just_check_context_efficient.md
+prompt: sdd/plans/202604/prompts/just_check_context_efficient.md
 tier: tale
 ---
 

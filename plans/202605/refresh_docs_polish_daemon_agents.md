@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 23:27:26
 status: wip
-prompt: sdd/prompts/202605/refresh_docs_polish_daemon_agents.md
+prompt: sdd/plans/202605/prompts/refresh_docs_polish_daemon_agents.md
 tier: tale
 ---
 # Plan: Refresh Docs Polish Daemon Agent

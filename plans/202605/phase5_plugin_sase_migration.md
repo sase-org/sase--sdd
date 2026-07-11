@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 12:08:33
 status: done
-prompt: sdd/prompts/202605/phase5_plugin_sase_migration.md
+prompt: sdd/plans/202605/prompts/phase5_plugin_sase_migration.md
 tier: tale
 ---
 # Phase 5 Re-Do: Maintained Plugin `.gp` → `.sase` Migration

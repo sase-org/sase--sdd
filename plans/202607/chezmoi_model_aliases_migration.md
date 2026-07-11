@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-03 13:08:47
 status: wip
-prompt: sdd/prompts/202607/chezmoi_model_aliases_migration.md
+prompt: sdd/plans/202607/prompts/chezmoi_model_aliases_migration.md
 tier: tale
 ---
 # Plan: Migrate chezmoi `sase.yml` to the unified `model_aliases` shape

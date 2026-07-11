@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-23 12:03:02
 status: done
-prompt: sdd/prompts/202605/agent_chat_transcript_metadata.md
+prompt: sdd/plans/202605/prompts/agent_chat_transcript_metadata.md
 tier: tale
 ---
 # Plan: Agent Chat Transcript Metadata

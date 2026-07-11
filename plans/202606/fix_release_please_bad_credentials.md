@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-24 07:24:48
 status: done
-prompt: sdd/prompts/202606/fix_release_please_bad_credentials.md
+prompt: sdd/plans/202606/prompts/fix_release_please_bad_credentials.md
 tier: tale
 ---
 # Plan: Stop the `Publish` workflow's intermittent `release-please: Bad credentials` failures

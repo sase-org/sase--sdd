@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-24 18:07:41
 status: done
-prompt: sdd/prompts/202604/agents_new_entries_top.md
+prompt: sdd/plans/202604/prompts/agents_new_entries_top.md
 tier: tale
 ---
 # Plan: Keep New Agents at the Top After Manual Reordering

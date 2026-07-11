@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-31 23:52:21
 status: done
-prompt: sdd/prompts/202603/fix_enter_keymap_approve_options.md
+prompt: sdd/plans/202603/prompts/fix_enter_keymap_approve_options.md
 tier: tale
 ---
 

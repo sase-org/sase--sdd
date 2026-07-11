@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-22 14:46:33
 status: done
-prompt: sdd/prompts/202604/fix_ctrl_u_scroll_agents_tab.md
+prompt: sdd/plans/202604/prompts/fix_ctrl_u_scroll_agents_tab.md
 tier: tale
 ---
 

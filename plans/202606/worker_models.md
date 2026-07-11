@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-13 14:41:19
 status: done
-prompt: sdd/prompts/202606/worker_models.md
+prompt: sdd/plans/202606/prompts/worker_models.md
 tier: tale
 ---
 # Worker Models Plan

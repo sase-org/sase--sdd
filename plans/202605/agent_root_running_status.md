@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-29 10:30:46
 status: done
-prompt: sdd/prompts/202605/agent_root_running_status.md
+prompt: sdd/plans/202605/prompts/agent_root_running_status.md
 tier: tale
 ---
 # Plan: Keep Root Agent Status Aligned With Active Child

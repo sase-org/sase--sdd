@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-31 11:31:07
 status: done
-prompt: sdd/prompts/202603/fix_reply_timestamps.md
+prompt: sdd/plans/202603/prompts/fix_reply_timestamps.md
 tier: tale
 ---
 

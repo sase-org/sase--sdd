@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 14:11:08
 status: wip
-prompt: .sase/sdd/prompts/202607/family_root_auto_zero_suffix.md
+prompt: .sase/sdd/plans/202607/prompts/family_root_auto_zero_suffix.md
 tier: tale
 ---
 # Plan: Auto-assign `--0` suffix to the bare family-root member

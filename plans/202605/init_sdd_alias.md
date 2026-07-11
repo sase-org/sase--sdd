@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-22 20:53:36
 status: done
-prompt: sdd/prompts/202605/init_sdd_alias.md
+prompt: sdd/plans/202605/prompts/init_sdd_alias.md
 tier: tale
 ---
 # Plan: Add `sase init sdd` Alias

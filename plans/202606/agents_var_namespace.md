@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 01:22:32
 status: wip
-prompt: sdd/prompts/202606/agents_var_namespace.md
+prompt: sdd/plans/202606/prompts/agents_var_namespace.md
 tier: tale
 ---
 # Plan: Move `sase var` Jinja Exposure Under `agents`

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 12:44:45
 status: wip
-prompt: .sase/sdd/prompts/202607/auto_commit_sdd_store.md
+prompt: .sase/sdd/plans/202607/prompts/auto_commit_sdd_store.md
 tier: tale
 ---
 # Plan: Auto-commit & push the separate-repo SDD store (with finalizer fallback)

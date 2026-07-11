@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-25 15:52:35
 status: done
-prompt: sdd/prompts/202606/agents_onboarding_full_tab.md
+prompt: sdd/plans/202606/prompts/agents_onboarding_full_tab.md
 tier: tale
 ---
 # Plan: Agents-tab Onboarding Takes Over the Full Tab

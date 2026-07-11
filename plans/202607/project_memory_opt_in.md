@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 18:54:57
 status: done
-prompt: .sase/sdd/prompts/202607/project_memory_opt_in.md
+prompt: .sase/sdd/plans/202607/prompts/project_memory_opt_in.md
 tier: tale
 ---
 # Project-local opt-in for SASE-managed memory and agent instructions

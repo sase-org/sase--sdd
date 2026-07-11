@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 15:12:00
 status: done
-prompt: sdd/prompts/202605/prompt_ctrl_e_actual_line.md
+prompt: sdd/plans/202605/prompts/prompt_ctrl_e_actual_line.md
 tier: tale
 ---
 # Fix Prompt Ctrl+E Actual Line End

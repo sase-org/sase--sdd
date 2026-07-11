@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-24 13:09:34
 status: done
-prompt: sdd/prompts/202604/uppercase_jump_hints.md
+prompt: sdd/plans/202604/prompts/uppercase_jump_hints.md
 tier: tale
 ---
 # Plan: Extend Jump-to-Entry Hint Alphabet with A–Z

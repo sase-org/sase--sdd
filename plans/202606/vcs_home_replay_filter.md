@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-22 09:57:36
 status: done
-prompt: sdd/prompts/202606/vcs_home_replay_filter.md
+prompt: sdd/plans/202606/prompts/vcs_home_replay_filter.md
 tier: tale
 ---
 # Plan: Exclude `#git:home` From VCS Replay History

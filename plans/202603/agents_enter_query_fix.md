@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-31 20:10:34
 status: done
-prompt: sdd/prompts/202603/agents_enter_query_fix.md
+prompt: sdd/plans/202603/prompts/agents_enter_query_fix.md
 tier: tale
 ---
 

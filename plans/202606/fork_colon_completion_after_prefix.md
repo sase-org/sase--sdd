@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-25 10:11:18
 status: done
-prompt: sdd/prompts/202606/fork_colon_completion_after_prefix.md
+prompt: sdd/plans/202606/prompts/fork_colon_completion_after_prefix.md
 tier: tale
 ---
 # Fix `#fork:` Agent Completion After Earlier XPrompt References

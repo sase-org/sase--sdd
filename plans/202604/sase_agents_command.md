@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-23 17:18:19
 status: done
-prompt: sdd/prompts/202604/sase_agents_command.md
+prompt: sdd/plans/202604/prompts/sase_agents_command.md
 tier: tale
 ---
 # `sase agents` — First-Class CLI for Running-Agent Visibility

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-28 08:23:51
 status: done
-prompt: sdd/prompts/202606/preserve_workspace_claim_during_plan_handoff.md
+prompt: sdd/plans/202606/prompts/preserve_workspace_claim_during_plan_handoff.md
 tier: tale
 ---
 # Plan: Keep the workspace claimed during plan/question handoff

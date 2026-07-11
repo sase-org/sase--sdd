@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-25 18:52:48
 status: done
-prompt: sdd/prompts/202603/fix_done_agent_meta_enrichment.md
+prompt: sdd/plans/202603/prompts/fix_done_agent_meta_enrichment.md
 tier: tale
 ---
 

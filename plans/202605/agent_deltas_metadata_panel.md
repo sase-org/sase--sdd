@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-27 09:54:15
 status: done
-prompt: sdd/prompts/202605/agent_deltas_metadata_panel.md
+prompt: sdd/plans/202605/prompts/agent_deltas_metadata_panel.md
 tier: tale
 ---
 # Agent Deltas Metadata Panel Plan

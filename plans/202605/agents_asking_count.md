@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 15:34:55
 status: done
-prompt: sdd/prompts/202605/agents_asking_count.md
+prompt: sdd/plans/202605/prompts/agents_asking_count.md
 tier: tale
 ---
 # Add Agents Tab Asking Count

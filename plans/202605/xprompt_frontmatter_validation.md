@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-21 19:06:19
 status: wip
-prompt: sdd/prompts/202605/xprompt_frontmatter_validation.md
+prompt: sdd/plans/202605/prompts/xprompt_frontmatter_validation.md
 tier: tale
 ---
 

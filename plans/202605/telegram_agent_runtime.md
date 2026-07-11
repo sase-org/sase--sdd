@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-13 16:20:53
 status: done
-prompt: sdd/prompts/202605/telegram_agent_runtime.md
+prompt: sdd/plans/202605/prompts/telegram_agent_runtime.md
 tier: tale
 ---
 # Plan: Show Agent Runtime in Telegram Completion Messages

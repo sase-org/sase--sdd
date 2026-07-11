@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-09 13:04:12
 status: done
-prompt: .sase/sdd/prompts/202607/sdd_companion_artifact_discovery.md
+prompt: .sase/sdd/plans/202607/prompts/sdd_companion_artifact_discovery.md
 tier: tale
 ---
 # Plan: Discover agent artifacts & attachments from the separate SDD companion repo

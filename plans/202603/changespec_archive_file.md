@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-23 18:43:08
 status: done
-prompt: sdd/prompts/202603/changespec_archive_file.md
+prompt: sdd/plans/202603/prompts/changespec_archive_file.md
 tier: tale
 ---
 

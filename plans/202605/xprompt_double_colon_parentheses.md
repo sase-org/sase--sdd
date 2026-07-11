@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-05 18:02:02
 status: done
-prompt: sdd/prompts/202605/xprompt_double_colon_parentheses.md
+prompt: sdd/plans/202605/prompts/xprompt_double_colon_parentheses.md
 tier: tale
 ---
 # Plan: Fix xprompt double-colon text containing parentheses

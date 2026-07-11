@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 02:02:55
 status: done
-prompt: sdd/prompts/202605/nvim_xprompt_snippet_completion.md
+prompt: sdd/plans/202605/prompts/nvim_xprompt_snippet_completion.md
 tier: tale
 ---
 # Plan: Stabilize Neovim SASE XPrompt Snippet Completion

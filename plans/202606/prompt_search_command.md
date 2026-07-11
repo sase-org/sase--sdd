@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-18 21:24:36
 status: wip
-prompt: sdd/prompts/202606/prompt_search_command.md
+prompt: sdd/plans/202606/prompts/prompt_search_command.md
 tier: epic
 ---
 # Plan: `sase prompt search` — unified full-text search over SDD + local prompts

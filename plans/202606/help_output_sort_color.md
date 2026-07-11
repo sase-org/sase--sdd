@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-09 19:25:17
 status: done
-prompt: sdd/prompts/202606/help_output_sort_color.md
+prompt: sdd/plans/202606/prompts/help_output_sort_color.md
 tier: tale
 ---
 # Plan: Colored, Sorted Root Help

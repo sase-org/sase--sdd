@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 17:40:38
 status: done
-prompt: sdd/prompts/202606/changespec_vcs_completion.md
+prompt: sdd/plans/202606/prompts/changespec_vcs_completion.md
 tier: tale
 ---
 # Plan: Add active ChangeSpecs to `#+` VCS completion (TUI prompt + xprompt LSP)

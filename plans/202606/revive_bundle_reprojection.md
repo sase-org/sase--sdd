@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-09 15:30:20
 status: done
-prompt: sdd/prompts/202606/revive_bundle_reprojection.md
+prompt: sdd/plans/202606/prompts/revive_bundle_reprojection.md
 tier: tale
 ---
 # Plan: Revived agents get re-hidden by stale dismissed bundles

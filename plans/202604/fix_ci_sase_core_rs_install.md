@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-29 19:30:38
 status: done
-prompt: sdd/prompts/202604/fix_ci_sase_core_rs_install.md
+prompt: sdd/plans/202604/prompts/fix_ci_sase_core_rs_install.md
 tier: tale
 ---
 # Plan: Fix CI dependency resolution for `sase-core-rs`

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-30 22:59:29
 status: done
-prompt: sdd/prompts/202604/agent_bead_metadata.md
+prompt: sdd/plans/202604/prompts/agent_bead_metadata.md
 tier: tale
 ---
 # Agent Bead Metadata Panel Plan

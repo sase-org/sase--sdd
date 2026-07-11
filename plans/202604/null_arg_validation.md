@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-03 14:07:17
 status: done
-prompt: sdd/prompts/202604/null_arg_validation.md
+prompt: sdd/plans/202604/prompts/null_arg_validation.md
 tier: tale
 ---
 

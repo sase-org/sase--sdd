@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-11 10:36:57
 status: draft
-prompt: sdd/prompts/202605/side_panel_selection_visibility.md
+prompt: sdd/plans/202605/prompts/side_panel_selection_visibility.md
 tier: tale
 ---
 

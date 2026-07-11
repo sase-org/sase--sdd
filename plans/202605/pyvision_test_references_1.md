@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 18:29:39
 status: done
-prompt: sdd/prompts/202605/pyvision_test_references_1.md
+prompt: sdd/plans/202605/prompts/pyvision_test_references_1.md
 tier: tale
 ---
 # Pyvision: Exclude Test Files From Public Symbol Reference Detection

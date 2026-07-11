@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-09 13:27:02
 status: done
-prompt: .sase/sdd/prompts/202607/hide_commit_message_delta.md
+prompt: .sase/sdd/plans/202607/prompts/hide_commit_message_delta.md
 tier: tale
 ---
 # Hide `commit_message.md` from Agent Deltas

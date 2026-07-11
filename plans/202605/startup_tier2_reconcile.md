@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-16 19:07:50
 status: done
-prompt: sdd/prompts/202605/startup_tier2_reconcile.md
+prompt: sdd/plans/202605/prompts/startup_tier2_reconcile.md
 tier: tale
 ---
 # One-shot Startup Tier 2 Full-History Reconcile

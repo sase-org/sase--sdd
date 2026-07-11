@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 13:41:18
 status: done
-prompt: sdd/prompts/202606/skip_waiting_for_resolved_dependencies.md
+prompt: sdd/plans/202606/prompts/skip_waiting_for_resolved_dependencies.md
 tier: tale
 ---
 # Plan: Skip WAITING when a `%wait:` dependency already finished

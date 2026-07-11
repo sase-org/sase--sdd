@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-24 21:40:25
 status: done
-prompt: sdd/prompts/202604/retry_as_new_agent.md
+prompt: sdd/plans/202604/prompts/retry_as_new_agent.md
 tier: tale
 ---
 # Retry as a Brand-New Agent

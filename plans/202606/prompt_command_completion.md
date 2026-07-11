@@ -3,7 +3,7 @@ title: Complete prompt command epic verification
 bead_id: sase-4o
 create_time: 2026-06-13 16:09:34
 status: wip
-prompt: sdd/prompts/202606/prompt_command_completion.md
+prompt: sdd/plans/202606/prompts/prompt_command_completion.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-04 19:23:44
 status: done
-prompt: sdd/prompts/202605/vcs_tag_workflow_prompt_inheritance.md
+prompt: sdd/plans/202605/prompts/vcs_tag_workflow_prompt_inheritance.md
 tier: tale
 ---
 # Preserve VCS workflow tags through workflow prompt execution

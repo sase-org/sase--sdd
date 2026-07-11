@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 10:27:28
 status: done
-prompt: sdd/prompts/202605/agent_provider_emoji_rows.md
+prompt: sdd/plans/202605/prompts/agent_provider_emoji_rows.md
 tier: tale
 ---
 # Plan: Provider Emoji Badges in Agent Rows

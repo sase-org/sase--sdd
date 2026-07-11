@@ -2,7 +2,7 @@
 status: done
 created: 2026-03-27
 create_time: 2026-03-27 15:44:57
-prompt: sdd/prompts/202603/fix_crs_changespec_entry.md
+prompt: sdd/plans/202603/prompts/fix_crs_changespec_entry.md
 tier: tale
 ---
 

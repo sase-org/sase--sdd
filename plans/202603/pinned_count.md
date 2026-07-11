@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-31 09:45:27
 status: done
-prompt: sdd/prompts/202603/pinned_count.md
+prompt: sdd/plans/202603/prompts/pinned_count.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-12 12:38:57
 status: done
-prompt: sdd/prompts/202606/agents_zoom_keymap.md
+prompt: sdd/plans/202606/prompts/agents_zoom_keymap.md
 tier: tale
 ---
 # Plan: `z` (Zoom) Keymap for the Agents Tab

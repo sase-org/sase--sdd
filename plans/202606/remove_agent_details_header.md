@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 18:42:17
 status: done
-prompt: sdd/prompts/202606/remove_agent_details_header.md
+prompt: sdd/plans/202606/prompts/remove_agent_details_header.md
 tier: tale
 ---
 # Remove Agents Metadata Panel Header

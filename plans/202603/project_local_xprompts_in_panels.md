@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-22 20:55:53
 status: done
-prompt: sdd/prompts/202603/project_local_xprompts_in_panels.md
+prompt: sdd/plans/202603/prompts/project_local_xprompts_in_panels.md
 tier: tale
 ---
 

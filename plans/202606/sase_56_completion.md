@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-23 20:07:00
 status: done
-prompt: sdd/prompts/202606/sase_56_completion.md
+prompt: sdd/plans/202606/prompts/sase_56_completion.md
 tier: tale
 ---
 # Remaining Verification Fixes for `sase-56`

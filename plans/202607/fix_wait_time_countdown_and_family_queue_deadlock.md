@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-06 13:35:55
 status: done
-prompt: sdd/prompts/202607/fix_wait_time_countdown_and_family_queue_deadlock.md
+prompt: sdd/plans/202607/prompts/fix_wait_time_countdown_and_family_queue_deadlock.md
 tier: tale
 ---
 # Fix `%wait` time countdown + queued family child launch deadlock

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-27 07:39:15
 status: done
-prompt: sdd/prompts/202606/local_xprompt_keymaps.md
+prompt: sdd/plans/202606/prompts/local_xprompt_keymaps.md
 tier: tale
 ---
 # Plan: Prompt Input `gX` / `Ctrl+G X` Local XPrompt Conversion

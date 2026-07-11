@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-29 13:16:52
 status: done
-prompt: sdd/prompts/202606/xprompt_completion_skip_space_before_punctuation.md
+prompt: sdd/plans/202606/prompts/xprompt_completion_skip_space_before_punctuation.md
 tier: tale
 ---
 # Plan: Skip the auto-inserted space after a no-arg xprompt when followed by punctuation

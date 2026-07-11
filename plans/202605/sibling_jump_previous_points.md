@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-23 19:55:33
 status: done
-prompt: sdd/prompts/202605/sibling_jump_previous_points.md
+prompt: sdd/plans/202605/prompts/sibling_jump_previous_points.md
 tier: tale
 ---
 # Treat sibling agent jumps as entry-jump previous points

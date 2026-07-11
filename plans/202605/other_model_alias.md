@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 22:30:36
 status: done
-prompt: sdd/prompts/202605/other_model_alias.md
+prompt: sdd/plans/202605/prompts/other_model_alias.md
 tier: tale
 ---
 # Plan: Configured `other` Model Alias

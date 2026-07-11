@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 18:23:59
 status: done
-prompt: sdd/prompts/202605/qwen_unique_color.md
+prompt: sdd/plans/202605/prompts/qwen_unique_color.md
 tier: tale
 ---
 # Plan: Give QWEN a Unique, Brand-Aligned Color

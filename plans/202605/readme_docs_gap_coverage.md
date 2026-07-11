@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 21:17:34
 status: done
-prompt: sdd/prompts/202605/readme_docs_gap_coverage.md
+prompt: sdd/plans/202605/prompts/readme_docs_gap_coverage.md
 tier: tale
 ---
 # README Docs Gap Coverage Plan

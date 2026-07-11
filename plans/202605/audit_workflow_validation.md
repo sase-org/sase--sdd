@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 15:46:31
 status: done
-prompt: sdd/prompts/202605/audit_workflow_validation.md
+prompt: sdd/plans/202605/prompts/audit_workflow_validation.md
 tier: tale
 ---
 # Fix audit workflow validation failures

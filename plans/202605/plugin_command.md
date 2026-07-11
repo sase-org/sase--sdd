@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-28 16:54:48
 status: done
-prompt: sdd/prompts/202605/plugin_command.md
+prompt: sdd/plans/202605/prompts/plugin_command.md
 tier: tale
 ---
 # Plan: `sase plugin`

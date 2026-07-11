@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-23 21:28:34
 status: done
-prompt: sdd/prompts/202605/memory_notification_actions.md
+prompt: sdd/plans/202605/prompts/memory_notification_actions.md
 tier: tale
 ---
 # Plan: Memory Proposal Notification Actions

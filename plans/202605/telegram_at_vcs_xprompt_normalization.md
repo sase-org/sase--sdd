@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-04 20:44:05
 status: done
-prompt: sdd/prompts/202605/telegram_at_vcs_xprompt_normalization.md
+prompt: sdd/plans/202605/prompts/telegram_at_vcs_xprompt_normalization.md
 tier: tale
 ---
 # Plan: Normalize Telegram `#workflow@ref` VCS Prompts

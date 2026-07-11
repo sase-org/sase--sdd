@@ -3,7 +3,7 @@ create_time: 2026-05-08 20:04:47
 bead_id: sase-2e
 tier: epic
 status: done
-prompt: sdd/prompts/202605/permanent_agent_names.md
+prompt: sdd/plans/202605/prompts/permanent_agent_names.md
 ---
 # Permanent Agent Names
 

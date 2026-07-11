@@ -1,7 +1,7 @@
 ---
 status: done
 create_time: 2026-03-27 14:46:43
-prompt: sdd/prompts/202603/fix_commits_entry_human_cli.md
+prompt: sdd/plans/202603/prompts/fix_commits_entry_human_cli.md
 tier: tale
 ---
 

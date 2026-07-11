@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-07 22:02:29
 status: wip
-prompt: sdd/prompts/202604/prometheus_telemetry.md
+prompt: sdd/plans/202604/prompts/prometheus_telemetry.md
 tier: tale
 ---
 

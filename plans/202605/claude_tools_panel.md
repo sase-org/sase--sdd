@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-14 13:18:43
 status: done
-prompt: sdd/prompts/202605/claude_tools_panel.md
+prompt: sdd/plans/202605/prompts/claude_tools_panel.md
 bead_id: sase-3g
 tier: epic
 ---

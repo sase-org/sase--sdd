@@ -1,7 +1,7 @@
 ---
 status: done
 create_time: 2026-07-10 16:56:47
-prompt: .sase/sdd/prompts/202607/fakey_provider.md
+prompt: .sase/sdd/plans/202607/prompts/fakey_provider.md
 bead_id: sase-5o
 tier: epic
 ---

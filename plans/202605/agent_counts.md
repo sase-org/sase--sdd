@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 21:52:29
 status: done
-prompt: sdd/prompts/202605/agent_counts.md
+prompt: sdd/plans/202605/prompts/agent_counts.md
 tier: tale
 ---
 # Agent Counts In The Agents Header

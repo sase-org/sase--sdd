@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-08 17:34:28
 status: done
-prompt: sdd/prompts/202606/fix_generated_skill_staleness_1.md
+prompt: sdd/plans/202606/prompts/fix_generated_skill_staleness_1.md
 tier: tale
 ---
 # Fix Generated Skill Staleness For sase-4g

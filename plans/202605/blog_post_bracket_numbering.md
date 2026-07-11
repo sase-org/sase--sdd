@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 13:55:12
 status: done
-prompt: sdd/prompts/202605/blog_post_bracket_numbering.md
+prompt: sdd/plans/202605/prompts/blog_post_bracket_numbering.md
 tier: tale
 ---
 # Implement Blog Post Bracket Numbering

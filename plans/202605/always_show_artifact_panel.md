@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 15:54:01
 status: done
-prompt: sdd/prompts/202605/always_show_artifact_panel.md
+prompt: sdd/plans/202605/prompts/always_show_artifact_panel.md
 tier: tale
 ---
 # Always Show Agent Artifact Panel

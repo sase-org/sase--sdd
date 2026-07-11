@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-23 16:46:02
 status: done
-prompt: sdd/prompts/202604/standalone_shard_migration_script.md
+prompt: sdd/plans/202604/prompts/standalone_shard_migration_script.md
 tier: tale
 ---
 

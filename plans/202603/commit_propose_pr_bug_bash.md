@@ -1,7 +1,7 @@
 ---
 status: done
 create_time: 2026-03-24 20:33:48
-prompt: sdd/prompts/202603/commit_propose_pr_bug_bash.md
+prompt: sdd/plans/202603/prompts/commit_propose_pr_bug_bash.md
 tier: tale
 ---
 

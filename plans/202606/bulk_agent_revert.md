@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 11:46:16
 status: done
-prompt: sdd/prompts/202606/bulk_agent_revert.md
+prompt: sdd/plans/202606/prompts/bulk_agent_revert.md
 tier: tale
 ---
 # Bulk Agent Revert Plan

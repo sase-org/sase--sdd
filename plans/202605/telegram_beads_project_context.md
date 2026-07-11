@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-02 21:26:42
 status: wip
-prompt: sdd/prompts/202605/telegram_beads_project_context.md
+prompt: sdd/plans/202605/prompts/telegram_beads_project_context.md
 tier: tale
 ---
 # Fix Telegram `/beads` Project Context

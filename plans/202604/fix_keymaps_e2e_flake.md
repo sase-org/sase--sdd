@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-27 10:20:04
 status: planned
-prompt: sdd/prompts/202604/fix_keymaps_e2e_flake.md
+prompt: sdd/plans/202604/prompts/fix_keymaps_e2e_flake.md
 tier: tale
 ---
 

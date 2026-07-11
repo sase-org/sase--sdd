@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-14 22:08:23
 status: done
-prompt: sdd/prompts/202605/async_artifact_discovery.md
+prompt: sdd/plans/202605/prompts/async_artifact_discovery.md
 tier: tale
 ---
 # Plan: Move agent-detail artifact discovery off the UI thread

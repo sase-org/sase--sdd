@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-30 09:45:28
 status: done
-prompt: sdd/prompts/202606/bead_list_limit_and_implicit_closed.md
+prompt: sdd/plans/202606/prompts/bead_list_limit_and_implicit_closed.md
 tier: tale
 ---
 # Plan: `sase bead list` — `--limit` option and implicit `--status closed` fallback

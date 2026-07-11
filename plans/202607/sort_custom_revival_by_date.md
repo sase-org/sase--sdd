@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 13:19:52
 status: done
-prompt: .sase/sdd/prompts/202607/sort_custom_revival_by_date.md
+prompt: .sase/sdd/plans/202607/prompts/sort_custom_revival_by_date.md
 tier: tale
 ---
 # Plan: Sort Custom Revival Results Newest First

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-25 18:24:47
 status: wip
-prompt: sdd/prompts/202604/jk_banner_highlight.md
+prompt: sdd/plans/202604/prompts/jk_banner_highlight.md
 tier: tale
 ---
 # `sase ace` Agents tab: `j`/`k` doesn't visually move the highlight off an L2 banner at fold < 3

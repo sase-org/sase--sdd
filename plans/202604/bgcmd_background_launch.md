@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-24 13:22:30
 status: done
-prompt: sdd/prompts/202604/bgcmd_background_launch.md
+prompt: sdd/plans/202604/prompts/bgcmd_background_launch.md
 tier: tale
 ---
 # Plan: Move AXE bgcmd launch work off the TUI event loop

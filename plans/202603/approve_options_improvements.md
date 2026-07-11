@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-31 23:10:38
 status: done
-prompt: sdd/prompts/202603/approve_options_improvements.md
+prompt: sdd/plans/202603/prompts/approve_options_improvements.md
 tier: tale
 ---
 

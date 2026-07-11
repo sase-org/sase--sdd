@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-13 00:29:15
 status: done
-prompt: sdd/prompts/202605/sase_3c_completion.md
+prompt: sdd/plans/202605/prompts/sase_3c_completion.md
 tier: tale
 ---
 Plan: Complete sase-3c verification and closure

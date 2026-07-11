@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-23 13:58:13
 status: done
-prompt: sdd/prompts/202605/skills_list_full_descriptions.md
+prompt: sdd/plans/202605/prompts/skills_list_full_descriptions.md
 tier: tale
 ---
 # Plan: Make `sase skills list` show full names and wrapped descriptions

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-30 13:43:03
 status: done
-prompt: sdd/prompts/202605/move_pick_plan_xprompt.md
+prompt: sdd/plans/202605/prompts/move_pick_plan_xprompt.md
 tier: tale
 ---
 # Move `pick_plan` xprompt into chezmoi

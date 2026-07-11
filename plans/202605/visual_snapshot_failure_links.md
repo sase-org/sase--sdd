@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-11 22:08:30
 status: done
-prompt: sdd/prompts/202605/visual_snapshot_failure_links.md
+prompt: sdd/plans/202605/prompts/visual_snapshot_failure_links.md
 bead_id: sase-32
 tier: epic
 ---

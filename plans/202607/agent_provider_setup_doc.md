@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 13:50:27
 status: wip
-prompt: .sase/sdd/prompts/202607/agent_provider_setup_doc.md
+prompt: .sase/sdd/plans/202607/prompts/agent_provider_setup_doc.md
 tier: tale
 ---
 # Plan: Add an "Agent Provider Setup" docs page (install + authenticate each supported CLI)

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-01 14:40:52
 status: done
-prompt: sdd/prompts/202605/fix_vcs_project_workflows.md
+prompt: sdd/plans/202605/prompts/fix_vcs_project_workflows.md
 tier: tale
 ---
 # Plan: Resolve VCS-scoped standalone workflows from the target project

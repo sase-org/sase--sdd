@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-01 12:26:37
 status: done
-prompt: sdd/prompts/202605/workspace_bead_id_allocation.md
+prompt: sdd/plans/202605/prompts/workspace_bead_id_allocation.md
 tier: tale
 ---
 # Workspace-Aware Bead ID Allocation

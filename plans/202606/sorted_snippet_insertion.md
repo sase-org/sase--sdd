@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-27 08:41:33
 status: done
-prompt: sdd/prompts/202606/sorted_snippet_insertion.md
+prompt: sdd/plans/202606/prompts/sorted_snippet_insertion.md
 tier: tale
 ---
 # Preserve Sorted Snippet Insertions

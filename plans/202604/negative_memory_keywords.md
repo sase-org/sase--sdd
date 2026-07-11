@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-24 12:28:47
 status: done
-prompt: sdd/prompts/202604/negative_memory_keywords.md
+prompt: sdd/plans/202604/prompts/negative_memory_keywords.md
 tier: tale
 ---
 # Plan: Negative Keyword Matches for Memory XPrompts

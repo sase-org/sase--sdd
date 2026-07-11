@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-24 18:15:49
 status: done
-prompt: sdd/prompts/202603/code_agent_telegram_diagnostics.md
+prompt: sdd/plans/202603/prompts/code_agent_telegram_diagnostics.md
 tier: tale
 ---
 

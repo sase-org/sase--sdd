@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-23 09:18:13
 status: done
-prompt: sdd/prompts/202606/remove_model_directive_multi_arg.md
+prompt: sdd/plans/202606/prompts/remove_model_directive_multi_arg.md
 tier: tale
 ---
 # Plan: Remove Multi-Argument Support from the `%m` / `%model` Directive

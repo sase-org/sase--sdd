@@ -2,7 +2,7 @@
 name: link_to_sase_sh
 status: draft
 create_time: 2026-05-10 13:15:22
-prompt: sdd/prompts/202605/link_to_sase_sh.md
+prompt: sdd/plans/202605/prompts/link_to_sase_sh.md
 tier: tale
 ---
 

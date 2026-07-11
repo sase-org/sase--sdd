@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 17:18:40
 status: done
-prompt: sdd/prompts/202605/agents_starting_status.md
+prompt: sdd/plans/202605/prompts/agents_starting_status.md
 bead_id: sase-38
 tier: epic
 ---

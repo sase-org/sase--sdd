@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 21:29:11
 status: done
-prompt: sdd/prompts/202606/xprompt_completion_project_scope.md
+prompt: sdd/plans/202606/prompts/xprompt_completion_project_scope.md
 tier: tale
 ---
 # Fix: built-in `#plan` (and peers) only complete under `#gh:sase`, not other projects

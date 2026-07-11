@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-08 00:28:32
 status: done
-prompt: sdd/prompts/202604/llm_token_metrics.md
+prompt: sdd/plans/202604/prompts/llm_token_metrics.md
 tier: tale
 ---
 

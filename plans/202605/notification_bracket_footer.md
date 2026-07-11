@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-29 08:52:15
 status: done
-prompt: sdd/prompts/202605/notification_bracket_footer.md
+prompt: sdd/plans/202605/prompts/notification_bracket_footer.md
 tier: tale
 ---
 # Plan: Show Notification Tag Bracket Keymaps In Footer

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 18:26:18
 status: wip
-prompt: sdd/prompts/202605/sase_37_completion.md
+prompt: sdd/plans/202605/prompts/sase_37_completion.md
 tier: tale
 ---
 # sase-37 Completion Plan

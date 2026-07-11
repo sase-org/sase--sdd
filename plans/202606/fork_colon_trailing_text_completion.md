@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-25 09:51:37
 status: done
-prompt: sdd/prompts/202606/fork_colon_trailing_text_completion.md
+prompt: sdd/plans/202606/prompts/fork_colon_trailing_text_completion.md
 tier: tale
 ---
 # Plan: Open the `#fork:` agent-name menu even when text follows the colon

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-29 15:20:10
 status: done
-prompt: sdd/prompts/202603/fix_spec_feedback.md
+prompt: sdd/plans/202603/prompts/fix_spec_feedback.md
 tier: tale
 ---
 

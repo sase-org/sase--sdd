@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 01:06:50
 status: done
-prompt: sdd/prompts/202607/launch_preview_pdf.md
+prompt: sdd/plans/202607/prompts/launch_preview_pdf.md
 tier: tale
 ---
 # Plan: Beautiful, full-prompt launch-preview PDFs

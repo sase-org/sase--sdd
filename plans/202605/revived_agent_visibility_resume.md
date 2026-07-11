@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 13:14:28
 status: done
-prompt: sdd/prompts/202605/revived_agent_visibility_resume.md
+prompt: sdd/plans/202605/prompts/revived_agent_visibility_resume.md
 tier: tale
 ---
 # Plan: Stabilize Revived Agent Visibility and Resume Lookup

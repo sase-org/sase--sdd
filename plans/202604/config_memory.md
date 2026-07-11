@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-13 14:10:31
 status: done
-prompt: sdd/prompts/202604/config_memory.md
+prompt: sdd/plans/202604/prompts/config_memory.md
 tier: tale
 ---
 

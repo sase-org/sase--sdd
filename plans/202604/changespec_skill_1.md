@@ -2,7 +2,7 @@
 create_time: 2026-04-27 14:26:50
 status: done
 bead_id: sase-y
-prompt: sdd/prompts/202604/changespec_skill_1.md
+prompt: sdd/plans/202604/prompts/changespec_skill_1.md
 tier: epic
 ---
 # Plan: ChangeSpec Agent Skill

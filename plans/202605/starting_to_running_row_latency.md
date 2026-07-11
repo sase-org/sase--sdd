@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-21 13:52:48
 status: done
-prompt: sdd/prompts/202605/starting_to_running_row_latency.md
+prompt: sdd/plans/202605/prompts/starting_to_running_row_latency.md
 tier: tale
 ---
 # Promote STARTING agents to row entries soon after run_started_at lands

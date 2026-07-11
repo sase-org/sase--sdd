@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-26 15:48:41
 status: done
-prompt: sdd/prompts/202606/plugin_uninstall.md
+prompt: sdd/plans/202606/prompts/plugin_uninstall.md
 tier: tale
 ---
 # Plan: `sase plugin uninstall <plugin>`

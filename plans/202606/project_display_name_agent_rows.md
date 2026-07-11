@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-29 08:46:54
 status: done
-prompt: sdd/prompts/202606/project_display_name_agent_rows.md
+prompt: sdd/plans/202606/prompts/project_display_name_agent_rows.md
 tier: tale
 ---
 # Show `PROJECT_NAME` (not the directory key) on Agent Rows & the Agent Panel

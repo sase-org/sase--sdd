@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 13:46:29
 status: done
-prompt: sdd/prompts/202607/expand_help_panel.md
+prompt: sdd/plans/202607/prompts/expand_help_panel.md
 tier: tale
 ---
 # Expand the Help Panel to Use Nearly the Full TUI

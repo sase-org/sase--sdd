@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-22 15:27:52
 status: done
-prompt: sdd/prompts/202603/config_debuggability.md
+prompt: sdd/plans/202603/prompts/config_debuggability.md
 tier: tale
 ---
 

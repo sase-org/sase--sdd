@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-18 09:59:16
 status: done
-prompt: sdd/prompts/202606/agent_group_auto_add.md
+prompt: sdd/plans/202606/prompts/agent_group_auto_add.md
 tier: tale
 ---
 # Plan: Auto-Add Named Agents To Existing Groups

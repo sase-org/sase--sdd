@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-10 12:33:05
 status: done
-prompt: sdd/prompts/202605/stop_sign_marker.md
+prompt: sdd/plans/202605/prompts/stop_sign_marker.md
 tier: tale
 ---
 # Plan: Swap 🙋 → 🛑 For User-Paused (Stopped) Agent Rows

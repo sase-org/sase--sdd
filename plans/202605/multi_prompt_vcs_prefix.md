@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-04 16:29:59
 status: done
-prompt: sdd/prompts/202605/multi_prompt_vcs_prefix.md
+prompt: sdd/plans/202605/prompts/multi_prompt_vcs_prefix.md
 tier: tale
 ---
 # Plan: Preserve VCS Prefixes For Multi-Agent Markdown XPrompts

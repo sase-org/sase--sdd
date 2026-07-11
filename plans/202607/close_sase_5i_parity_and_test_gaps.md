@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 18:00:51
 status: done
-prompt: sdd/prompts/202607/close_sase_5i_parity_and_test_gaps.md
+prompt: sdd/plans/202607/prompts/close_sase_5i_parity_and_test_gaps.md
 tier: tale
 ---
 # Plan: Close Out Epic sase-5i — Fix vcs_ref Parity Divergence + Fill Phase 3 Test Gaps

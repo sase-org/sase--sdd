@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-29 19:01:43
 status: done
-prompt: sdd/prompts/202604/fix_rust_backend_test_suite.md
+prompt: sdd/plans/202604/prompts/fix_rust_backend_test_suite.md
 tier: tale
 ---
 # Plan: Fix Rust backend test-suite hermeticity

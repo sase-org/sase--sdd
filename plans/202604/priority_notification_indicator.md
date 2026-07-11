@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-25 22:56:24
 status: done
-prompt: sdd/prompts/202604/priority_notification_indicator.md
+prompt: sdd/plans/202604/prompts/priority_notification_indicator.md
 tier: tale
 ---
 # Priority-Aware Notification Indicator

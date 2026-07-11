@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-03 14:39:00
 status: wip
-prompt: sdd/prompts/202607/hermetic_resvg_visual_renderer.md
+prompt: sdd/plans/202607/prompts/hermetic_resvg_visual_renderer.md
 tier: tale
 ---
 # Unify Visual Snapshot Rendering Across CI and Local Machines (Hermetic resvg Renderer)

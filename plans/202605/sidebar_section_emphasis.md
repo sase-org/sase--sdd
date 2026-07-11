@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 19:34:48
 status: done
-prompt: sdd/prompts/202605/sidebar_section_emphasis.md
+prompt: sdd/plans/202605/prompts/sidebar_section_emphasis.md
 tier: tale
 ---
 # Sidebar Section Emphasis on sase.sh (Desktop Web)

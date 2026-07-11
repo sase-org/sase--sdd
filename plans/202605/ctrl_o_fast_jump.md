@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-23 16:11:33
 status: done
-prompt: sdd/prompts/202605/ctrl_o_fast_jump.md
+prompt: sdd/plans/202605/prompts/ctrl_o_fast_jump.md
 tier: tale
 ---
 # Ctrl+O Fast Jump Plan

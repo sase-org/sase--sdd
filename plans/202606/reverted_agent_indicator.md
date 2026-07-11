@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-21 09:49:17
 status: done
-prompt: sdd/prompts/202606/reverted_agent_indicator.md
+prompt: sdd/plans/202606/prompts/reverted_agent_indicator.md
 tier: tale
 ---
 # Plan: "Reverted" Indicator on Agent Rows (Agents Tab)

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-08 17:22:32
 status: wip
-prompt: sdd/prompts/202604/pyenv_shim_cleanup.md
+prompt: sdd/plans/202604/prompts/pyenv_shim_cleanup.md
 tier: tale
 ---
 

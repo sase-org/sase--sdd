@@ -3,7 +3,7 @@ create_time: 2026-05-23 14:09:23
 bead_id: sase-40
 tier: epic
 status: done
-prompt: sdd/prompts/202605/agents_sibling_keymap.md
+prompt: sdd/plans/202605/prompts/agents_sibling_keymap.md
 ---
 # Agents Tab `~` Sibling Navigation Plan
 

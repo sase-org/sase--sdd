@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-02 14:03:52
 status: done
-prompt: sdd/prompts/202604/resume_plan_done.md
+prompt: sdd/plans/202604/prompts/resume_plan_done.md
 tier: tale
 ---
 

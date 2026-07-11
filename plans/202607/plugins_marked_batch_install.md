@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 00:04:28
 status: done
-prompt: sdd/prompts/202607/plugins_marked_batch_install.md
+prompt: sdd/plans/202607/prompts/plugins_marked_batch_install.md
 tier: tale
 ---
 # Plan: Mark-and-Batch-Install Plugins in the Admin Center Updates Tab

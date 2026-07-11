@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-28 17:29:01
 status: done
-prompt: sdd/prompts/202603/yyyymm_sdd_dirs.md
+prompt: sdd/plans/202603/prompts/yyyymm_sdd_dirs.md
 tier: tale
 ---
 

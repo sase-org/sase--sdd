@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-01 22:06:28
 status: done
-prompt: sdd/prompts/202605/markdown_pdf_attachment_limit.md
+prompt: sdd/plans/202605/prompts/markdown_pdf_attachment_limit.md
 tier: tale
 ---
 # Plan: Limit Markdown PDF Attachments for Large Agent Edits

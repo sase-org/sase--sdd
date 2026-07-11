@@ -1,7 +1,7 @@
 ---
 bead_id: sase-1
 status: done
-prompt: sdd/prompts/202603/prompt_widget_improvements.md
+prompt: sdd/plans/202603/prompts/prompt_widget_improvements.md
 tier: epic
 create_time: '2026-07-08 16:10:05'
 ---

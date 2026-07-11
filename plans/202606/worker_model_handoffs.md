@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-10 09:22:21
 status: done
-prompt: sdd/prompts/202606/worker_model_handoffs.md
+prompt: sdd/plans/202606/prompts/worker_model_handoffs.md
 tier: tale
 ---
 # Plan: Route Plan-Implementation Handoffs Through the Worker Model Lane

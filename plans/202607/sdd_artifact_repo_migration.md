@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-09 03:10:56
 status: done
-prompt: .sase/sdd/prompts/202607/sdd_artifact_repo_migration.md
+prompt: .sase/sdd/plans/202607/prompts/sdd_artifact_repo_migration.md
 tier: tale
 ---
 # Plan: Move bob-cli and actstat SDD Artifacts to Companion Repos

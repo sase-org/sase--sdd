@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-09 15:40:17
 status: wip
-prompt: .sase/sdd/prompts/202607/remove_legends_myths.md
+prompt: .sase/sdd/plans/202607/prompts/remove_legends_myths.md
 tier: tale
 ---
 # Remove SDD Legend And Myth Support

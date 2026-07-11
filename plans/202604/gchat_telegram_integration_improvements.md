@@ -2,7 +2,7 @@
 create_time: 2026-04-27 12:44:30
 status: done
 bead_id: sase-x
-prompt: sdd/prompts/202604/gchat_telegram_integration_improvements.md
+prompt: sdd/plans/202604/prompts/gchat_telegram_integration_improvements.md
 tier: epic
 ---
 # retired chat plugin and sase-telegram Integration Improvement Plan

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-31 12:09:53
 status: done
-prompt: sdd/prompts/202605/remove_long_memory_subheading.md
+prompt: sdd/plans/202605/prompts/remove_long_memory_subheading.md
 tier: tale
 ---
 # Plan: Remove Generated Long-Memory Subheading

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 21:02:48
 status: done
-prompt: sdd/prompts/202606/double_dash_agent_family_separator.md
+prompt: sdd/plans/202606/prompts/double_dash_agent_family_separator.md
 tier: tale
 ---
 # Plan: Double-Dash Agent Family Separator

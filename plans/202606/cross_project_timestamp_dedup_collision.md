@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-08 07:43:13
 status: done
-prompt: sdd/prompts/202606/cross_project_timestamp_dedup_collision.md
+prompt: sdd/plans/202606/prompts/cross_project_timestamp_dedup_collision.md
 tier: tale
 ---
 # Fix: running coder shows `TALE DONE` due to cross-project artifact-timestamp dedup collision

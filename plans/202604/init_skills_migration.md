@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-11 21:20:44
 status: done
-prompt: sdd/prompts/202604/init_skills_migration.md
+prompt: sdd/plans/202604/prompts/init_skills_migration.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 20:52:33
 status: done
-prompt: sdd/prompts/202607/zoom_panel_file_list.md
+prompt: sdd/plans/202607/prompts/zoom_panel_file_list.md
 tier: tale
 ---
 # Plan: Zoom Panel File List — Freeze, Clarify, and Beautify

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-24 13:26:48
 status: done
-prompt: sdd/prompts/202606/swap_stash_panel_space_tab.md
+prompt: sdd/plans/202606/prompts/swap_stash_panel_space_tab.md
 tier: tale
 ---
 # Plan: Swap `<space>` and `<tab>` keymaps on the prompt stash panel

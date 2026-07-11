@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-22 10:46:09
 status: done
-prompt: sdd/prompts/202605/telegram_launch_buttons.md
+prompt: sdd/plans/202605/prompts/telegram_launch_buttons.md
 tier: tale
 ---
 # Plan: Restore Telegram Launch Buttons

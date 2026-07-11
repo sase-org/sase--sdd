@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-06 16:24:02
 status: done
-prompt: sdd/prompts/202606/hide_unpublished_blog_posts.md
+prompt: sdd/plans/202606/prompts/hide_unpublished_blog_posts.md
 tier: tale
 ---
 # Hide Unpublished Blog Posts From the Public Site

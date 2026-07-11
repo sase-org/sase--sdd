@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-23 14:43:55
 status: done
-prompt: sdd/prompts/202606/directive_value_fanout.md
+prompt: sdd/plans/202606/prompts/directive_value_fanout.md
 tier: tale
 ---
 # Plan: Directive-Value Fan-Out (`%directive:%{a | b | c}`)

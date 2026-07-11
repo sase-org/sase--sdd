@@ -2,7 +2,7 @@
 create_time: 2026-04-27 12:15:44
 status: done
 bead_id: sase-w
-prompt: sdd/prompts/202604/tui_perf_overhaul_1.md
+prompt: sdd/plans/202604/prompts/tui_perf_overhaul_1.md
 tier: epic
 ---
 # Plan: TUI (`sase ace`) Performance Overhaul

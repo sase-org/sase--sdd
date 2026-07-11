@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-29 07:31:20
 status: done
-prompt: sdd/prompts/202605/artifact_panel_relative_path.md
+prompt: sdd/plans/202605/prompts/artifact_panel_relative_path.md
 tier: tale
 ---
 # Plan: Artifact Panel `Y` Copies Repo-Relative Paths

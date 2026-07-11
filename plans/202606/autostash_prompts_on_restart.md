@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-29 06:58:00
 status: done
-prompt: sdd/prompts/202606/autostash_prompts_on_restart.md
+prompt: sdd/plans/202606/prompts/autostash_prompts_on_restart.md
 tier: tale
 ---
 # Plan: Auto-stash prompt drafts before a TUI restart

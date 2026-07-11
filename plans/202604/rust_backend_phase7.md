@@ -2,7 +2,7 @@
 create_time: 2026-04-29 17:52:06
 status: done
 bead_id: sase-1e
-prompt: sdd/prompts/202604/rust_backend_phase7.md
+prompt: sdd/plans/202604/prompts/rust_backend_phase7.md
 tier: epic
 ---
 

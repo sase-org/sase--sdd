@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 11:05:40
 status: done
-prompt: sdd/prompts/202605/plan_step_runtime_1.md
+prompt: sdd/plans/202605/prompts/plan_step_runtime_1.md
 tier: tale
 ---
 # Fix Plan-Step Runtime Display

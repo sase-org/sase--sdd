@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 23:57:52
 status: done
-prompt: sdd/prompts/202605/dismiss_agent_completion_notifications_on_read.md
+prompt: sdd/plans/202605/prompts/dismiss_agent_completion_notifications_on_read.md
 tier: tale
 ---
 # Plan: Dismiss Agent Completion Notifications When Agents Become Read

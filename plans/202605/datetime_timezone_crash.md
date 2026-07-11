@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-01 02:46:16
 status: done
-prompt: sdd/prompts/202605/datetime_timezone_crash.md
+prompt: sdd/plans/202605/prompts/datetime_timezone_crash.md
 tier: tale
 ---
 # Datetime Timezone Crash Plan

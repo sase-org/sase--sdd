@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 02:46:34
 status: done
-prompt: sdd/prompts/202607/sase_5j_finish.md
+prompt: sdd/plans/202607/prompts/sase_5j_finish.md
 tier: tale
 ---
 # Plan: Finish sase-5j — close remaining gaps in the Separate-SDD-Repo epic

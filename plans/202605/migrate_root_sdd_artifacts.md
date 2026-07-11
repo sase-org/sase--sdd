@@ -1,7 +1,7 @@
 ---
 status: done
 create_time: 2026-05-01 23:21:01
-prompt: sdd/prompts/202605/migrate_root_sdd_artifacts.md
+prompt: sdd/plans/202605/prompts/migrate_root_sdd_artifacts.md
 tier: tale
 ---
 

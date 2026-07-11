@@ -4,7 +4,7 @@ description: Migrate flat sdd/research/ markdown files into sdd/research/YYYYMM/
   subdirs, mirroring the structure of specs/ and plans/.
 create_time: 2026-04-28 12:50:33
 status: done
-prompt: sdd/prompts/202604/research_yyyymm_migration.md
+prompt: sdd/plans/202604/prompts/research_yyyymm_migration.md
 tier: tale
 ---
 

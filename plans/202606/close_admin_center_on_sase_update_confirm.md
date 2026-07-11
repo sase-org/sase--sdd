@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-29 07:17:36
 status: done
-prompt: sdd/prompts/202606/close_admin_center_on_sase_update_confirm.md
+prompt: sdd/plans/202606/prompts/close_admin_center_on_sase_update_confirm.md
 tier: tale
 ---
 # Close Admin Center After Full SASE Update Confirmation

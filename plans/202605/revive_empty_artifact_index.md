@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 21:11:46
 status: done
-prompt: sdd/prompts/202605/revive_empty_artifact_index.md
+prompt: sdd/plans/202605/prompts/revive_empty_artifact_index.md
 tier: tale
 ---
 # Plan: Fix Revive Visibility When the Artifact Index Is Empty/Stale

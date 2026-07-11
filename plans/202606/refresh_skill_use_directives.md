@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-15 16:41:12
 status: wip
-prompt: sdd/prompts/202606/refresh_skill_use_directives.md
+prompt: sdd/plans/202606/prompts/refresh_skill_use_directives.md
 tier: tale
 ---
 # Plan: Refresh Generated Skill Use Directives

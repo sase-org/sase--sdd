@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 21:43:39
 status: done
-prompt: sdd/prompts/202605/artifacts_keymap.md
+prompt: sdd/plans/202605/prompts/artifacts_keymap.md
 bead_id: sase-2c
 tier: epic
 ---

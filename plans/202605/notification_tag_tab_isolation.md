@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-24 09:46:10
 status: done
-prompt: sdd/prompts/202605/notification_tag_tab_isolation.md
+prompt: sdd/plans/202605/prompts/notification_tag_tab_isolation.md
 tier: tale
 ---
 # Notification Tag Tab Isolation Plan

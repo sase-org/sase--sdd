@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 17:09:50
 status: done
-prompt: sdd/prompts/202605/unread_plan_done_jump.md
+prompt: sdd/plans/202605/prompts/unread_plan_done_jump.md
 tier: tale
 ---
 # Fix unread-agent jump for PLAN DONE terminal statuses

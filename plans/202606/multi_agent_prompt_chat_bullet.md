@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-27 16:00:21
 status: done
-prompt: sdd/prompts/202606/multi_agent_prompt_chat_bullet.md
+prompt: sdd/plans/202606/prompts/multi_agent_prompt_chat_bullet.md
 tier: tale
 ---
 # Plan: Add a "multi-agent prompt file" bullet to agent chat transcripts

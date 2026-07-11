@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 21:11:20
 status: done
-prompt: .sase/sdd/prompts/202607/automate_sdd_companion_repo.md
+prompt: .sase/sdd/plans/202607/prompts/automate_sdd_companion_repo.md
 tier: tale
 ---
 # Plan: Automate creation of the `<project>--sdd` GitHub companion repository

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-29 10:03:33
 status: wip
-prompt: sdd/prompts/202603/makefile_to_justfile_1.md
+prompt: sdd/plans/202603/prompts/makefile_to_justfile_1.md
 tier: tale
 ---
 

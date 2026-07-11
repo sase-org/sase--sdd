@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 14:13:33
 status: wip
-prompt: .sase/sdd/prompts/202607/replace_stale_workspace_sdd_clone.md
+prompt: .sase/sdd/plans/202607/prompts/replace_stale_workspace_sdd_clone.md
 tier: tale
 ---
 # Plan: Fix plan-chain SDD crash by replacing a stale workspace SDD _clone_ (not just linking when absent)

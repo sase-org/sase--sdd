@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-28 10:03:13
 status: wip
-prompt: sdd/prompts/202605/xprompt_lsp_install.md
+prompt: sdd/plans/202605/prompts/xprompt_lsp_install.md
 tier: tale
 ---
 # Plan: Install Fresh `sase-xprompt-lsp` During Local SASE Updates

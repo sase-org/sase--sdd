@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-08 21:08:05
 status: done
-prompt: sdd/prompts/202604/mentor_checks_digest_20260408_210034.md
+prompt: sdd/plans/202604/prompts/mentor_checks_digest_20260408_210034.md
 tier: tale
 ---
 

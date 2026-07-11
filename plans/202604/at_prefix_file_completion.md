@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-01 14:12:22
 status: done
-prompt: sdd/prompts/202604/at_prefix_file_completion.md
+prompt: sdd/plans/202604/prompts/at_prefix_file_completion.md
 tier: tale
 ---
 

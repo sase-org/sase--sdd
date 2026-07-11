@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-21 15:06:07
 status: done
-prompt: sdd/prompts/202605/bulk_dismiss_speedup_and_toast.md
+prompt: sdd/plans/202605/prompts/bulk_dismiss_speedup_and_toast.md
 tier: tale
 ---
 # Bulk-Dismiss Speedup + Toast Reliability

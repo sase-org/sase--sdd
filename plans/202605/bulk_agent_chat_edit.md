@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-23 11:45:29
 status: done
-prompt: sdd/prompts/202605/bulk_agent_chat_edit.md
+prompt: sdd/plans/202605/prompts/bulk_agent_chat_edit.md
 tier: tale
 ---
 # Bulk Edit Marked Agent Chats

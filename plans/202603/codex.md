@@ -1,7 +1,7 @@
 ---
 status: done
 bead_id: sase-511j
-prompt: sdd/prompts/202603/codex.md
+prompt: sdd/plans/202603/prompts/codex.md
 tier: epic
 create_time: '2026-07-08 16:10:05'
 ---

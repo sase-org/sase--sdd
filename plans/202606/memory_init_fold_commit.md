@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-28 08:38:11
 status: wip
-prompt: sdd/prompts/202606/memory_init_fold_commit.md
+prompt: sdd/plans/202606/prompts/memory_init_fold_commit.md
 tier: tale
 ---
 # Plan: Fold uncommitted `memory/` edits into the `sase memory init` commit

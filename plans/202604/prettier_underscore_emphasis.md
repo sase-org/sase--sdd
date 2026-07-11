@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-12 23:08:18
 status: done
-prompt: sdd/prompts/202604/prettier_underscore_emphasis.md
+prompt: sdd/plans/202604/prompts/prettier_underscore_emphasis.md
 tier: tale
 ---
 

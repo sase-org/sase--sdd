@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-20 00:00:28
 status: done
-prompt: sdd/prompts/202606/completion_directives_skills.md
+prompt: sdd/plans/202606/prompts/completion_directives_skills.md
 tier: tale
 ---
 # Auto Completion for Directives and XPrompt Skills

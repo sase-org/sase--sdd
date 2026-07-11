@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-09 16:00:03
 status: draft
-prompt: sdd/prompts/202604/commit_type_aliases.md
+prompt: sdd/plans/202604/prompts/commit_type_aliases.md
 tier: tale
 ---
 

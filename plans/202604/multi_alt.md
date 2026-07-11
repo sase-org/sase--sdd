@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-13 12:22:40
 status: done
-prompt: sdd/prompts/202604/multi_alt.md
+prompt: sdd/plans/202604/prompts/multi_alt.md
 tier: tale
 ---
 

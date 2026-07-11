@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-23 15:39:59
 status: done
-prompt: sdd/prompts/202605/agents_back_jump_sources.md
+prompt: sdd/plans/202605/prompts/agents_back_jump_sources.md
 tier: tale
 ---
 # Agents Back-Jump Sources Plan

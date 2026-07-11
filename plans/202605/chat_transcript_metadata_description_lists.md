@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-28 09:24:04
 status: done
-prompt: sdd/prompts/202605/chat_transcript_metadata_description_lists.md
+prompt: sdd/plans/202605/prompts/chat_transcript_metadata_description_lists.md
 tier: tale
 ---
 # Chat Transcript Metadata Description Lists Plan

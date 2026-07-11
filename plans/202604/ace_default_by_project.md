@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-29 11:44:59
 status: done
-prompt: sdd/prompts/202604/ace_default_by_project.md
+prompt: sdd/plans/202604/prompts/ace_default_by_project.md
 tier: tale
 ---
 # Plan: Default ACE Grouping to By Project on Startup

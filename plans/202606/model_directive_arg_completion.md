@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-24 16:56:54
 status: done
-prompt: sdd/prompts/202606/model_directive_arg_completion.md
+prompt: sdd/plans/202606/prompts/model_directive_arg_completion.md
 tier: tale
 ---
 # Plan: Auto-completion for the `%model` / `%m` directive's argument values

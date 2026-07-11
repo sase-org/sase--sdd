@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-05 22:14:50
 status: done
-prompt: sdd/prompts/202605/legend_epic_agent_tags.md
+prompt: sdd/plans/202605/prompts/legend_epic_agent_tags.md
 tier: tale
 ---
 # Plan: Legend-Aware Epic Work Agent Tags

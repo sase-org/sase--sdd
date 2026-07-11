@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-06 10:02:01
 status: done
-prompt: sdd/prompts/202606/home_provider_shim_refs.md
+prompt: sdd/plans/202606/prompts/home_provider_shim_refs.md
 tier: tale
 ---
 # Plan: Make Home Provider Shims Load Home AGENTS.md

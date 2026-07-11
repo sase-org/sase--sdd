@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-23 15:29:00
 status: done
-prompt: sdd/prompts/202604/ace_loading_indicators.md
+prompt: sdd/plans/202604/prompts/ace_loading_indicators.md
 tier: tale
 ---
 

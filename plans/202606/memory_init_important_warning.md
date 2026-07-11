@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-20 15:14:56
 status: done
-prompt: sdd/prompts/202606/memory_init_important_warning.md
+prompt: sdd/plans/202606/prompts/memory_init_important_warning.md
 tier: tale
 ---
 # Plan: Generate the SASE Plan Warning in `memory/sase.md`

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-01 16:37:24
 status: done
-prompt: sdd/prompts/202605/rust_core_memory.md
+prompt: sdd/plans/202605/prompts/rust_core_memory.md
 tier: tale
 ---
 # Plan: Short-Term Memory for Rust Core Backend Boundary

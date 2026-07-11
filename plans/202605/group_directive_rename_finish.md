@@ -1,5 +1,5 @@
 ---
-prompt: sdd/prompts/202605/group_directive_rename_finish.md
+prompt: sdd/plans/202605/prompts/group_directive_rename_finish.md
 create_time: 2026-05-10 11:34:25
 status: done
 tier: tale

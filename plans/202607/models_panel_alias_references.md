@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 12:55:27
 status: done
-prompt: .sase/sdd/prompts/202607/models_panel_alias_references.md
+prompt: .sase/sdd/plans/202607/prompts/models_panel_alias_references.md
 tier: tale
 ---
 # Models Panel: Surface Alias-to-Alias References

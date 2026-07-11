@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-14 22:21:47
 status: done
-prompt: sdd/prompts/202605/async_agent_query_content_search.md
+prompt: sdd/plans/202605/prompts/async_agent_query_content_search.md
 tier: tale
 ---
 # Async Agent-Query Content Search Plan

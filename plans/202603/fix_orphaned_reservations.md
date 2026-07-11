@@ -1,7 +1,7 @@
 ---
 status: done
 create_time: 2026-03-30 18:52:52
-prompt: sdd/prompts/202603/fix_orphaned_reservations.md
+prompt: sdd/plans/202603/prompts/fix_orphaned_reservations.md
 tier: tale
 ---
 

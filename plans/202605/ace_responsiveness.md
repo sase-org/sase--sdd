@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-15 01:06:54
 status: done
-prompt: sdd/prompts/202605/ace_responsiveness.md
+prompt: sdd/plans/202605/prompts/ace_responsiveness.md
 bead_id: sase-3l
 tier: epic
 ---

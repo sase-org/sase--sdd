@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-08 02:06:26
 status: done
-prompt: sdd/prompts/202604/dashboard_charts.md
+prompt: sdd/plans/202604/prompts/dashboard_charts.md
 tier: tale
 ---
 

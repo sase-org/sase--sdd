@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-13 12:49:32
 status: done
-prompt: sdd/prompts/202606/worker_models_mapping.md
+prompt: sdd/plans/202606/prompts/worker_models_mapping.md
 tier: tale
 ---
 # Worker Models Mapping

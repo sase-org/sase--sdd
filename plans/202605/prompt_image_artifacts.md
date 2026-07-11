@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 04:05:45
 status: done
-prompt: sdd/prompts/202605/prompt_image_artifacts.md
+prompt: sdd/plans/202605/prompts/prompt_image_artifacts.md
 tier: tale
 ---
 # Plan: Prompt Image References as Agent Artifacts

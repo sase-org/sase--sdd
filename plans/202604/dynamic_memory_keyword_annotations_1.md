@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-13 16:15:42
 status: done
-prompt: sdd/prompts/202604/dynamic_memory_keyword_annotations_1.md
+prompt: sdd/plans/202604/prompts/dynamic_memory_keyword_annotations_1.md
 tier: tale
 ---
 

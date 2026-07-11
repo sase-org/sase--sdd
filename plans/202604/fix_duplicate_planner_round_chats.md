@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-17 17:10:01
 status: done
-prompt: sdd/prompts/202604/fix_duplicate_planner_round_chats.md
+prompt: sdd/plans/202604/prompts/fix_duplicate_planner_round_chats.md
 tier: tale
 ---
 

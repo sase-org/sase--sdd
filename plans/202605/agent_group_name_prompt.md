@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-28 07:19:26
 status: done
-prompt: sdd/prompts/202605/agent_group_name_prompt.md
+prompt: sdd/plans/202605/prompts/agent_group_name_prompt.md
 tier: tale
 ---
 # Prompt for Optional Saved Agent Group Names

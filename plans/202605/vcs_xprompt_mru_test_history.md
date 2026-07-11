@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 21:06:57
 status: done
-prompt: sdd/prompts/202605/vcs_xprompt_mru_test_history.md
+prompt: sdd/plans/202605/prompts/vcs_xprompt_mru_test_history.md
 tier: tale
 ---
 # Stop VCS XPrompt MRU Test Writes From Polluting User History

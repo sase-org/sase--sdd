@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-30 01:37:52
 status: done
-prompt: sdd/prompts/202604/codex_shadow_home_auth.md
+prompt: sdd/plans/202604/prompts/codex_shadow_home_auth.md
 tier: tale
 ---
 # Plan: Fix Codex Auth Loss From Nested Shadow Homes

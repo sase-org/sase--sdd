@@ -1,7 +1,7 @@
 ---
 bead_id: sase-our6
 status: done
-prompt: sdd/prompts/202603/unified_agent_entries.md
+prompt: sdd/plans/202603/prompts/unified_agent_entries.md
 tier: epic
 create_time: '2026-07-08 16:10:05'
 ---

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 18:54:55
 status: wip
-prompt: sdd/prompts/202605/finish_sase_38.md
+prompt: sdd/plans/202605/prompts/finish_sase_38.md
 tier: tale
 ---
 # Finish sase-38 Verification And Closure

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-05 10:00:59
 status: done
-prompt: sdd/prompts/202605/wait_all_epic_phase_agents.md
+prompt: sdd/plans/202605/prompts/wait_all_epic_phase_agents.md
 tier: tale
 ---
 # Wait for All Epic Phase Agents

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-23 17:57:28
 status: done
-prompt: sdd/prompts/202606/surround_doubled_delimiters.md
+prompt: sdd/plans/202606/prompts/surround_doubled_delimiters.md
 tier: tale
 ---
 # Fix doubled same-character surround delimiters

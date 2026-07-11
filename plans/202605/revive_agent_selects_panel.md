@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 18:16:18
 status: done
-prompt: sdd/prompts/202605/revive_agent_selects_panel.md
+prompt: sdd/plans/202605/prompts/revive_agent_selects_panel.md
 tier: tale
 ---
 # Plan: Select Revived Agents Across Agent Panels

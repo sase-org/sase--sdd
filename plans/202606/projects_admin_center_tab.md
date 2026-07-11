@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-26 12:51:36
 status: done
-prompt: sdd/prompts/202606/projects_admin_center_tab.md
+prompt: sdd/plans/202606/prompts/projects_admin_center_tab.md
 bead_id: sase-5a
 tier: epic
 ---

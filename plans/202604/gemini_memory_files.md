@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-13 18:59:53
 status: wip
-prompt: sdd/prompts/202604/gemini_memory_files.md
+prompt: sdd/plans/202604/prompts/gemini_memory_files.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-18 09:05:09
 status: done
-prompt: sdd/prompts/202606/prompt_stash_bundles_1.md
+prompt: sdd/plans/202606/prompts/prompt_stash_bundles_1.md
 tier: tale
 ---
 # Prompt Stash Bundles Plan

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 15:24:58
 status: done
-prompt: sdd/prompts/202605/xprompt_lsp_definition_e2e_fix.md
+prompt: sdd/plans/202605/prompts/xprompt_lsp_definition_e2e_fix.md
 tier: tale
 ---
 # Plan: Fix XPrompt LSP Jump To Definition End To End

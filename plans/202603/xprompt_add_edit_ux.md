@@ -1,7 +1,7 @@
 ---
 bead_id: sase-5
 status: done
-prompt: sdd/prompts/202603/xprompt_add_edit_ux.md
+prompt: sdd/plans/202603/prompts/xprompt_add_edit_ux.md
 tier: epic
 create_time: '2026-07-08 16:10:05'
 ---

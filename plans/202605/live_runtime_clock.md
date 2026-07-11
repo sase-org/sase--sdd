@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-06 12:58:30
 status: done
-prompt: sdd/prompts/202605/live_runtime_clock.md
+prompt: sdd/plans/202605/prompts/live_runtime_clock.md
 tier: tale
 ---
 # Live Runtime Clock Marker Plan

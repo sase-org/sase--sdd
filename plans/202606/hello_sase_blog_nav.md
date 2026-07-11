@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-13 16:09:56
 status: done
-prompt: sdd/prompts/202606/hello_sase_blog_nav.md
+prompt: sdd/plans/202606/prompts/hello_sase_blog_nav.md
 tier: tale
 ---
 # Plan: Move [01] Hello, SASE Back Under Blog Navigation

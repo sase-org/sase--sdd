@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-25 07:01:12
 status: done
-prompt: sdd/prompts/202606/agent_detail_header_offthread_diff.md
+prompt: sdd/plans/202606/prompts/agent_detail_header_offthread_diff.md
 tier: tale
 ---
 # Plan: Move agent detail-header live diff off the Textual event loop

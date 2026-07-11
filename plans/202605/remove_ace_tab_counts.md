@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-10 01:04:55
 status: wip
-prompt: sdd/prompts/202605/remove_ace_tab_counts.md
+prompt: sdd/plans/202605/prompts/remove_ace_tab_counts.md
 tier: tale
 ---
 # Remove ACE TUI Tab Title Counts

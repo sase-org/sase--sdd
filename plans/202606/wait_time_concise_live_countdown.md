@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-29 10:30:07
 status: done
-prompt: sdd/prompts/202606/wait_time_concise_live_countdown.md
+prompt: sdd/plans/202606/prompts/wait_time_concise_live_countdown.md
 tier: tale
 ---
 # Concise, live countdown for time-floored `%wait` agents

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-24 13:13:42
 status: done
-prompt: sdd/prompts/202605/agent_machine_commit_tags.md
+prompt: sdd/plans/202605/prompts/agent_machine_commit_tags.md
 tier: tale
 ---
 # Plan: Add Agent and Machine Commit Tags

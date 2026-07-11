@@ -1,7 +1,7 @@
 ---
 status: done
 bead_id: sase-owpf
-prompt: sdd/prompts/202603/sase_plan.md
+prompt: sdd/plans/202603/prompts/sase_plan.md
 tier: epic
 create_time: '2026-07-08 16:10:05'
 ---

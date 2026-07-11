@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 15:41:23
 status: done
-prompt: sdd/prompts/202605/exclude_pdf_artifacts.md
+prompt: sdd/plans/202605/prompts/exclude_pdf_artifacts.md
 tier: tale
 ---
 # Plan: Exclude PDFs from Agents-Tab ARTIFACTS Field

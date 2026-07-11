@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-06 17:23:09
 status: done
-prompt: sdd/prompts/202605/agents_panel_first_selection.md
+prompt: sdd/plans/202605/prompts/agents_panel_first_selection.md
 tier: tale
 ---
 # Plan: Agents Panel J/K First Selection

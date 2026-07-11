@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-22 10:55:24
 status: done
-prompt: sdd/prompts/202605/just_fmt_check_prettier_pin.md
+prompt: sdd/plans/202605/prompts/just_fmt_check_prettier_pin.md
 tier: tale
 ---
 # Plan: Stabilize `_just_fmt_check`

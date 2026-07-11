@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-14 21:44:39
 status: done
-prompt: sdd/prompts/202605/async_load_agents_migration.md
+prompt: sdd/plans/202605/prompts/async_load_agents_migration.md
 tier: tale
 ---
 # Plan: Migrate synchronous `_load_agents()` call sites to async

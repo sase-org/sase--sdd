@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-21 09:57:52
 status: done
-prompt: sdd/prompts/202605/agents_tab_full_refresh_elimination.md
+prompt: sdd/plans/202605/prompts/agents_tab_full_refresh_elimination.md
 bead_id: sase-3t
 tier: epic
 ---

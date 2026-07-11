@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-27 15:51:52
 status: done
-prompt: sdd/prompts/202603/gate_plan_copy_on_vc.md
+prompt: sdd/plans/202603/prompts/gate_plan_copy_on_vc.md
 tier: tale
 ---
 

@@ -2,7 +2,7 @@
 create_time: 2026-04-26 03:29:58
 status: done
 bead_id: sase-v
-prompt: sdd/prompts/202604/agents_tab_query_filters.md
+prompt: sdd/plans/202604/prompts/agents_tab_query_filters.md
 tier: epic
 ---
 # Agents Tab — Structured Query Filters

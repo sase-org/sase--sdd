@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-14 11:43:32
 status: done
-prompt: sdd/prompts/202606/agent_context_memory_skills_panel.md
+prompt: sdd/plans/202606/prompts/agent_context_memory_skills_panel.md
 tier: tale
 ---
 # Plan: "AGENT CONTEXT" metadata panel section (MEMORY + SKILLS)

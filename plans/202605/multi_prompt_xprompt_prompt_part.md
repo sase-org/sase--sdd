@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-04 17:13:47
 status: done
-prompt: sdd/prompts/202605/multi_prompt_xprompt_prompt_part.md
+prompt: sdd/plans/202605/prompts/multi_prompt_xprompt_prompt_part.md
 tier: tale
 ---
 # Plan: Treat Multi-Prompt XPrompts As Embeddable Prompt Parts

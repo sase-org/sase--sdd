@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-29 16:51:54
 status: done
-prompt: sdd/prompts/202603/pin_agents.md
+prompt: sdd/plans/202603/prompts/pin_agents.md
 tier: tale
 ---
 

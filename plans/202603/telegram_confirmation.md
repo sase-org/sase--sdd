@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-25 15:53:45
 status: wip
-prompt: sdd/prompts/202603/telegram_confirmation.md
+prompt: sdd/plans/202603/prompts/telegram_confirmation.md
 tier: tale
 ---
 

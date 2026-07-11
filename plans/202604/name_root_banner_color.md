@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-25 18:00:00
 status: draft
-prompt: sdd/prompts/202604/name_root_banner_color.md
+prompt: sdd/plans/202604/prompts/name_root_banner_color.md
 tier: tale
 ---
 

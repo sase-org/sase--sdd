@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 17:49:34
 status: done
-prompt: sdd/prompts/202607/telegram_update_core.md
+prompt: sdd/plans/202607/prompts/telegram_update_core.md
 tier: tale
 ---
 # Fix Telegram `/update` Missing `sase-core` Dev Checkout Updates

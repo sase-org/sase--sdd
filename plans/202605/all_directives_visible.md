@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 22:43:16
 status: wip
-prompt: sdd/prompts/202605/all_directives_visible.md
+prompt: sdd/plans/202605/prompts/all_directives_visible.md
 tier: tale
 ---
 # Make directive completion show every directive

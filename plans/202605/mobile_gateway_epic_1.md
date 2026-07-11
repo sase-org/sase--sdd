@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-06 10:02:06
 status: done
-prompt: sdd/prompts/202605/mobile_gateway_epic_1.md
+prompt: sdd/plans/202605/prompts/mobile_gateway_epic_1.md
 bead_id: sase-26.1
 tier: epic
 legend_bead_id: sase-26

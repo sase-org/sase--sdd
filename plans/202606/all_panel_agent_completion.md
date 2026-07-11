@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-25 08:34:09
 status: done
-prompt: sdd/prompts/202606/all_panel_agent_completion.md
+prompt: sdd/plans/202606/prompts/all_panel_agent_completion.md
 tier: tale
 ---
 # Plan: Source `#fork` / `%wait` agent-name completion from ALL visible Agents-tab panels

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-13 19:28:08
 status: done
-prompt: sdd/prompts/202605/retry_agent_skill.md
+prompt: sdd/plans/202605/prompts/retry_agent_skill.md
 tier: tale
 ---
 # Plan: Teach `/sase_agents_status` How to Retry Agents

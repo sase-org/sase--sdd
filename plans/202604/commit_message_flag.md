@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-09 15:35:50
 status: done
-prompt: sdd/prompts/202604/commit_message_flag.md
+prompt: sdd/plans/202604/prompts/commit_message_flag.md
 tier: tale
 ---
 

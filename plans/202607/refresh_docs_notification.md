@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-09 12:46:20
 status: done
-prompt: .sase/sdd/prompts/202607/refresh_docs_notification.md
+prompt: .sase/sdd/plans/202607/prompts/refresh_docs_notification.md
 tier: tale
 ---
 # Plan: Stop the redundant `refresh_docs` chop completion notification

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 15:52:14
 status: done
-prompt: sdd/prompts/202607/epic_work_auto_tale.md
+prompt: sdd/plans/202607/prompts/epic_work_auto_tale.md
 tier: tale
 ---
 # Epic Work `%auto:tale` Plan

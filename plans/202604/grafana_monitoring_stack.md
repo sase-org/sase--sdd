@@ -2,7 +2,7 @@
 create_time: 2026-04-08 01:05:07
 status: done
 bead_id: sase-f
-prompt: sdd/prompts/202604/grafana_monitoring_stack.md
+prompt: sdd/plans/202604/prompts/grafana_monitoring_stack.md
 tier: epic
 ---
 

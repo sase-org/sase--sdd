@@ -2,7 +2,7 @@
 create_time: 2026-04-30 11:58:25
 status: done
 bead_id: sase-1k
-prompt: sdd/prompts/202604/changes_commands.md
+prompt: sdd/plans/202604/prompts/changes_commands.md
 tier: epic
 ---
 # ChangeSpec Copy Commands Plan

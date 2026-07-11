@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-23 17:23:26
 status: done
-prompt: sdd/prompts/202606/agent_commit_messages_panel.md
+prompt: sdd/plans/202606/prompts/agent_commit_messages_panel.md
 tier: tale
 ---
 # Plan: Show all of an agent's commit messages (primary + linked repos) in the Agents-tab metadata panel

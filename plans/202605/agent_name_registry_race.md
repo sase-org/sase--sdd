@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 22:02:25
 status: done
-prompt: sdd/prompts/202605/agent_name_registry_race.md
+prompt: sdd/plans/202605/prompts/agent_name_registry_race.md
 tier: tale
 ---
 # Plan: Fix concurrent agent-name registry writes

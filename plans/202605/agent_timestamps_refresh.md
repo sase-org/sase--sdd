@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-21 09:13:15
 status: done
-prompt: sdd/prompts/202605/agent_timestamps_refresh.md
+prompt: sdd/plans/202605/prompts/agent_timestamps_refresh.md
 tier: tale
 ---
 # Fix Agents Tab Timestamp Loss on Refresh

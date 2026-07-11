@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-24 09:13:48
 status: done
-prompt: sdd/prompts/202604/telegram_xprompts_command.md
+prompt: sdd/plans/202604/prompts/telegram_xprompts_command.md
 tier: tale
 ---
 # Telegram `/xprompts` Command — sase-telegram Wiring

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-20 17:27:50
 status: done
-prompt: sdd/prompts/202606/sase_51_closeout.md
+prompt: sdd/plans/202606/prompts/sase_51_closeout.md
 tier: tale
 ---
 # SASE-51 Closeout Verification Plan

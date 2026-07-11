@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-06 14:32:18
 status: done
-prompt: sdd/prompts/202607/sase_ace_demo_video.md
+prompt: sdd/plans/202607/prompts/sase_ace_demo_video.md
 tier: tale
 ---
 # Plan: First SASE Demo Video (VHS) — ACE Prompt Input Widget

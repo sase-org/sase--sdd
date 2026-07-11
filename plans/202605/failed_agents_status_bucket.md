@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-01 13:49:37
 status: done
-prompt: sdd/prompts/202605/failed_agents_status_bucket.md
+prompt: sdd/plans/202605/prompts/failed_agents_status_bucket.md
 tier: tale
 ---
 # Plan: Separate Failed Agents From Needs Attention

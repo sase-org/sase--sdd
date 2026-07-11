@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-24 06:46:34
 status: done
-prompt: sdd/prompts/202606/decouple_kill_dismiss_from_agents_tab.md
+prompt: sdd/plans/202606/prompts/decouple_kill_dismiss_from_agents_tab.md
 tier: tale
 ---
 # Plan: Stop kill/dismiss cleanup from blocking Agents-tab updates

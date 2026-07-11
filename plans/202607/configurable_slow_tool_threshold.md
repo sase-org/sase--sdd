@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 21:12:18
 status: done
-prompt: sdd/prompts/202607/configurable_slow_tool_threshold.md
+prompt: sdd/plans/202607/prompts/configurable_slow_tool_threshold.md
 tier: tale
 ---
 # Configurable ACE Slow Tool-Call Threshold

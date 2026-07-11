@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-25 17:47:33
 status: wip
-prompt: sdd/prompts/202604/suppress_singleton_name_root_banner.md
+prompt: sdd/plans/202604/prompts/suppress_singleton_name_root_banner.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-23 18:09:15
 status: done
-prompt: sdd/prompts/202606/sharded_prompt_history.md
+prompt: sdd/plans/202606/prompts/sharded_prompt_history.md
 tier: tale
 ---
 # Sharded, Lazy-Loaded Prompt History

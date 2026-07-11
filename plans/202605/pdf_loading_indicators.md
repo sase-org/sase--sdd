@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 03:08:51
 status: done
-prompt: sdd/prompts/202605/pdf_loading_indicators.md
+prompt: sdd/plans/202605/prompts/pdf_loading_indicators.md
 tier: tale
 ---
 # Better Loading Indicators For Markdown PDF Construction

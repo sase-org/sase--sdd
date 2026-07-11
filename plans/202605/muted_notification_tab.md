@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-29 08:34:43
 status: done
-prompt: sdd/prompts/202605/muted_notification_tab.md
+prompt: sdd/plans/202605/prompts/muted_notification_tab.md
 tier: tale
 ---
 # Plan: Add a Muted tab to the notification modal

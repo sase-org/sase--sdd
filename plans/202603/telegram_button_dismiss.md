@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-29 14:18:39
 status: done
-prompt: sdd/prompts/202603/telegram_button_dismiss.md
+prompt: sdd/plans/202603/prompts/telegram_button_dismiss.md
 tier: tale
 ---
 

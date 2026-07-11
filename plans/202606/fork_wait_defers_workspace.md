@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 10:25:59
 status: done
-prompt: sdd/prompts/202606/fork_wait_defers_workspace.md
+prompt: sdd/plans/202606/prompts/fork_wait_defers_workspace.md
 tier: tale
 ---
 # Plan: Make the Implicit `#fork:<name>` Wait Also Defer Workspace Allocation

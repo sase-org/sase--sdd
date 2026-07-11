@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 18:19:43
 status: done
-prompt: sdd/prompts/202605/fix_ci_uv_source.md
+prompt: sdd/plans/202605/prompts/fix_ci_uv_source.md
 tier: tale
 ---
 # Fix CI break from local uv source

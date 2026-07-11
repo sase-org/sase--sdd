@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 13:30:24
 status: done
-prompt: sdd/prompts/202605/default_git_home_vcs.md
+prompt: sdd/plans/202605/prompts/default_git_home_vcs.md
 tier: tale
 ---
 # Plan: Default Bare Prompts To `#git:home`

@@ -3,7 +3,7 @@ create_time: 2026-07-07 23:22:04
 bead_id: sase-5j
 tier: epic
 status: done
-prompt: sdd/prompts/202607/sdd_separate_repo.md
+prompt: sdd/plans/202607/prompts/sdd_separate_repo.md
 ---
 # Plan: Separate SDD Repository — Provider-Level Opt-In for VCS Workflows
 

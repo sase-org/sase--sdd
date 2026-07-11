@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-13 16:34:03
 status: done
-prompt: sdd/prompts/202606/prompt_pyvision_cleanup.md
+prompt: sdd/plans/202606/prompts/prompt_pyvision_cleanup.md
 tier: tale
 ---
 # Prompt History Pyvision Cleanup Plan

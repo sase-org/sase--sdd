@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 11:47:17
 status: done
-prompt: sdd/prompts/202605/pillow_only_image_rendering.md
+prompt: sdd/plans/202605/prompts/pillow_only_image_rendering.md
 tier: tale
 ---
 # Remove Native Terminal Image Rendering

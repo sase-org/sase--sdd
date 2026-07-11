@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-12 18:21:43
 status: done
-prompt: sdd/prompts/202604/reduce_agents_md_tokens.md
+prompt: sdd/plans/202604/prompts/reduce_agents_md_tokens.md
 tier: tale
 ---
 

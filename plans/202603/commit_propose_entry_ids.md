@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-25 20:12:16
 status: done
-prompt: sdd/prompts/202603/commit_propose_entry_ids.md
+prompt: sdd/plans/202603/prompts/commit_propose_entry_ids.md
 tier: tale
 ---
 

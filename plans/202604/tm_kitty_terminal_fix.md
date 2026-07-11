@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-30 10:48:45
 status: done
-prompt: sdd/prompts/202604/tm_kitty_terminal_fix.md
+prompt: sdd/plans/202604/prompts/tm_kitty_terminal_fix.md
 tier: tale
 ---
 # Plan: Fix `tm` startup under Kitty across machines

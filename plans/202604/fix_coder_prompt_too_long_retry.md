@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-22 14:57:44
 status: done
-prompt: sdd/prompts/202604/fix_coder_prompt_too_long_retry.md
+prompt: sdd/plans/202604/prompts/fix_coder_prompt_too_long_retry.md
 tier: tale
 ---
 

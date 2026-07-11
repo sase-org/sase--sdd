@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-09 03:03:28
 status: done
-prompt: .sase/sdd/prompts/202607/telegram_list_redesign.md
+prompt: .sase/sdd/plans/202607/prompts/telegram_list_redesign.md
 tier: tale
 ---
 # Redesign the `/list` Telegram command

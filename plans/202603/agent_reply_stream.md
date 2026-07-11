@@ -1,7 +1,7 @@
 ---
 status: done
 bead_id: sase-0oou
-prompt: sdd/prompts/202603/agent_reply_stream.md
+prompt: sdd/plans/202603/prompts/agent_reply_stream.md
 tier: epic
 create_time: '2026-07-08 16:10:05'
 ---

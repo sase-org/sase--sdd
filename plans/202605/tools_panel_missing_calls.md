@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-14 19:42:52
 status: done
-prompt: sdd/prompts/202605/tools_panel_missing_calls.md
+prompt: sdd/plans/202605/prompts/tools_panel_missing_calls.md
 tier: tale
 ---
 # Tools Panel Not Showing All Tool Calls — Root Cause + Fix Plan

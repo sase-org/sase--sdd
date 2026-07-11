@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-29 11:38:39
 status: done
-prompt: sdd/prompts/202606/updates_tab_keymap_rework.md
+prompt: sdd/plans/202606/prompts/updates_tab_keymap_rework.md
 tier: tale
 ---
 # Plan: Rework the Updates-tab update keymaps (`S` / `u` / `U`)

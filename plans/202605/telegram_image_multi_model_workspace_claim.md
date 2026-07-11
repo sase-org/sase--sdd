@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 14:10:35
 status: wip
-prompt: sdd/prompts/202605/telegram_image_multi_model_workspace_claim.md
+prompt: sdd/plans/202605/prompts/telegram_image_multi_model_workspace_claim.md
 tier: tale
 ---
 # Plan: Fix Telegram Image Multi-Model Workspace Claim Failures

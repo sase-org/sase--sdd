@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 17:38:32
 status: done
-prompt: sdd/prompts/202605/artifact_viewer_page_wrap.md
+prompt: sdd/plans/202605/prompts/artifact_viewer_page_wrap.md
 tier: tale
 ---
 # Artifact Viewer Page Wrap Plan

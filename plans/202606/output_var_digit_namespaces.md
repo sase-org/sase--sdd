@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 23:12:36
 status: done
-prompt: sdd/prompts/202606/output_var_digit_namespaces.md
+prompt: sdd/plans/202606/prompts/output_var_digit_namespaces.md
 tier: tale
 ---
 # Output Variable Digit Namespace Plan

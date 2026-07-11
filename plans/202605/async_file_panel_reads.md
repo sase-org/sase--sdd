@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-14 22:20:34
 status: done
-prompt: sdd/prompts/202605/async_file_panel_reads.md
+prompt: sdd/plans/202605/prompts/async_file_panel_reads.md
 tier: tale
 ---
 # Async File Panel Static Reads Plan

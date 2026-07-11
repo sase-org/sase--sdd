@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-09 12:04:21
 status: done
-prompt: .sase/sdd/prompts/202607/pyvision_memory_concise.md
+prompt: .sase/sdd/plans/202607/prompts/pyvision_memory_concise.md
 tier: tale
 ---
 # Plan: Make `memory/pyvision.md` more concise and instance-free

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-28 17:21:04
 status: done
-prompt: sdd/prompts/202603/resume_coder_vcs_tag.md
+prompt: sdd/plans/202603/prompts/resume_coder_vcs_tag.md
 tier: tale
 ---
 

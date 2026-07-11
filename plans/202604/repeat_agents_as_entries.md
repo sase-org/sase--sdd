@@ -2,7 +2,7 @@
 create_time: 2026-04-17 22:14:28
 status: done
 bead_id: sase-k
-prompt: sdd/prompts/202604/repeat_agents_as_entries.md
+prompt: sdd/plans/202604/prompts/repeat_agents_as_entries.md
 tier: epic
 ---
 

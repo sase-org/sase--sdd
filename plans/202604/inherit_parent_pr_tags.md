@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-12 12:29:34
 status: done
-prompt: sdd/prompts/202604/inherit_parent_pr_tags.md
+prompt: sdd/plans/202604/prompts/inherit_parent_pr_tags.md
 tier: tale
 ---
 

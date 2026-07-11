@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-23 06:54:26
 status: done
-prompt: sdd/prompts/202606/quit_confirm_panel.md
+prompt: sdd/plans/202606/prompts/quit_confirm_panel.md
 tier: tale
 ---
 # Plan: Beautiful Quit Confirmation Panel with Background-Task Details

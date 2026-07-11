@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-25 22:05:53
 status: done
-prompt: sdd/prompts/202604/agents_tab_ungrouped_first.md
+prompt: sdd/plans/202604/prompts/agents_tab_ungrouped_first.md
 tier: tale
 ---
 # Sort ungrouped agents above all level-2 groups on the Agents tab

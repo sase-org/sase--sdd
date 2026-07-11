@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-19 09:06:01
 status: done
-prompt: sdd/prompts/202605/agent_family_workflow_step_status.md
+prompt: sdd/plans/202605/prompts/agent_family_workflow_step_status.md
 tier: tale
 ---
 # Plan: Agent Family Workflow Step Status Fix

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-26 21:49:26
 status: not started
-prompt: sdd/prompts/202603/harden_commit_stop_hook.md
+prompt: sdd/plans/202603/prompts/harden_commit_stop_hook.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-28 08:28:28
 status: done
-prompt: sdd/prompts/202605/feedback_child_done_after_approval.md
+prompt: sdd/plans/202605/prompts/feedback_child_done_after_approval.md
 tier: tale
 ---
 # Feedback Child Status After Plan Approval

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-26 20:18:07
 status: done
-prompt: sdd/prompts/202605/apostrophe_jump_marks_agent_read.md
+prompt: sdd/plans/202605/prompts/apostrophe_jump_marks_agent_read.md
 tier: tale
 ---
 # Fix Apostrophe Agent Jump Read Acknowledgement

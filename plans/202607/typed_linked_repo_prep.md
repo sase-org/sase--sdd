@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-06 14:51:14
 status: done
-prompt: sdd/prompts/202607/typed_linked_repo_prep.md
+prompt: sdd/plans/202607/prompts/typed_linked_repo_prep.md
 tier: tale
 ---
 # Thread Typed Linked-Repo Resolution into Launch-Time Workspace Prep

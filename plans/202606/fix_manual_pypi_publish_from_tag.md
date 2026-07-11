@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-09 14:12:24
 status: wip
-prompt: sdd/prompts/202606/fix_manual_pypi_publish_from_tag.md
+prompt: sdd/plans/202606/prompts/fix_manual_pypi_publish_from_tag.md
 tier: tale
 ---
 # Plan: Fix the failing manual PyPI publish for `sase-core-rs` 0.1.1

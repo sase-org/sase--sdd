@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-12 18:37:16
 status: done
-prompt: sdd/prompts/202604/split_agents_md_tiers.md
+prompt: sdd/plans/202604/prompts/split_agents_md_tiers.md
 tier: tale
 ---
 

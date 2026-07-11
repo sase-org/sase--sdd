@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-09 20:36:35
 status: done
-prompt: sdd/prompts/202606/worker_model.md
+prompt: sdd/plans/202606/prompts/worker_model.md
 bead_id: sase-4k
 tier: epic
 ---

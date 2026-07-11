@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-13 19:35:50
 status: done
-prompt: sdd/prompts/202605/minimal_retry_skill.md
+prompt: sdd/plans/202605/prompts/minimal_retry_skill.md
 tier: tale
 ---
 # Minimal Retry Skill Wording Plan

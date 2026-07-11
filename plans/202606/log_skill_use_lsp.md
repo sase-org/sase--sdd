@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 11:26:10
 status: done
-prompt: sdd/prompts/202606/log_skill_use_lsp.md
+prompt: sdd/plans/202606/prompts/log_skill_use_lsp.md
 tier: tale
 ---
 # Plan: Add LSP Support for `log_skill_use`

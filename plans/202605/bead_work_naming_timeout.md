@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-01 12:47:17
 status: done
-prompt: sdd/prompts/202605/bead_work_naming_timeout.md
+prompt: sdd/plans/202605/prompts/bead_work_naming_timeout.md
 tier: tale
 ---
 # Fix `sase bead work` Multi-Prompt Naming Timeouts

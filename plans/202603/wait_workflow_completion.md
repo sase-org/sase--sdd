@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-27 15:36:19
 status: done
-prompt: sdd/prompts/202603/wait_workflow_completion.md
+prompt: sdd/plans/202603/prompts/wait_workflow_completion.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 20:11:52
 status: done
-prompt: sdd/prompts/202605/fix_retired_chat_plugin_sdd_links.md
+prompt: sdd/plans/202605/prompts/fix_retired_chat_plugin_sdd_links.md
 tier: tale
 ---
 # Plan: Fix retired_chat_plugin SDD Link Validation

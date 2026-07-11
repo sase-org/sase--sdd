@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-25 18:47:16
 status: done
-prompt: sdd/prompts/202606/wait_plan_agents_1.md
+prompt: sdd/plans/202606/prompts/wait_plan_agents_1.md
 tier: tale
 ---
 # Plan: `%wait` Support for Submitted Plan Agents

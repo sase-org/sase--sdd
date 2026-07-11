@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-14 12:54:02
 status: wip
-prompt: sdd/prompts/202604/fix_hint_input_bar_duplicate_ids.md
+prompt: sdd/plans/202604/prompts/fix_hint_input_bar_duplicate_ids.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-23 16:30:05
 status: done
-prompt: sdd/prompts/202604/single_confirm_dismiss_marked.md
+prompt: sdd/plans/202604/prompts/single_confirm_dismiss_marked.md
 tier: tale
 ---
 

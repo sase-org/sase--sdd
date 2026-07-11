@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-25 15:01:00
 status: done
-prompt: sdd/prompts/202606/reject_plan_command.md
+prompt: sdd/plans/202606/prompts/reject_plan_command.md
 tier: tale
 ---
 # Add `sase plan reject`

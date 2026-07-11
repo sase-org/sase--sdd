@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-25 09:57:41
 status: done
-prompt: sdd/prompts/202604/agent_status_state_fix.md
+prompt: sdd/plans/202604/prompts/agent_status_state_fix.md
 tier: tale
 ---
 # Plan: Fix ACE Plan/Question Status Drift

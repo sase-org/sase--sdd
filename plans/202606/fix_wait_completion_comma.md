@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-26 11:29:59
 status: done
-prompt: sdd/prompts/202606/fix_wait_completion_comma.md
+prompt: sdd/plans/202606/prompts/fix_wait_completion_comma.md
 tier: tale
 ---
 # Fix Wait-Agent Completion After Prose Commas

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-23 14:34:43
 status: done
-prompt: sdd/prompts/202605/workflow_plan_step_stuck_running.md
+prompt: sdd/plans/202605/prompts/workflow_plan_step_stuck_running.md
 tier: tale
 ---
 # Fix Plan-Step Stuck at RUNNING After EPIC/TALE/LEGEND Approval

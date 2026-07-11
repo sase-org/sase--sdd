@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-30 10:39:59
 status: done
-prompt: sdd/prompts/202603/retain_focus_after_name_change.md
+prompt: sdd/plans/202603/prompts/retain_focus_after_name_change.md
 tier: tale
 ---
 

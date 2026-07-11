@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-27 10:23:40
 status: draft
-prompt: sdd/prompts/202604/done_agents_release_auto_name.md
+prompt: sdd/plans/202604/prompts/done_agents_release_auto_name.md
 tier: tale
 ---
 

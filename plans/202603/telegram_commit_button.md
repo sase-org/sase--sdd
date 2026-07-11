@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-25 15:25:39
 status: done
-prompt: sdd/prompts/202603/telegram_commit_button.md
+prompt: sdd/plans/202603/prompts/telegram_commit_button.md
 tier: tale
 ---
 

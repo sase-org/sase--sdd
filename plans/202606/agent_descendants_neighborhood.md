@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-28 16:28:26
 status: done
-prompt: sdd/prompts/202606/agent_descendants_neighborhood.md
+prompt: sdd/plans/202606/prompts/agent_descendants_neighborhood.md
 tier: tale
 ---
 # Agent Descendants Neighborhood — Pinned Descendant Group with Inline Revive

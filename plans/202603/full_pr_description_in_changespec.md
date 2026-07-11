@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-31 08:51:16
 status: draft
-prompt: sdd/prompts/202603/full_pr_description_in_changespec.md
+prompt: sdd/plans/202603/prompts/full_pr_description_in_changespec.md
 tier: tale
 ---
 

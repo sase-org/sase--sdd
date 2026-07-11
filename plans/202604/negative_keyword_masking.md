@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-24 12:48:01
 status: done
-prompt: sdd/prompts/202604/negative_keyword_masking.md
+prompt: sdd/plans/202604/prompts/negative_keyword_masking.md
 tier: tale
 ---
 # Plan: Refine Negative Memory Keyword Semantics (Masking)

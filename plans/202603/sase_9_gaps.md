@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-24 05:54:47
 status: wip
-prompt: sdd/prompts/202603/sase_9_gaps.md
+prompt: sdd/plans/202603/prompts/sase_9_gaps.md
 tier: tale
 ---
 

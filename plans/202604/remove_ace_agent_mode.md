@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-12 17:36:32
 status: done
-prompt: sdd/prompts/202604/remove_ace_agent_mode.md
+prompt: sdd/plans/202604/prompts/remove_ace_agent_mode.md
 tier: tale
 ---
 

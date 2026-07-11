@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 19:08:47
 status: done
-prompt: sdd/prompts/202605/xprompt_multi_model_fanout.md
+prompt: sdd/plans/202605/prompts/xprompt_multi_model_fanout.md
 tier: tale
 ---
 # Multi-model fan-out broken for xprompt-wrapped `%model` directives

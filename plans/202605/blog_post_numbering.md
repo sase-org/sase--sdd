@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 01:21:47
 status: done
-prompt: sdd/prompts/202605/blog_post_numbering.md
+prompt: sdd/plans/202605/prompts/blog_post_numbering.md
 tier: tale
 ---
 # Blog Post Numbering Plan

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-01 15:47:48
 status: done
-prompt: sdd/prompts/202605/chat_install_restart.md
+prompt: sdd/plans/202605/prompts/chat_install_restart.md
 tier: tale
 ---
 # Chat Install / Restart Command Plan

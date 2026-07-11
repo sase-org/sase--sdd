@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-28 15:26:32
 status: done
-prompt: sdd/prompts/202606/persist_admin_center_tab.md
+prompt: sdd/plans/202606/prompts/persist_admin_center_tab.md
 tier: tale
 ---
 # Persist Admin Center Tab Selection

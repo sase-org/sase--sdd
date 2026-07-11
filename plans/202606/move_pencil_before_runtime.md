@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-24 08:58:52
 status: done
-prompt: sdd/prompts/202606/move_pencil_before_runtime.md
+prompt: sdd/plans/202606/prompts/move_pencil_before_runtime.md
 tier: tale
 ---
 # Plan: Move the file-change pencil to just before the agent runtime

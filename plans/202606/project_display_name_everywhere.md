@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-29 10:13:03
 status: done
-prompt: sdd/prompts/202606/project_display_name_everywhere.md
+prompt: sdd/plans/202606/prompts/project_display_name_everywhere.md
 tier: tale
 ---
 # Show `PROJECT_NAME` (not the directory key) in **all** remaining user-facing surfaces

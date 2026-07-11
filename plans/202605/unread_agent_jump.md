@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 16:57:12
 status: done
-prompt: sdd/prompts/202605/unread_agent_jump.md
+prompt: sdd/plans/202605/prompts/unread_agent_jump.md
 tier: tale
 ---
 # Fix `,j` Unread Agent Jump Across Panels

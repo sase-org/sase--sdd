@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-25 11:56:01
 status: done
-prompt: sdd/prompts/202603/gemini_afteragent_stop_hooks.md
+prompt: sdd/plans/202603/prompts/gemini_afteragent_stop_hooks.md
 tier: tale
 ---
 

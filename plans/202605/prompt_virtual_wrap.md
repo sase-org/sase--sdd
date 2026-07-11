@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 00:42:51
 status: done
-prompt: sdd/prompts/202605/prompt_virtual_wrap.md
+prompt: sdd/plans/202605/prompts/prompt_virtual_wrap.md
 tier: tale
 ---
 # Plan: Prompt Input Virtual Wrapping

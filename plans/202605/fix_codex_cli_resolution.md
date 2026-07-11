@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-05 08:43:36
 status: done
-prompt: sdd/prompts/202605/fix_codex_cli_resolution.md
+prompt: sdd/plans/202605/prompts/fix_codex_cli_resolution.md
 tier: tale
 ---
 # Fix Codex CLI Resolution for SASE Agents

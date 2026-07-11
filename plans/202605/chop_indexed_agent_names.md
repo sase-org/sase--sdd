@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-28 09:15:24
 status: wip
-prompt: sdd/prompts/202605/chop_indexed_agent_names.md
+prompt: sdd/plans/202605/prompts/chop_indexed_agent_names.md
 tier: tale
 ---
 # Plan: Move Chezmoi-Defined Chops to Indexed Agent Names

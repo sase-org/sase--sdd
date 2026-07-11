@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 11:30:48
 status: done
-prompt: sdd/prompts/202605/fix_homepage_blog_links.md
+prompt: sdd/plans/202605/prompts/fix_homepage_blog_links.md
 tier: tale
 ---
 # Fix sase.sh Homepage Blog Links

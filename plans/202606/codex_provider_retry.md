@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 01:32:24
 status: wip
-prompt: sdd/prompts/202606/codex_provider_retry.md
+prompt: sdd/plans/202606/prompts/codex_provider_retry.md
 tier: tale
 ---
 # Plan: Add Built-In Codex Retry Handling

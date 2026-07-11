@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 18:26:51
 status: wip
-prompt: sdd/prompts/202605/agent_launch_failed_rows.md
+prompt: sdd/plans/202605/prompts/agent_launch_failed_rows.md
 bead_id: sase-39
 tier: epic
 ---

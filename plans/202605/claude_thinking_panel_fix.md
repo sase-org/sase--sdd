@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 22:33:58
 status: done
-prompt: sdd/prompts/202605/claude_thinking_panel_fix.md
+prompt: sdd/plans/202605/prompts/claude_thinking_panel_fix.md
 tier: tale
 ---
 # Plan: Restore Claude thinking panel content

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-31 08:16:32
 status: done
-prompt: sdd/prompts/202605/codex_home_agents.md
+prompt: sdd/plans/202605/prompts/codex_home_agents.md
 tier: tale
 ---
 # Plan: Make SASE-launched Codex see home AGENTS.md

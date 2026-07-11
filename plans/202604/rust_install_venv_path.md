@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-29 11:32:10
 status: done
-prompt: sdd/prompts/202604/rust_install_venv_path.md
+prompt: sdd/plans/202604/prompts/rust_install_venv_path.md
 tier: tale
 ---
 # Plan: Fix `just rust-install` venv path handling

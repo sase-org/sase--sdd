@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-09 12:46:34
 status: done
-prompt: .sase/sdd/prompts/202607/ctrl_g_ctrl_c_prompt_chord_fix.md
+prompt: .sase/sdd/plans/202607/prompts/ctrl_g_ctrl_c_prompt_chord_fix.md
 tier: tale
 ---
 # Fix: `<ctrl+g><ctrl+c>` does nothing in the prompt input widget

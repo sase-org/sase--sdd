@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-08 18:46:49
 status: done
-prompt: sdd/prompts/202604/hg_completed_agent_diffs.md
+prompt: sdd/plans/202604/prompts/hg_completed_agent_diffs.md
 tier: tale
 ---
 

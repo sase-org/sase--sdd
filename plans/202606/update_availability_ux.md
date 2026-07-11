@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-29 06:53:51
 status: done
-prompt: sdd/prompts/202606/update_availability_ux.md
+prompt: sdd/plans/202606/prompts/update_availability_ux.md
 tier: tale
 ---
 # Plan: Reliable, Beautiful "Updates Available" UX (dev + published)

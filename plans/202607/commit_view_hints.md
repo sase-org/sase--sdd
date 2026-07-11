@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-09 12:56:59
 status: done
-prompt: .sase/sdd/prompts/202607/commit_view_hints.md
+prompt: .sase/sdd/plans/202607/prompts/commit_view_hints.md
 tier: tale
 ---
 # Plan: View a Commit's Message + Pretty Diff via the `v` Keymap (Agents tab)

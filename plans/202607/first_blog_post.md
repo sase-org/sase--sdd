@@ -3,7 +3,7 @@ create_time: 2026-07-07 23:59:07
 bead_id: sase-5k
 tier: epic
 status: wip
-prompt: sdd/prompts/202607/first_blog_post.md
+prompt: sdd/plans/202607/prompts/first_blog_post.md
 ---
 # Plan: First SASE Blog Post — "SASE: Structured Agentic Software Engineering"
 

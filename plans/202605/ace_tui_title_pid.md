@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-15 13:50:31
 status: done
-prompt: sdd/prompts/202605/ace_tui_title_pid.md
+prompt: sdd/plans/202605/prompts/ace_tui_title_pid.md
 tier: tale
 ---
 # Plan: Append `(PID: <sase_ace_pid>)` to the `sase ace` TUI title

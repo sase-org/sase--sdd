@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-31 10:48:44
 status: done
-prompt: sdd/prompts/202605/revert_dynamic_memory.md
+prompt: sdd/plans/202605/prompts/revert_dynamic_memory.md
 tier: tale
 ---
 # Revert Dynamic Memory Functionality

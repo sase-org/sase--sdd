@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-01 10:59:25
 status: done
-prompt: sdd/prompts/202606/agent_refresh_coalescing.md
+prompt: sdd/plans/202606/prompts/agent_refresh_coalescing.md
 tier: tale
 ---
 # Agent Refresh Coalescing Plan

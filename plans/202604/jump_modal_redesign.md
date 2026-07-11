@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-04 15:38:07
 status: done
-prompt: sdd/prompts/202604/jump_modal_redesign.md
+prompt: sdd/plans/202604/prompts/jump_modal_redesign.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-06 03:42:44
 status: done
-prompt: sdd/prompts/202605/agents_tab_non_agent_step_runtimes.md
+prompt: sdd/plans/202605/prompts/agents_tab_non_agent_step_runtimes.md
 tier: tale
 ---
 # Plan: Hide Agents-Tab Runtimes For Non-Agent Workflow Steps

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 21:10:25
 status: done
-prompt: sdd/prompts/202605/tui_screenshot_diff_testing.md
+prompt: sdd/plans/202605/prompts/tui_screenshot_diff_testing.md
 bead_id: sase-2m
 tier: epic
 ---

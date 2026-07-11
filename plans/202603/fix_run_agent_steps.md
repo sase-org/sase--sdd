@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-29 17:08:04
 status: done
-prompt: sdd/prompts/202603/fix_run_agent_steps.md
+prompt: sdd/plans/202603/prompts/fix_run_agent_steps.md
 tier: tale
 ---
 

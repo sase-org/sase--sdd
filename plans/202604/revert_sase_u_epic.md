@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-27 09:42:54
 status: wip
-prompt: sdd/prompts/202604/revert_sase_u_epic.md
+prompt: sdd/plans/202604/prompts/revert_sase_u_epic.md
 tier: tale
 ---
 # Plan: Revert the `sase-u` epic ("Instant j/k Navigation in the TUI")

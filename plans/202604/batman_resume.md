@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-21 21:17:32
 status: wip
-prompt: sdd/prompts/202604/batman_resume.md
+prompt: sdd/plans/202604/prompts/batman_resume.md
 tier: tale
 ---
 

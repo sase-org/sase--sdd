@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-30 13:44:38
 status: done
-prompt: sdd/prompts/202603/improve_timestamp_colors.md
+prompt: sdd/plans/202603/prompts/improve_timestamp_colors.md
 tier: tale
 ---
 

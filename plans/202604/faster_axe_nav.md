@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-23 15:57:47
 status: done
-prompt: sdd/prompts/202604/faster_axe_nav.md
+prompt: sdd/plans/202604/prompts/faster_axe_nav.md
 tier: tale
 ---
 

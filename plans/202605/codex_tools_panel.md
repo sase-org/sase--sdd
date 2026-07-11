@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-14 19:30:49
 status: done
-prompt: sdd/prompts/202605/codex_tools_panel.md
+prompt: sdd/plans/202605/prompts/codex_tools_panel.md
 tier: tale
 ---
 # Plan: Add Codex Support To The Agents Tools Panel

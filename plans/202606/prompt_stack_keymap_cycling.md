@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-17 11:21:46
 status: done
-prompt: sdd/prompts/202606/prompt_stack_keymap_cycling.md
+prompt: sdd/plans/202606/prompts/prompt_stack_keymap_cycling.md
 tier: tale
 ---
 # Prompt Stack Keymap Cycling Plan

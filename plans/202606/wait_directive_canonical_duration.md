@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-25 08:00:25
 status: done
-prompt: sdd/prompts/202606/wait_directive_canonical_duration.md
+prompt: sdd/plans/202606/prompts/wait_directive_canonical_duration.md
 tier: tale
 ---
 # Fix: `%wait:<name>` rejects duration-shaped agent names (e.g. `%w:05s`)

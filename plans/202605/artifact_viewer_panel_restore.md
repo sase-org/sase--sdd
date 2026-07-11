@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 03:58:48
 status: done
-prompt: sdd/prompts/202605/artifact_viewer_panel_restore.md
+prompt: sdd/plans/202605/prompts/artifact_viewer_panel_restore.md
 tier: tale
 ---
 # Plan: Restore Agents Side Panel When Artifact Viewer Pane Closes

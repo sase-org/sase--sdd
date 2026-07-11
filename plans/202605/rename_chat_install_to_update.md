@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-01 17:00:38
 status: done
-prompt: sdd/prompts/202605/rename_chat_install_to_update.md
+prompt: sdd/plans/202605/prompts/rename_chat_install_to_update.md
 tier: tale
 ---
 # Rename Chat Install Commands to Update

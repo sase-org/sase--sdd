@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-18 08:38:56
 status: done
-prompt: sdd/prompts/202606/axe_orphan_stop.md
+prompt: sdd/plans/202606/prompts/axe_orphan_stop.md
 tier: tale
 ---
 # Plan: Fix unstoppable orphaned `sase axe` processes

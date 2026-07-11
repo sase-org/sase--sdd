@@ -4,7 +4,7 @@ legend_bead_id: sase-26
 tier: epic
 create_time: 2026-05-06 18:04:55
 status: done
-prompt: sdd/prompts/202605/mobile_gateway_epic_6.md
+prompt: sdd/plans/202605/prompts/mobile_gateway_epic_6.md
 ---
 
 # Plan: Mobile MVP Epic 6 - Android Action, Agent, And Helper UX

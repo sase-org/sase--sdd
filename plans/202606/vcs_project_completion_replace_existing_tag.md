@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-21 10:19:57
 status: done
-prompt: sdd/prompts/202606/vcs_project_completion_replace_existing_tag.md
+prompt: sdd/plans/202606/prompts/vcs_project_completion_replace_existing_tag.md
 tier: tale
 ---
 # Fix `#+` Project Completion After Existing VCS Tag

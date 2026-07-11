@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-23 15:26:02
 status: draft
-prompt: sdd/prompts/202604/filter_sase_dir_from_file_history.md
+prompt: sdd/plans/202604/prompts/filter_sase_dir_from_file_history.md
 tier: tale
 ---
 

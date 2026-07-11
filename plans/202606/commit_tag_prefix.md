@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-27 08:55:20
 status: done
-prompt: sdd/prompts/202606/commit_tag_prefix.md
+prompt: sdd/plans/202606/prompts/commit_tag_prefix.md
 tier: tale
 ---
 # Plan: Prefix SASE Commit Footer Tags

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-09 17:35:53
 status: done
-prompt: sdd/prompts/202605/notification_mark_all_read_perf.md
+prompt: sdd/plans/202605/prompts/notification_mark_all_read_perf.md
 tier: tale
 ---
 # Plan: Fix Phase 7 notification mark-all-read perf floor

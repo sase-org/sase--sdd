@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-29 10:53:50
 status: done
-prompt: sdd/prompts/202606/post_update_version_toast.md
+prompt: sdd/plans/202606/prompts/post_update_version_toast.md
 tier: tale
 ---
 # Plan: "You just updated" version toast after a SASE self-update + TUI restart

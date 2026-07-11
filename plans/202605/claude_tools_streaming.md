@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-16 10:03:20
 status: done
-prompt: sdd/prompts/202605/claude_tools_streaming.md
+prompt: sdd/plans/202605/prompts/claude_tools_streaming.md
 tier: tale
 ---
 # Plan: Make Claude Tools Panel Data Stream-Backed

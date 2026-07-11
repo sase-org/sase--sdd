@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-05 16:14:19
 status: done
-prompt: sdd/prompts/202605/changespec_deltas_v_keymap.md
+prompt: sdd/plans/202605/prompts/changespec_deltas_v_keymap.md
 tier: tale
 ---
 # Plan: Support DELTAS file entries in the `v` keymap

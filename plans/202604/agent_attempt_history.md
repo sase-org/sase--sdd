@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-22 15:53:20
 status: wip
-prompt: sdd/prompts/202604/agent_attempt_history.md
+prompt: sdd/plans/202604/prompts/agent_attempt_history.md
 tier: tale
 ---
 

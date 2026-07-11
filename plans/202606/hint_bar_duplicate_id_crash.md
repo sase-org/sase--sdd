@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-20 10:28:57
 status: done
-prompt: sdd/prompts/202606/hint_bar_duplicate_id_crash.md
+prompt: sdd/plans/202606/prompts/hint_bar_duplicate_id_crash.md
 tier: tale
 ---
 # Plan: Fix `sase ace` crash when re-triggering the view (`v`) hint bar after it loses focus

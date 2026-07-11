@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-06 13:33:17
 status: done
-prompt: sdd/prompts/202605/dynamic_agent_panel_tag_color.md
+prompt: sdd/plans/202605/prompts/dynamic_agent_panel_tag_color.md
 tier: tale
 ---
 # Dynamic Agent Panel Tag Header Color Plan

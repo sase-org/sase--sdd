@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-10 09:02:39
 status: wip
-prompt: sdd/prompts/202606/atomic_starting_count_and_row.md
+prompt: sdd/plans/202606/prompts/atomic_starting_count_and_row.md
 tier: tale
 ---
 # Make the "starting" count decrement and the new agent row appear atomically

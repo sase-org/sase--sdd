@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-09 17:12:06
 status: done
-prompt: sdd/prompts/202606/sase_github_pypi_release.md
+prompt: sdd/plans/202606/prompts/sase_github_pypi_release.md
 tier: tale
 ---
 # Fix sase-github PyPI Release 0.1.1

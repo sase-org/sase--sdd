@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-24 12:46:22
 status: done
-prompt: sdd/prompts/202606/alt_brace_two_space_padding.md
+prompt: sdd/plans/202606/prompts/alt_brace_two_space_padding.md
 tier: tale
 ---
 # Plan: Two-space padding inside `%{}` alternation braces on open

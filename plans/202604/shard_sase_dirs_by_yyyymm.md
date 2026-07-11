@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-23 16:01:42
 status: done
-prompt: sdd/prompts/202604/shard_sase_dirs_by_yyyymm.md
+prompt: sdd/plans/202604/prompts/shard_sase_dirs_by_yyyymm.md
 tier: tale
 ---
 

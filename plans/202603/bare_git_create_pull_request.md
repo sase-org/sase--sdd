@@ -1,7 +1,7 @@
 ---
 status: done
 create_time: 2026-03-31 12:56:33
-prompt: sdd/prompts/202603/bare_git_create_pull_request.md
+prompt: sdd/plans/202603/prompts/bare_git_create_pull_request.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-27 11:05:45
 status: done
-prompt: sdd/prompts/202603/auto_parent_changespec.md
+prompt: sdd/plans/202603/prompts/auto_parent_changespec.md
 tier: tale
 ---
 

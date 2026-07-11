@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 14:45:34
 status: done
-prompt: .sase/sdd/prompts/202607/telegram_bead_active_filter.md
+prompt: .sase/sdd/plans/202607/prompts/telegram_bead_active_filter.md
 tier: tale
 ---
 # Keep Telegram `/bead` Results Active-Only

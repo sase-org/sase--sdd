@@ -9,7 +9,7 @@ description: Make retired chat plugin's self-message filtering survive multiple 
   space.
 create_time: 2026-04-25 11:39:38
 status: wip
-prompt: sdd/prompts/202604/gchat_cross_machine_self_filter_1.md
+prompt: sdd/plans/202604/prompts/gchat_cross_machine_self_filter_1.md
 tier: tale
 ---
 

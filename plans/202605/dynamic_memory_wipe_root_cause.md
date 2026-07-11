@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-26 20:34:41
 status: done
-prompt: sdd/prompts/202605/dynamic_memory_wipe_root_cause.md
+prompt: sdd/plans/202605/prompts/dynamic_memory_wipe_root_cause.md
 tier: tale
 ---
 # Dynamic Memory Wipe Root-Cause Fix

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 14:29:55
 status: done
-prompt: sdd/prompts/202605/most_recent_unread_done_jump.md
+prompt: sdd/plans/202605/prompts/most_recent_unread_done_jump.md
 tier: tale
 ---
 # Plan: Jump unread completed agents by completion recency

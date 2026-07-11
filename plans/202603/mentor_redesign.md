@@ -2,7 +2,7 @@
 create_time: 2026-03-21 17:53:35
 status: done
 bead_id: sase-7
-prompt: sdd/prompts/202603/mentor_redesign.md
+prompt: sdd/plans/202603/prompts/mentor_redesign.md
 tier: epic
 ---
 

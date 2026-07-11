@@ -1,6 +1,6 @@
 ---
 bead_id: sase-5fkw
-prompt: sdd/prompts/202603/sase_beads_migration.md
+prompt: sdd/plans/202603/prompts/sase_beads_migration.md
 tier: epic
 create_time: '2026-07-08 16:10:05'
 ---

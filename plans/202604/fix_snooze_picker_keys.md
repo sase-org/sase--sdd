@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-27 11:15:24
 status: done
-prompt: sdd/prompts/202604/fix_snooze_picker_keys.md
+prompt: sdd/plans/202604/prompts/fix_snooze_picker_keys.md
 tier: tale
 ---
 # Fix Snooze Picker Key Handling

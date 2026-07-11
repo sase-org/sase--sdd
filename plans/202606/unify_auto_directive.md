@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-24 15:10:13
 status: done
-prompt: sdd/prompts/202606/unify_auto_directive.md
+prompt: sdd/plans/202606/prompts/unify_auto_directive.md
 tier: tale
 ---
 # Plan: Unify `%plan` / `%tale` / `%epic` into a single `%auto` directive

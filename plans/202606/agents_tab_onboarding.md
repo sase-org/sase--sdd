@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-25 15:21:42
 status: done
-prompt: sdd/prompts/202606/agents_tab_onboarding.md
+prompt: sdd/plans/202606/prompts/agents_tab_onboarding.md
 tier: tale
 ---
 # Plan: Agents-tab Onboarding View

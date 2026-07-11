@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-29 17:10:01
 status: PROPOSED
-prompt: sdd/prompts/202603/fix_strip_pr_tags_blank_lines.md
+prompt: sdd/plans/202603/prompts/fix_strip_pr_tags_blank_lines.md
 tier: tale
 ---
 

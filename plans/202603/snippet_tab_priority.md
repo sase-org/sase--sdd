@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-28 13:36:47
 status: done
-prompt: sdd/prompts/202603/snippet_tab_priority.md
+prompt: sdd/plans/202603/prompts/snippet_tab_priority.md
 tier: tale
 ---
 

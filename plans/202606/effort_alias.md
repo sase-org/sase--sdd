@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-26 07:49:00
 status: done
-prompt: sdd/prompts/202606/effort_alias.md
+prompt: sdd/plans/202606/prompts/effort_alias.md
 tier: tale
 ---
 # Plan: make `%e` an alias for `%effort`

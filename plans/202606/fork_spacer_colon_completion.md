@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-25 08:19:30
 status: done
-prompt: sdd/prompts/202606/fork_spacer_colon_completion.md
+prompt: sdd/plans/202606/prompts/fork_spacer_colon_completion.md
 tier: tale
 ---
 # Plan: Trigger agent-name completion after the `#fork` optional-spacer `:` rewrite

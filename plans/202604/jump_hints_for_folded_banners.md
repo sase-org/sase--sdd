@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-27 09:45:48
 status: done
-prompt: sdd/prompts/202604/jump_hints_for_folded_banners.md
+prompt: sdd/plans/202604/prompts/jump_hints_for_folded_banners.md
 tier: tale
 ---
 # Jump hints for folded headings on the Agents tab

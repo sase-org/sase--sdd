@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-21 09:13:50
 status: done
-prompt: sdd/prompts/202606/jinja_variable_delete_pairs.md
+prompt: sdd/plans/202606/prompts/jinja_variable_delete_pairs.md
 tier: tale
 ---
 # Plan: Jinja Variable Paired Deletion

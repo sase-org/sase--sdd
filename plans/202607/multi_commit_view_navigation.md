@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-09 13:52:52
 status: done
-prompt: .sase/sdd/prompts/202607/multi_commit_view_navigation.md
+prompt: .sase/sdd/plans/202607/prompts/multi_commit_view_navigation.md
 tier: tale
 ---
 # Plan: Multi-Commit Navigation in the Commit View Modal

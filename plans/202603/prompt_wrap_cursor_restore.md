@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-26 14:27:33
 status: done
-prompt: sdd/prompts/202603/prompt_wrap_cursor_restore.md
+prompt: sdd/plans/202603/prompts/prompt_wrap_cursor_restore.md
 tier: tale
 ---
 

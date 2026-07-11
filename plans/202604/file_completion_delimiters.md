@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-12 18:34:55
 status: done
-prompt: sdd/prompts/202604/file_completion_delimiters.md
+prompt: sdd/plans/202604/prompts/file_completion_delimiters.md
 tier: tale
 ---
 

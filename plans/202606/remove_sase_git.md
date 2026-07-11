@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-18 14:30:30
 status: done
-prompt: sdd/prompts/202606/remove_sase_git.md
+prompt: sdd/plans/202606/prompts/remove_sase_git.md
 tier: tale
 ---
 # Remove the `sase git` CLI Command

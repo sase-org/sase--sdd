@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-27 09:27:25
 status: done
-prompt: sdd/prompts/202604/plan_approved_counts_as_running.md
+prompt: sdd/plans/202604/prompts/plan_approved_counts_as_running.md
 tier: tale
 ---
 # Plan: count `PLAN APPROVED` agents as running in banner summary

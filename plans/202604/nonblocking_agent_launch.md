@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-10 19:53:02
 status: done
-prompt: sdd/prompts/202604/nonblocking_agent_launch.md
+prompt: sdd/plans/202604/prompts/nonblocking_agent_launch.md
 tier: tale
 ---
 

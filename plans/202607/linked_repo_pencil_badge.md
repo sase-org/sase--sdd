@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 14:01:54
 status: done
-prompt: sdd/prompts/202607/linked_repo_pencil_badge.md
+prompt: sdd/plans/202607/prompts/linked_repo_pencil_badge.md
 tier: tale
 ---
 # Linked Repo Pencil Badge Plan

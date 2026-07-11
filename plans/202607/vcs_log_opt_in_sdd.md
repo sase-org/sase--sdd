@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-10 11:19:54
 status: done
-prompt: .sase/sdd/prompts/202607/vcs_log_opt_in_sdd.md
+prompt: .sase/sdd/plans/202607/prompts/vcs_log_opt_in_sdd.md
 tier: tale
 ---
 # Make SDD Commits Opt-In for `sase vcs log`

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-29 15:02:19
 status: done
-prompt: sdd/prompts/202603/branch_naming_reform.md
+prompt: sdd/plans/202603/prompts/branch_naming_reform.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 01:40:34
 status: done
-prompt: sdd/prompts/202606/codex_transient_retry.md
+prompt: sdd/plans/202606/prompts/codex_transient_retry.md
 tier: tale
 ---
 # Plan: Give the Codex Provider Built-In Transient-Failure Retry Coverage

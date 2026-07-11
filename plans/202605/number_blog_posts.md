@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-11 19:13:07
 status: done
-prompt: sdd/prompts/202605/number_blog_posts.md
+prompt: sdd/plans/202605/prompts/number_blog_posts.md
 tier: tale
 ---
 # Number Each Blog Post Across sase.sh

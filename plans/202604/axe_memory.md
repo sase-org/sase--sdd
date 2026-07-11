@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-13 23:57:37
 status: done
-prompt: sdd/prompts/202604/axe_memory.md
+prompt: sdd/plans/202604/prompts/axe_memory.md
 tier: tale
 ---
 

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-23 08:46:02
 status: done
-prompt: sdd/prompts/202606/agy_workspace_dir_leak.md
+prompt: sdd/plans/202606/prompts/agy_workspace_dir_leak.md
 tier: tale
 ---
 # Fix flaky CI failure in `test_agy_trajectory.py` (leaked `SASE_ACTIVE_PROJECT_DIR`)

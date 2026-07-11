@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-07 14:24:14
 status: done
-prompt: sdd/prompts/202607/update_confirm_commits.md
+prompt: sdd/plans/202607/prompts/update_confirm_commits.md
 tier: tale
 ---
 # Plan: Show All Repo Commit Groups in Update Confirmation

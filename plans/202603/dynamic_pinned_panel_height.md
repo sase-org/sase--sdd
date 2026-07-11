@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-31 09:09:48
 status: pending
-prompt: sdd/prompts/202603/dynamic_pinned_panel_height.md
+prompt: sdd/plans/202603/prompts/dynamic_pinned_panel_height.md
 tier: tale
 ---
 

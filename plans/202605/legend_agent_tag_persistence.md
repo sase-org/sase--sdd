@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-06 10:04:30
 status: done
-prompt: sdd/prompts/202605/legend_agent_tag_persistence.md
+prompt: sdd/plans/202605/prompts/legend_agent_tag_persistence.md
 tier: tale
 ---
 # Plan: Fix Legend Agent Tag Persistence

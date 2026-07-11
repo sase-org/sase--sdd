@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-03 06:53:37
 status: wip
-prompt: sdd/prompts/202607/timezone_runtime_consistency.md
+prompt: sdd/plans/202607/prompts/timezone_runtime_consistency.md
 tier: tale
 ---
 # Plan: Fix running-agent runtime (and all other timezone bugs) on machines whose system tz differs from the configured tz

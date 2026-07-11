@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 13:49:40
 status: done
-prompt: sdd/prompts/202605/chop_output_coverage.md
+prompt: sdd/plans/202605/prompts/chop_output_coverage.md
 bead_id: sase-36
 tier: epic
 ---

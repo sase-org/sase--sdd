@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-23 14:59:06
 status: done
-prompt: sdd/prompts/202604/skip_short_prompts_in_history.md
+prompt: sdd/plans/202604/prompts/skip_short_prompts_in_history.md
 tier: tale
 ---
 

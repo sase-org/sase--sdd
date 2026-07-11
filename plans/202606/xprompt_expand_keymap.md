@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-21 10:43:06
 status: done
-prompt: sdd/prompts/202606/xprompt_expand_keymap.md
+prompt: sdd/plans/202606/prompts/xprompt_expand_keymap.md
 bead_id: sase-53
 tier: epic
 ---

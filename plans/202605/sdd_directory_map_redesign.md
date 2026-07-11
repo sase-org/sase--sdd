@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-02 00:13:44
 status: done
-prompt: sdd/prompts/202605/sdd_directory_map_redesign.md
+prompt: sdd/plans/202605/prompts/sdd_directory_map_redesign.md
 tier: tale
 ---
 # Plan: Replace SDD Directory Map With a Practical Diagram

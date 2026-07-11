@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-13 14:06:06
 status: done
-prompt: sdd/prompts/202606/plan_list_perf.md
+prompt: sdd/plans/202606/prompts/plan_list_perf.md
 tier: tale
 ---
 # Plan: Make `sase plan list` Fast

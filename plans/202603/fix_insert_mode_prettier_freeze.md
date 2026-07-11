@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-29 14:52:43
 status: pending
-prompt: sdd/prompts/202603/fix_insert_mode_prettier_freeze.md
+prompt: sdd/plans/202603/prompts/fix_insert_mode_prettier_freeze.md
 tier: tale
 ---
 

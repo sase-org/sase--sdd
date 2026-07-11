@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-08 19:19:41
 status: done
-prompt: sdd/prompts/202604/fix_mentor_checks_timeout.md
+prompt: sdd/plans/202604/prompts/fix_mentor_checks_timeout.md
 tier: tale
 ---
 

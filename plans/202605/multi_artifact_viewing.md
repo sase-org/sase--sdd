@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-08 12:38:30
 status: done
-prompt: sdd/prompts/202605/multi_artifact_viewing.md
+prompt: sdd/plans/202605/prompts/multi_artifact_viewing.md
 tier: tale
 ---
 # Multi-Artifact Viewing Plan

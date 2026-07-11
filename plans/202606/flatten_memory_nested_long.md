@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-17 17:51:32
 status: done
-prompt: sdd/prompts/202606/flatten_memory_nested_long.md
+prompt: sdd/plans/202606/prompts/flatten_memory_nested_long.md
 bead_id: sase-4u
 tier: epic
 ---

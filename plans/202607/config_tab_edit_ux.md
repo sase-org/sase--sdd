@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-04 12:47:50
 status: wip
-prompt: sdd/prompts/202607/config_tab_edit_ux.md
+prompt: sdd/plans/202607/prompts/config_tab_edit_ux.md
 tier: tale
 ---
 # Plan: Make Config-Field Editing WAY Nicer in the Admin Center Config Tab

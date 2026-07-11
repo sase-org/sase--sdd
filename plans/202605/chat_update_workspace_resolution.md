@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-02 00:08:01
 status: proposed
-prompt: sdd/prompts/202605/chat_update_workspace_resolution.md
+prompt: sdd/plans/202605/prompts/chat_update_workspace_resolution.md
 tier: tale
 ---
 

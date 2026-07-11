@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 10:25:04
 status: done
-prompt: sdd/prompts/202605/notification_panel_startup_1.md
+prompt: sdd/plans/202605/prompts/notification_panel_startup_1.md
 tier: tale
 ---
 # Diagnose and Fix Startup Notification Panel

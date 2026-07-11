@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-26 14:27:54
 status: wip
-prompt: sdd/prompts/202603/workflow_child_agent_naming.md
+prompt: sdd/plans/202603/prompts/workflow_child_agent_naming.md
 tier: tale
 ---
 

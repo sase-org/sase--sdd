@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 16:07:47
 status: done
-prompt: sdd/prompts/202605/agent_archive_query.md
+prompt: sdd/plans/202605/prompts/agent_archive_query.md
 bead_id: sase-37
 tier: epic
 ---

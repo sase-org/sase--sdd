@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-31 07:59:16
 status: done
-prompt: sdd/prompts/202605/agents_md_headings.md
+prompt: sdd/plans/202605/prompts/agents_md_headings.md
 tier: tale
 ---
 # Plan: Update AMD-Generated AGENTS.md Memory Section Headings

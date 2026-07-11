@@ -2,7 +2,7 @@
 create_time: 2026-04-24 22:41:34
 status: done
 bead_id: sase-p
-prompt: sdd/prompts/202604/retired_chat_plugin.md
+prompt: sdd/plans/202604/prompts/retired_chat_plugin.md
 tier: epic
 ---
 # Plan: `retired chat plugin` — Google Chat integration plugin

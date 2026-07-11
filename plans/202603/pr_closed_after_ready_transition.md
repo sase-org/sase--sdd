@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-26 18:12:34
 status: done
-prompt: sdd/prompts/202603/pr_closed_after_ready_transition.md
+prompt: sdd/plans/202603/prompts/pr_closed_after_ready_transition.md
 tier: tale
 ---
 

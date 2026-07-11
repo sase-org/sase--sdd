@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-13 10:58:47
 status: done
-prompt: sdd/prompts/202605/tui_workspace_claim_transfer.md
+prompt: sdd/plans/202605/prompts/tui_workspace_claim_transfer.md
 tier: tale
 ---
 # Fix TUI Workspace Claim Transfer

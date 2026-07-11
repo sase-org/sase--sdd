@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-03 04:48:03
 status: done
-prompt: sdd/prompts/202606/ctrl_e_xprompt_select_1.md
+prompt: sdd/plans/202606/prompts/ctrl_e_xprompt_select_1.md
 tier: tale
 ---
 # Plan: Ctrl+E Editor Action in Select XPrompt

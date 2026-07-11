@@ -2,7 +2,7 @@
 title: Plugin catalog verification cleanup
 create_time: 2026-06-25 19:59:05
 status: done
-prompt: sdd/prompts/202606/plugin_catalog_verification.md
+prompt: sdd/plans/202606/prompts/plugin_catalog_verification.md
 tier: tale
 ---
 

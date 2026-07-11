@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-20 15:19:31
 status: done
-prompt: sdd/prompts/202605/claude_socket_retry.md
+prompt: sdd/plans/202605/prompts/claude_socket_retry.md
 tier: tale
 ---
 # Plan: Retry Claude Socket Closure Failures

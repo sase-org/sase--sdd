@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-27 09:25:32
 status: wip
-prompt: sdd/prompts/202606/xprompts_filter_focus.md
+prompt: sdd/plans/202606/prompts/xprompts_filter_focus.md
 tier: tale
 ---
 # Plan: XPrompts Filter Focus Behavior

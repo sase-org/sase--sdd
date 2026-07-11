@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-19 09:27:29
 status: done
-prompt: sdd/prompts/202606/fix_agents_project_grouping.md
+prompt: sdd/plans/202606/prompts/fix_agents_project_grouping.md
 tier: tale
 ---
 # Fix Agents Tab Project Grouping

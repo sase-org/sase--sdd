@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-11 20:59:30
 status: done
-prompt: sdd/prompts/202605/last_workflow_set_status_tool.md
+prompt: sdd/plans/202605/prompts/last_workflow_set_status_tool.md
 bead_id: sase-2z
 tier: epic
 ---

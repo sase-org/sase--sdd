@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-30 12:06:04
 status: done
-prompt: sdd/prompts/202603/fix_neovim_plugin_errors.md
+prompt: sdd/plans/202603/prompts/fix_neovim_plugin_errors.md
 tier: tale
 ---
 

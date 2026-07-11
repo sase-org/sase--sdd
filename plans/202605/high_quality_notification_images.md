@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 16:54:09
 status: done
-prompt: sdd/prompts/202605/high_quality_notification_images.md
+prompt: sdd/plans/202605/prompts/high_quality_notification_images.md
 tier: tale
 ---
 # High-Quality Notification Image Previews

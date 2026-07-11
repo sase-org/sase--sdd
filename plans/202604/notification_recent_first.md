@@ -1,7 +1,7 @@
 ---
 status: draft
 create_time: 2026-04-30 18:55:08
-prompt: sdd/prompts/202604/notification_recent_first.md
+prompt: sdd/plans/202604/prompts/notification_recent_first.md
 tier: tale
 ---
 

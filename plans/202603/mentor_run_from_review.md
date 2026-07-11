@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-22 19:22:16
 status: done
-prompt: sdd/prompts/202603/mentor_run_from_review.md
+prompt: sdd/plans/202603/prompts/mentor_run_from_review.md
 tier: tale
 ---
 

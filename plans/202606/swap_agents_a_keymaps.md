@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-26 17:19:10
 status: done
-prompt: sdd/prompts/202606/swap_agents_a_keymaps.md
+prompt: sdd/plans/202606/prompts/swap_agents_a_keymaps.md
 tier: tale
 ---
 # Swap Agents Tab a/A Keymaps

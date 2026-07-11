@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-08 21:53:11
 status: done
-prompt: .sase/sdd/prompts/202607/plugin_topic_double_dash.md
+prompt: .sase/sdd/plans/202607/prompts/plugin_topic_double_dash.md
 tier: tale
 ---
 # Plan: Switch the Plugin Catalog Topic to `sase--plugin`

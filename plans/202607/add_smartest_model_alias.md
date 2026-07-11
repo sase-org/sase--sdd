@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 09:48:59
 status: wip
-prompt: .sase/sdd/prompts/202607/add_smartest_model_alias.md
+prompt: .sase/sdd/plans/202607/prompts/add_smartest_model_alias.md
 tier: tale
 ---
 # Add the `smartest` Model Alias

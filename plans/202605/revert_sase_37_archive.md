@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-12 21:46:46
 status: done
-prompt: sdd/prompts/202605/revert_sase_37_archive.md
+prompt: sdd/plans/202605/prompts/revert_sase_37_archive.md
 bead_id: sase-3b
 tier: epic
 ---

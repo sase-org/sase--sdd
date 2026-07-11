@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-23 08:09:02
 status: done
-prompt: sdd/prompts/202606/question_continuation_planner_status.md
+prompt: sdd/plans/202606/prompts/question_continuation_planner_status.md
 tier: tale
 ---
 # Plan: Fix status + runtime for a `%approve` question-continuation planner family

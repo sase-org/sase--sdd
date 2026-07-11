@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-02 15:29:21
 status: done
-prompt: sdd/prompts/202605/zorg_epic_linking.md
+prompt: sdd/plans/202605/prompts/zorg_epic_linking.md
 tier: tale
 ---
 # Fix Epic Bead Legend Linking

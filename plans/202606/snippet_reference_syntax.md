@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-21 10:22:06
 status: done
-prompt: sdd/prompts/202606/snippet_reference_syntax.md
+prompt: sdd/plans/202606/prompts/snippet_reference_syntax.md
 tier: tale
 ---
 # Plan: `#[<snippet>]` snippet-reuse syntax

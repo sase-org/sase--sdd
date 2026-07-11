@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-13 14:24:39
 status: wip
-prompt: sdd/prompts/202606/prompt_command.md
+prompt: sdd/plans/202606/prompts/prompt_command.md
 bead_id: sase-4o
 tier: epic
 ---

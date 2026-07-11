@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-24 21:42:27
 status: done
-prompt: sdd/prompts/202604/telegram_launch_retry_button.md
+prompt: sdd/plans/202604/prompts/telegram_launch_retry_button.md
 tier: tale
 ---
 # Add Retry Copy Button to Telegram Agent Launch Message

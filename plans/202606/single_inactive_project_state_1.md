@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-02 12:52:11
 status: done
-prompt: sdd/prompts/202606/single_inactive_project_state_1.md
+prompt: sdd/plans/202606/prompts/single_inactive_project_state_1.md
 tier: tale
 ---
 # Plan: Single Inactive Project State

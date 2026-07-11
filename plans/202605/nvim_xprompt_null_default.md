@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-22 14:38:26
 status: done
-prompt: sdd/prompts/202605/nvim_xprompt_null_default.md
+prompt: sdd/plans/202605/prompts/nvim_xprompt_null_default.md
 tier: tale
 ---
 # Fix Neovim xprompt optional null defaults

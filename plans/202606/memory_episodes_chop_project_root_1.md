@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-01 08:28:22
 status: done
-prompt: sdd/prompts/202606/memory_episodes_chop_project_root_1.md
+prompt: sdd/plans/202606/prompts/memory_episodes_chop_project_root_1.md
 tier: tale
 ---
 # Fix memory_episodes Chop Project Targeting

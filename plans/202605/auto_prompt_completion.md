@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 12:45:41
 status: wip
-prompt: sdd/prompts/202605/auto_prompt_completion.md
+prompt: sdd/plans/202605/prompts/auto_prompt_completion.md
 tier: tale
 ---
 # Auto-Start Prompt Completion Plan

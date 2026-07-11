@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-26 17:06:57
 status: wip
-prompt: sdd/prompts/202606/swap_a_big_a_keymaps.md
+prompt: sdd/plans/202606/prompts/swap_a_big_a_keymaps.md
 tier: tale
 ---
 # Swap a/A ACE Keymaps Plan

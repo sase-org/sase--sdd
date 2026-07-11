@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-11 12:32:25
 status: done
-prompt: .sase/sdd/prompts/202607/instant_update_confirmation.md
+prompt: .sase/sdd/plans/202607/prompts/instant_update_confirmation.md
 tier: tale
 ---
 # Make `,U` Open Update Confirmation Immediately After Refresh

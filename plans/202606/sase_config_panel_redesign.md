@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-26 09:07:24
 status: done
-prompt: sdd/prompts/202606/sase_config_panel_redesign.md
+prompt: sdd/plans/202606/prompts/sase_config_panel_redesign.md
 tier: tale
 ---
 # Plan: Beautify the "SASE Config" panel (Config Center modal)

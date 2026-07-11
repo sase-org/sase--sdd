@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-11 00:31:41
 status: done
-prompt: sdd/prompts/202604/wait_absolute_time.md
+prompt: sdd/plans/202604/prompts/wait_absolute_time.md
 tier: tale
 ---
 

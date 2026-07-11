@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-24 07:05:13
 status: done
-prompt: sdd/prompts/202606/archive_git_worktree_delete.md
+prompt: sdd/plans/202606/prompts/archive_git_worktree_delete.md
 tier: tale
 ---
 # Fix Git Archive Branch Deletion From Checked-Out Worktrees

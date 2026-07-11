@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-24 06:49:58
 status: done
-prompt: sdd/prompts/202606/fix_commits_panel_snapshot.md
+prompt: sdd/plans/202606/prompts/fix_commits_panel_snapshot.md
 tier: tale
 ---
 # Fix the failing `test_agents_commit_messages_panel_png_snapshot` visual test

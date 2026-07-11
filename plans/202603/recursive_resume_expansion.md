@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-28 18:22:03
 status: done
-prompt: sdd/prompts/202603/recursive_resume_expansion.md
+prompt: sdd/plans/202603/prompts/recursive_resume_expansion.md
 tier: tale
 ---
 

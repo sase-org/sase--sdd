@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-07 16:59:02
 status: wip
-prompt: sdd/prompts/202604/fix_revive_agent.md
+prompt: sdd/plans/202604/prompts/fix_revive_agent.md
 tier: tale
 ---
 

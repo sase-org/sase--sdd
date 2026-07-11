@@ -1,7 +1,7 @@
 ---
 create_time: 2026-06-20 18:59:13
 status: done
-prompt: sdd/prompts/202606/log_panel_g_scroll.md
+prompt: sdd/plans/202606/prompts/log_panel_g_scroll.md
 tier: tale
 ---
 # Plan: Add `g` / `G` Top-Bottom Scrolling to the ACE Logs Panel

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-15 12:09:54
 status: wip
-prompt: sdd/prompts/202604/claude_code_nvim_termclose_fix.md
+prompt: sdd/plans/202604/prompts/claude_code_nvim_termclose_fix.md
 tier: tale
 ---
 

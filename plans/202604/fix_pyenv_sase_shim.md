@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-11 22:50:15
 status: wip
-prompt: sdd/prompts/202604/fix_pyenv_sase_shim.md
+prompt: sdd/plans/202604/prompts/fix_pyenv_sase_shim.md
 tier: tale
 ---
 

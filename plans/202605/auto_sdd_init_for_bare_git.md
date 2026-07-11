@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-27 12:40:01
 status: done
-prompt: sdd/prompts/202605/auto_sdd_init_for_bare_git.md
+prompt: sdd/plans/202605/prompts/auto_sdd_init_for_bare_git.md
 tier: tale
 ---
 # Plan: Auto-Run SDD Init For Bare-Git Repositories

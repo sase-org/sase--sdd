@@ -1,7 +1,7 @@
 ---
 create_time: 2026-03-28 13:01:29
 status: done
-prompt: sdd/prompts/202603/plan_drawer.md
+prompt: sdd/plans/202603/prompts/plan_drawer.md
 tier: tale
 ---
 

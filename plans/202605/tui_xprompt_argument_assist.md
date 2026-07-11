@@ -1,7 +1,7 @@
 ---
 create_time: 2026-05-07 00:12:22
 status: done
-prompt: sdd/prompts/202605/tui_xprompt_argument_assist.md
+prompt: sdd/plans/202605/prompts/tui_xprompt_argument_assist.md
 bead_id: sase-28
 tier: epic
 ---

@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-24 09:49:56
 status: done
-prompt: sdd/prompts/202604/fix_ci_file_not_found_sase.md
+prompt: sdd/plans/202604/prompts/fix_ci_file_not_found_sase.md
 tier: tale
 ---
 # Fix CI `FileNotFoundError: 'sase'` in Commit Workflow Tests

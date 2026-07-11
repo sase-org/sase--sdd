@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-04 16:13:52
 status: done
-prompt: sdd/prompts/202604/fix_mentor_profiles_loading.md
+prompt: sdd/plans/202604/prompts/fix_mentor_profiles_loading.md
 tier: tale
 ---
 

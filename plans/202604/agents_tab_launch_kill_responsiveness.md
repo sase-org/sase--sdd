@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-24 16:06:11
 status: proposed
-prompt: sdd/prompts/202604/agents_tab_launch_kill_responsiveness.md
+prompt: sdd/plans/202604/prompts/agents_tab_launch_kill_responsiveness.md
 tier: tale
 ---
 

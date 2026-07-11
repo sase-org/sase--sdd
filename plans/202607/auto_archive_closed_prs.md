@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-02 07:16:49
 status: done
-prompt: sdd/prompts/202607/auto_archive_closed_prs.md
+prompt: sdd/plans/202607/prompts/auto_archive_closed_prs.md
 tier: tale
 ---
 # Auto-archive ChangeSpecs whose PRs were closed without merging

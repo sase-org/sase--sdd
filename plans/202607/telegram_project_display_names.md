@@ -1,7 +1,7 @@
 ---
 create_time: 2026-07-06 15:52:16
 status: wip
-prompt: sdd/prompts/202607/telegram_project_display_names.md
+prompt: sdd/plans/202607/prompts/telegram_project_display_names.md
 tier: tale
 ---
 # Plan: Telegram Project Display Names

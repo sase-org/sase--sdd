@@ -1,7 +1,7 @@
 ---
 create_time: 2026-04-08 21:22:45
 status: wip
-prompt: sdd/prompts/202604/fix_prometheus.md
+prompt: sdd/plans/202604/prompts/fix_prometheus.md
 tier: tale
 ---
 
