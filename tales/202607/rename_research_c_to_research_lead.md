@@ -1,7 +1,7 @@
 ---
-create_time: 2026-07-11 09:39:49
+create_time: 2026-07-11 09:44:44
 status: wip
-prompt: .sase/sdd/prompts/202607/rename_research_c_to_research_lead.md
+prompt: prompts/202607/rename_research_c_to_research_lead.md
 ---
 # Plan: Rename the Research-C Model Alias to Research-Lead
 
