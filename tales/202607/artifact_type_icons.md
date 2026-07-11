@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-11 12:45:13
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/artifact_type_icons.md
 ---
 # Plan: Artifact‑type icons in the Agents‑tab "Artifacts:" panel
