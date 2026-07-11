@@ -10,14 +10,14 @@ agent environments to locate it.
 ## Directory Layout
 
 - `prompts/` stores the original user prompts or expanded prompt snapshots that led to plan-like artifacts.
-- `plans/` stores implementation plans. Its required `tier` frontmatter is `tale` for focused task plans or `epic` for
-  larger multi-phase plans.
+- `tales/` stores task-level implementation plans and follow-up plans.
+- `epics/` stores larger work plans that may be split into phase beads.
 - `research/` stores exploratory findings, prior art, options, critiques, and recommendations that inform later work.
 - `beads/` stores bead issue data for SDD-backed work tracking.
 
-Prompt, plan, and research files are normally organized under a `YYYYMM/` month directory relative to this root, for
-example `prompts/202605/example.md`, `plans/202605/example.md`, and `research/202605/example.md`. Prompt files should
-link to their generated plan-like artifact with frontmatter such as `plan: plans/202605/example.md`; the
+Prompt, tale, epic, and research files are normally organized under a `YYYYMM/` month directory relative to this
+root, for example `prompts/202605/example.md`, `tales/202605/example.md`, and `research/202605/example.md`. Prompt files
+should link to their generated plan-like artifact with frontmatter such as `plan: tales/202605/example.md`; the
 plan-like artifact should link back with `prompt: prompts/202605/example.md`.
 
 ## Commands
@@ -31,6 +31,6 @@ plan-like artifact should link back with `prompt: prompts/202605/example.md`.
 
 ## Compatibility
 
-The canonical directories are `prompts/`, `plans/`, `research/`, and `beads/`. Older trees may still contain `specs/`
-for prompt snapshots or `tales/` and `epics/` for plans. Very old `plans/` links meant tales. SDD tooling resolves these
-legacy spellings in both directions, while `sase sdd init` migrates stored files to canonical `plans/` paths.
+The canonical directories are `prompts/`, `tales/`, `epics/`, `research/`, and `beads/`. Older
+trees may still contain `specs/` for prompt snapshots or `plans/` for tale-like plans; SDD tooling keeps limited
+compatibility for those legacy names, but new artifacts should use `prompts/` and `tales/`.
