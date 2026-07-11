@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-11 10:06:35
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/coders_model_alias_bucket.md
 ---
 # Consolidate coder model aliases into the `coders` bucket
