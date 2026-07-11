@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-11 08:14:40
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/commit_hooks.md
 ---
 # Plan: Before/After Commit Hooks
