@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-11 14:31:05
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/hide_audit_chop_notifications.md
 tier: tale
 ---
