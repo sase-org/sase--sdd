@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-11 08:32:44
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/commits_panel_linked_repo_attribution.md
 ---
 # Fix Agents-tab COMMITS panel misattributing linked-repo commits to the primary repo
