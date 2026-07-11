@@ -2,6 +2,7 @@
 create_time: 2026-07-11 19:07:12
 status: wip
 prompt: .sase/sdd/plans/202607/prompts/sdd_split_into_plans_and_research_repos.md
+bead_id: sase-5q
 tier: epic
 ---
 # Plan: Split the SDD companion repo into `--plans` and `--research` linked repos
