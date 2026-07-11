@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-11 09:59:59
-status: wip
+status: done
 prompt: prompts/202607/models_panel_no_wrap_width.md
 ---
 # Plan: Widen the Models Panel for Single-Line Content
