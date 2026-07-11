@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-11 16:07:35
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/retire_legacy_plan_layout.md
 tier: tale
 ---
