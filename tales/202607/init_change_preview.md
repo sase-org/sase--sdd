@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-11 09:02:30
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/init_change_preview.md
 ---
 # `sase init` Change Preview: See Exactly What Will Change Before Saying Yes
