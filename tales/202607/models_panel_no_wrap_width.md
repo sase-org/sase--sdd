@@ -1,7 +1,7 @@
 ---
-create_time: 2026-07-11 09:50:58
+create_time: 2026-07-11 09:59:59
 status: wip
-prompt: .sase/sdd/prompts/202607/models_panel_no_wrap_width.md
+prompt: prompts/202607/models_panel_no_wrap_width.md
 ---
 # Plan: Widen the Models Panel for Single-Line Content
 
