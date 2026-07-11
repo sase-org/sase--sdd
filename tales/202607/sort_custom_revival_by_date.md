@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-11 13:19:52
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/sort_custom_revival_by_date.md
 ---
 # Plan: Sort Custom Revival Results Newest First
