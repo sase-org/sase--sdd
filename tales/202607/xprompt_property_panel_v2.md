@@ -1,6 +1,6 @@
 ---
 create_time: 2026-07-10 19:09:47
-status: wip
+status: done
 prompt: .sase/sdd/prompts/202607/xprompt_property_panel_v2.md
 ---
 # XPrompt Property Panel v2 — In-Place XPrompt Authoring
